@@ -136,13 +136,13 @@ def data_att(dir_name):
         for direct in directory_name:
             if(direct != "Results/"):
                 name_Direct=os.listdir(path+dir+"/vtr/"+direct)
-                vtr_Direct="./public/data1/"+dir_name+'/'+direct
+                vtr_Direct="./public/data/"+dir_name+'/'+direct
                 for name in name_Direct:
                 
                     shutil.move(path+dir+"/vtr/"+direct+name,vtr_Direct+name) 
             else:
                 name_Direct=os.listdir(path+dir+"/vtr/Results/")
-                vtr_Direct="./public/data1/"+dir_name+"/Results/"
+                vtr_Direct="./public/data/"+dir_name+"/Results/"
                 for name in name_Direct:
                     name_Direct_results=os.listdir(path+dir+"/vtr/Results/"+name)
                     for results in name_Direct_results:
