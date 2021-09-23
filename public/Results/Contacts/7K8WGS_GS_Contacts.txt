@@ -1,0 +1,51 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             27-SEP-20   7K8W             
+STRUCTURE OF THE SARS-COV-2 S 2P TRIMER IN COMPLEX WITH THE HUMANNEUTRALIZING ANTIBODY FAB FRAGMENT, C119:
+
+0 - G TYR 449 O    VS S TYR 29 OH  
+Distance: 3.075982 - Hydrogen Bonds, 
+1 - G TYR 449 N    VS S TYR 90 OH  
+Distance: 3.171057 - Hydrogen Bonds, 
+2 - G TYR 449 CB   VS S TYR 90 CD2 
+Distance: 4.167425 - Hydrophobic, 
+3 - G TYR 449 CB   VS S TYR 90 CE1 
+Distance: 3.834398 - Hydrophobic, 
+4 - G TYR 449 CB   VS S TYR 90 CE2 
+Distance: 3.370174 - Hydrophobic, 
+5 - G TYR 449 CG   VS S TYR 90 CG  
+Distance: 5.370533 - Aromatic Stacking, 
+6 - G TYR 449 CG   VS S TYR 90 CE1 
+Distance: 4.207762 - Hydrophobic, 
+7 - G TYR 449 CG   VS S TYR 90 CE2 
+Distance: 4.459947 - Hydrophobic, 
+8 - G TYR 449 CD2  VS S TYR 90 CD1 
+Distance: 4.104912 - Hydrophobic, 
+9 - G TYR 449 CD2  VS S TYR 90 CE1 
+Distance: 3.648529 - Hydrophobic, 
+10 - G ASN 450 N    VS S TYR 29 OH  
+Distance: 3.816534 - Hydrogen Bonds, 
+11 - G ASN 450 O    VS S TYR 29 OH  
+Distance: 3.678182 - Hydrogen Bonds, 
+12 - G ASN 450 OD1  VS S TYR 29 OH  
+Distance: 3.796837 - Hydrogen Bonds, 
+13 - G ASN 450 N    VS S TYR 90 OH  
+Distance: 3.637315 - Hydrogen Bonds, 
+14 - G ASN 450 OD1  VS S SER 92 OG  
+Distance: 2.042938 - Hydrogen Bonds, 
+15 - G ASN 450 ND2  VS S SER 92 O   
+Distance: 3.056526 - Hydrogen Bonds, 
+16 - G ASN 450 ND2  VS S SER 92 OG  
+Distance: 3.696651 - Hydrogen Bonds, 
+17 - G LEU 452 CG   VS S TYR 29 CE1 
+Distance: 4.049855 - Hydrophobic, 
+18 - G LEU 452 CD1  VS S TYR 29 CD1 
+Distance: 4.440940 - Hydrophobic, 
+19 - G LEU 452 CD1  VS S TYR 29 CE1 
+Distance: 3.417860 - Hydrophobic, 
+20 - G LEU 452 CD2  VS S TYR 29 CD1 
+Distance: 4.343332 - Hydrophobic, 
+21 - G LEU 452 CD2  VS S TYR 29 CE1 
+Distance: 4.044544 - Hydrophobic, 
+22 - G GLU 484 OE2  VS S LYS 30 NZ  
+Distance: 4.826133 - Attractive, 
+23 - G GLN 493 OE1  VS S LYS 30 NZ  
+Distance: 2.359888 - Hydrogen Bonds, 

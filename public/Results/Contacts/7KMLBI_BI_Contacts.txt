@@ -1,0 +1,65 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             03-NOV-20   7KML             
+CRYO-EM STRUCTURE OF SARS-COV-2 SPIKE IN COMPLEX WITH FAB 15033-7, THREE RBDS BOUND:
+
+0 - B LEU 455 CD1  VS I PHE 113 CE2 
+Distance: 3.637826 - Hydrophobic, 
+1 - B LEU 455 CD1  VS I PHE 113 CZ  
+Distance: 3.581050 - Hydrophobic, 
+2 - B PHE 456 CG   VS I PHE 113 CD1 
+Distance: 5.946494 - Aromatic Stacking, 
+3 - B PHE 456 CE1  VS I PHE 113 CE1 
+Distance: 4.271421 - Hydrophobic, 
+4 - B PHE 456 CE1  VS I PHE 113 CZ  
+Distance: 4.231075 - Hydrophobic, 
+5 - B PHE 456 CZ   VS I PHE 113 CE1 
+Distance: 4.020237 - Hydrophobic, 
+6 - B PHE 456 CZ   VS I PHE 113 CZ  
+Distance: 4.308066 - Hydrophobic, 
+7 - B GLU 484 CB   VS I TYR 110 CD1 
+Distance: 4.241682 - Hydrophobic, 
+8 - B GLU 484 CB   VS I TYR 110 CE1 
+Distance: 3.884067 - Hydrophobic, 
+9 - B PHE 486 CE1  VS I TYR 57 CB  
+Distance: 4.453737 - Hydrophobic, 
+10 - B PHE 486 CZ   VS I TYR 57 CB  
+Distance: 4.168073 - Hydrophobic, 
+11 - B PHE 486 CD1  VS I ALA 64 CB  
+Distance: 4.260321 - Hydrophobic, 
+12 - B PHE 486 CE1  VS I ALA 64 CB  
+Distance: 4.273351 - Hydrophobic, 
+13 - B PHE 486 CB   VS I ALA 66 CB  
+Distance: 4.213927 - Hydrophobic, 
+14 - B PHE 486 CG   VS I ALA 66 CB  
+Distance: 3.828565 - Hydrophobic, 
+15 - B PHE 486 CD1  VS I ALA 66 CB  
+Distance: 3.871948 - Hydrophobic, 
+16 - B PHE 486 CD2  VS I ALA 66 CB  
+Distance: 4.176182 - Hydrophobic, 
+17 - B PHE 486 CE1  VS I ALA 66 CB  
+Distance: 4.256874 - Hydrophobic, 
+18 - B PHE 486 CG   VS I TYR 110 CB  
+Distance: 4.472287 - Hydrophobic, 
+19 - B PHE 486 CG   VS I TYR 110 CG  
+Distance: 5.210777 - Aromatic Stacking, 
+20 - B PHE 486 CG   VS I TYR 110 CD2 
+Distance: 4.086124 - Hydrophobic, 
+21 - B PHE 486 CD1  VS I TYR 110 CD2 
+Distance: 4.052311 - Hydrophobic, 
+22 - B PHE 486 CD2  VS I TYR 110 CB  
+Distance: 3.943972 - Hydrophobic, 
+23 - B PHE 486 CD2  VS I TYR 110 CD2 
+Distance: 4.084392 - Hydrophobic, 
+24 - B PHE 486 CE1  VS I TYR 110 CD2 
+Distance: 4.046703 - Hydrophobic, 
+25 - B PHE 486 CE2  VS I TYR 110 CB  
+Distance: 4.181672 - Hydrophobic, 
+26 - B PHE 486 CE2  VS I TYR 110 CD2 
+Distance: 4.106780 - Hydrophobic, 
+27 - B PHE 486 CZ   VS I TYR 110 CD2 
+Distance: 4.091329 - Hydrophobic, 
+28 - B TYR 489 CE2  VS I TYR 110 CB  
+Distance: 3.789560 - Hydrophobic, 
+29 - B TYR 489 OH   VS I TYR 110 O   
+Distance: 2.779180 - Hydrogen Bonds, 
+30 - B GLN 493 OE1  VS I TYR 109 OH  
+Distance: 3.408854 - Hydrogen Bonds, 

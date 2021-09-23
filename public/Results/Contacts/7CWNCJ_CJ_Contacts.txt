@@ -1,0 +1,69 @@
+VIRAL PROTEIN                           29-AUG-20   7CWN             
+P17-H014 FAB COCKTAIL IN COMPLEX WITH SARS-COV-2 SPIKE PROTEIN:
+
+0 - C GLU 484 O    VS J ARG 96 NH1 
+Distance: 3.822426 - Hydrogen Bonds, 
+1 - C GLU 484 O    VS J ARG 96 NH2 
+Distance: 2.616070 - Hydrogen Bonds, 
+2 - C GLU 484 OE1  VS J ARG 96 NE  
+Distance: 5.802491 - Attractive, 
+3 - C GLU 484 OE1  VS J ARG 96 CZ  
+Distance: 5.337238 - Attractive, 
+4 - C GLU 484 OE1  VS J ARG 96 NH1 
+Distance: 5.918056 - Attractive, 
+5 - C GLU 484 OE1  VS J ARG 96 NH2 
+Distance: 4.726805 - Attractive, 
+6 - C GLU 484 OE2  VS J ARG 96 NE  
+Distance: 4.421249 - Attractive, 
+7 - C GLU 484 OE2  VS J ARG 96 CZ  
+Distance: 4.441977 - Attractive, 
+8 - C GLU 484 OE2  VS J ARG 96 NH1 
+Distance: 5.330682 - Attractive, 
+9 - C GLU 484 OE2  VS J ARG 96 NH2 
+Distance: 4.092657 - Attractive, 
+10 - C PHE 486 CB   VS J TYR 32 CD2 
+Distance: 4.417317 - Hydrophobic, 
+11 - C PHE 486 CB   VS J TYR 32 CE2 
+Distance: 3.883483 - Hydrophobic, 
+12 - C PHE 486 CG   VS J TYR 32 CG  
+Distance: 5.867835 - Aromatic Stacking, 
+13 - C PHE 486 CG   VS J TYR 32 CE2 
+Distance: 4.124347 - Hydrophobic, 
+14 - C PHE 486 CD1  VS J TYR 32 CD2 
+Distance: 4.197221 - Hydrophobic, 
+15 - C PHE 486 CD1  VS J TYR 32 CE2 
+Distance: 3.413366 - Hydrophobic, 
+16 - C PHE 486 CE1  VS J TYR 32 CE2 
+Distance: 4.390231 - Hydrophobic, 
+17 - C PHE 486 N    VS J TYR 92 O   
+Distance: 3.020690 - Hydrogen Bonds, 
+18 - C PHE 486 CB   VS J TYR 92 CG  
+Distance: 4.238024 - Hydrophobic, 
+19 - C PHE 486 CB   VS J TYR 92 CD1 
+Distance: 3.949079 - Hydrophobic, 
+20 - C PHE 486 CB   VS J TYR 92 CE1 
+Distance: 3.970102 - Hydrophobic, 
+21 - C PHE 486 CG   VS J TYR 92 CG  
+Distance: 4.337387 - Aromatic Stacking, 
+22 - C PHE 486 CG   VS J TYR 92 CD1 
+Distance: 3.874379 - Hydrophobic, 
+23 - C PHE 486 CG   VS J TYR 92 CE1 
+Distance: 3.433868 - Hydrophobic, 
+24 - C PHE 486 CG   VS J TYR 92 CE2 
+Distance: 4.438244 - Hydrophobic, 
+25 - C PHE 486 CD1  VS J TYR 92 CD1 
+Distance: 3.870327 - Hydrophobic, 
+26 - C PHE 486 CD1  VS J TYR 92 CE1 
+Distance: 3.450833 - Hydrophobic, 
+27 - C PHE 486 CD2  VS J TYR 92 CD1 
+Distance: 4.491161 - Hydrophobic, 
+28 - C PHE 486 CD2  VS J TYR 92 CE1 
+Distance: 3.694262 - Hydrophobic, 
+29 - C PHE 486 CD2  VS J TYR 92 CE2 
+Distance: 4.279685 - Hydrophobic, 
+30 - C PHE 486 CE1  VS J TYR 92 CE1 
+Distance: 3.764980 - Hydrophobic, 
+31 - C PHE 486 CE2  VS J TYR 92 CE1 
+Distance: 3.984491 - Hydrophobic, 
+32 - C PHE 486 CZ   VS J TYR 92 CE1 
+Distance: 4.015598 - Hydrophobic, 

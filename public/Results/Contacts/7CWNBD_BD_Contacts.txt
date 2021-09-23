@@ -1,0 +1,49 @@
+VIRAL PROTEIN                           29-AUG-20   7CWN             
+P17-H014 FAB COCKTAIL IN COMPLEX WITH SARS-COV-2 SPIKE PROTEIN:
+
+0 - B TYR 369 O    VS D TRP 93 NE1 
+Distance: 1.435087 - Hydrogen Bonds, 
+1 - B TYR 369 CB   VS D TRP 93 CZ2 
+Distance: 2.949056 - Hydrophobic, 
+2 - B TYR 369 CB   VS D TRP 93 CH2 
+Distance: 3.549327 - Hydrophobic, 
+3 - B TYR 369 CG   VS D TRP 93 CZ2 
+Distance: 3.710801 - Hydrophobic, 
+4 - B TYR 369 CG   VS D TRP 93 CH2 
+Distance: 3.766220 - Hydrophobic, 
+5 - B TYR 369 CD1  VS D TRP 93 CZ2 
+Distance: 3.937297 - Hydrophobic, 
+6 - B TYR 369 CD1  VS D TRP 93 CZ3 
+Distance: 4.276476 - Hydrophobic, 
+7 - B TYR 369 CD1  VS D TRP 93 CH2 
+Distance: 3.646960 - Hydrophobic, 
+8 - B ALA 372 O    VS D PHE 92 N   
+Distance: 3.886710 - Hydrogen Bonds, 
+9 - B ALA 372 O    VS D TRP 93 N   
+Distance: 2.998256 - Hydrogen Bonds, 
+10 - B ALA 372 CB   VS D TRP 93 CB  
+Distance: 3.299959 - Hydrophobic, 
+11 - B ALA 372 CB   VS D TRP 93 CG  
+Distance: 3.008763 - Hydrophobic, 
+12 - B ALA 372 CB   VS D TRP 93 CD2 
+Distance: 4.230215 - Hydrophobic, 
+13 - B ALA 372 CB   VS D PRO 94 CG  
+Distance: 3.937668 - Hydrophobic, 
+14 - B SER 373 N    VS D PHE 92 O   
+Distance: 3.509910 - Hydrogen Bonds, 
+15 - B PHE 374 O    VS D TRP 93 N   
+Distance: 2.665793 - Hydrogen Bonds, 
+16 - B PHE 374 CB   VS D TRP 93 CB  
+Distance: 4.304435 - Hydrophobic, 
+17 - B PHE 377 CG   VS D TRP 93 CG  
+Distance: 5.734938 - Aromatic Stacking, 
+18 - B PHE 377 CG   VS D TRP 93 CE3 
+Distance: 4.398129 - Hydrophobic, 
+19 - B PHE 377 CD2  VS D TRP 93 CE3 
+Distance: 3.874915 - Hydrophobic, 
+20 - B PHE 377 CD2  VS D TRP 93 CZ3 
+Distance: 3.716405 - Hydrophobic, 
+21 - B PHE 377 CE2  VS D TRP 93 CE3 
+Distance: 4.365528 - Hydrophobic, 
+22 - B PHE 377 CE2  VS D TRP 93 CZ3 
+Distance: 3.948842 - Hydrophobic, 

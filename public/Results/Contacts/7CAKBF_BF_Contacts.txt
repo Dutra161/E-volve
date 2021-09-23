@@ -1,0 +1,7 @@
+VIRAL PROTEIN                           08-JUN-20   7CAK             
+SARS-COV-2 S TRIMER WITH THREE RBD IN THE OPEN STATE AND COMPLEXED WITH THREE H014 FAB:
+
+0 - B ALA 372 CB   VS F PHE 92 CD1 
+Distance: 3.892823 - Hydrophobic, 
+1 - B ALA 372 CB   VS F PHE 92 CE1 
+Distance: 3.885634 - Hydrophobic, 

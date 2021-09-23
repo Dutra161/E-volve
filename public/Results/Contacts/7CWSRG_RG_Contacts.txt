@@ -1,0 +1,55 @@
+VIRAL PROTEIN                           31-AUG-20   7CWS             
+SARS-COV-2 SPIKE PROTEINS TRIMER IN COMPLEX WITH FC05 AND H014 FABSCOCKTAIL:
+
+0 - G TYR 50 OH   VS R THR 376 OG1 
+Distance: 2.144454 - Hydrogen Bonds, 
+1 - G TYR 50 OH   VS R PHE 377 N   
+Distance: 2.956100 - Hydrogen Bonds, 
+2 - G TYR 50 OH   VS R PHE 377 O   
+Distance: 3.299700 - Hydrogen Bonds, 
+3 - G ASN 55 CB   VS R TYR 380 CE1 
+Distance: 4.490567 - Hydrophobic, 
+4 - G THR 58 OG1  VS R LYS 378 NZ  
+Distance: 3.210673 - Hydrogen Bonds, 
+5 - G SER 59 OG   VS R PHE 377 O   
+Distance: 3.613063 - Hydrogen Bonds, 
+6 - G LEU 62 CD2  VS R TYR 369 CD1 
+Distance: 4.329608 - Hydrophobic, 
+7 - G LEU 62 CD2  VS R TYR 369 CE1 
+Distance: 3.597071 - Hydrophobic, 
+8 - G LEU 62 CD1  VS R THR 385 CG2 
+Distance: 3.911487 - Hydrophobic, 
+9 - G LYS 65 CD   VS R THR 385 CG2 
+Distance: 3.852701 - Hydrophobic, 
+10 - G LYS 65 NZ   VS R THR 385 OG1 
+Distance: 2.461196 - Hydrogen Bonds, 
+11 - G THR 69 OG1  VS R SER 383 OG  
+Distance: 3.744991 - Hydrogen Bonds, 
+12 - G TYR 101 CD2  VS R ARG 408 CB  
+Distance: 4.236393 - Hydrophobic, 
+13 - G TYR 101 CD2  VS R ARG 408 CG  
+Distance: 3.876190 - Hydrophobic, 
+14 - G TYR 101 CE2  VS R ARG 408 CB  
+Distance: 4.068867 - Hydrophobic, 
+15 - G TYR 101 CE2  VS R ARG 408 CG  
+Distance: 3.485382 - Hydrophobic, 
+16 - G TYR 101 OH   VS R GLN 414 NE2 
+Distance: 3.856337 - Hydrogen Bonds, 
+17 - G ASP 102 OD1  VS R ASP 405 OD1 
+Distance: 4.505353 - Repulsive, 
+18 - G ASP 102 OD1  VS R ASP 405 OD2 
+Distance: 5.024058 - Repulsive, 
+19 - G ASP 102 OD2  VS R ASP 405 OD1 
+Distance: 3.676472 - Repulsive, 
+20 - G ASP 102 OD2  VS R ASP 405 OD2 
+Distance: 3.779842 - Repulsive, 
+21 - G ASP 102 OD1  VS R ARG 408 NE  
+Distance: 4.613115 - Attractive, 
+22 - G ASP 102 OD1  VS R ARG 408 CZ  
+Distance: 5.793997 - Attractive, 
+23 - G PRO 103 CB   VS R TYR 508 CE2 
+Distance: 3.989371 - Hydrophobic, 
+24 - G PRO 103 CG   VS R TYR 508 CE2 
+Distance: 4.010309 - Hydrophobic, 
+25 - G TYR 105 OH   VS R THR 376 OG1 
+Distance: 3.751920 - Hydrogen Bonds, 

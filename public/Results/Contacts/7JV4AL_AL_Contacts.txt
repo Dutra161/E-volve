@@ -1,0 +1,17 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             20-AUG-20   7JV4             
+SARS-COV-2 SPIKE IN COMPLEX WITH THE S2H13 NEUTRALIZING ANTIBODY (ONERBD OPEN):
+
+0 - A TYR 449 CB   VS L ALA 62 CB  
+Distance: 4.034145 - Hydrophobic, 
+1 - A TYR 449 CG   VS L ALA 62 CB  
+Distance: 3.768464 - Hydrophobic, 
+2 - A TYR 449 CD2  VS L ALA 62 CB  
+Distance: 3.316268 - Hydrophobic, 
+3 - A TYR 449 CE2  VS L ALA 62 CB  
+Distance: 3.850689 - Hydrophobic, 
+4 - A TYR 449 OH   VS L ALA 62 O   
+Distance: 3.683905 - Hydrogen Bonds, 
+5 - A TYR 449 CE1  VS L ARG 63 CB  
+Distance: 4.252342 - Hydrophobic, 
+6 - A TYR 489 CE1  VS L ASN 55 CB  
+Distance: 4.314751 - Hydrophobic, 

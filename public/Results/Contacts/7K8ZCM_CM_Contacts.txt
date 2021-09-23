@@ -1,0 +1,11 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             27-SEP-20   7K8Z             
+STRUCTURE OF THE SARS-COV-2 S 2P TRIMER IN COMPLEX WITH THE HUMANNEUTRALIZING ANTIBODY FAB FRAGMENT, C135:
+
+0 - C ASN 437 O    VS M ARG 55 NE  
+Distance: 3.879231 - Hydrogen Bonds, 
+1 - C SER 438 O    VS M ARG 55 NH1 
+Distance: 3.731782 - Hydrogen Bonds, 
+2 - C ASN 440 CB   VS M PRO 52 CB  
+Distance: 3.325199 - Hydrophobic, 
+3 - C ASN 440 CB   VS M PRO 52 CG  
+Distance: 4.461156 - Hydrophobic, 

@@ -1,0 +1,49 @@
+IMMUNE SYSTEM                           17-JUN-20   6ZFO             
+ASSOCIATION OF TWO COMPLEXES OF LARGELY STRUCTURALLY DISORDERED SPIKEECTODOMAIN WITH BOUND EY6A FAB:
+
+0 - A PHE 377 CD1  VS C LEU 95 CD1 
+Distance: 3.580923 - Hydrophobic, 
+1 - A PHE 377 CE1  VS C LEU 95 CD1 
+Distance: 3.971162 - Hydrophobic, 
+2 - A CYS 379 O    VS C THR 94 N   
+Distance: 3.228520 - Hydrogen Bonds, 
+3 - A TYR 380 CB   VS C TYR 92 CD1 
+Distance: 4.465724 - Hydrophobic, 
+4 - A TYR 380 CB   VS C TYR 92 CE1 
+Distance: 3.767422 - Hydrophobic, 
+5 - A TYR 380 CB   VS C TYR 92 CE2 
+Distance: 3.848427 - Hydrophobic, 
+6 - A TYR 380 CG   VS C TYR 92 CG  
+Distance: 5.749687 - Aromatic Stacking, 
+7 - A TYR 380 CG   VS C TYR 92 CE2 
+Distance: 4.312923 - Hydrophobic, 
+8 - A TYR 380 CD2  VS C TYR 92 CD2 
+Distance: 4.328847 - Hydrophobic, 
+9 - A TYR 380 CD2  VS C TYR 92 CE2 
+Distance: 3.835468 - Hydrophobic, 
+10 - A GLY 381 O    VS C TYR 32 OH  
+Distance: 3.838234 - Hydrogen Bonds, 
+11 - A GLY 381 N    VS C TYR 92 O   
+Distance: 3.258492 - Hydrogen Bonds, 
+12 - A VAL 382 O    VS C THR 94 OG1 
+Distance: 2.734543 - Hydrogen Bonds, 
+13 - A SER 383 N    VS C THR 94 OG1 
+Distance: 3.878481 - Hydrogen Bonds, 
+14 - A SER 383 OG   VS C THR 94 OG1 
+Distance: 3.332224 - Hydrogen Bonds, 
+15 - A PRO 384 CG   VS C LEU 95 CG  
+Distance: 4.390158 - Hydrophobic, 
+16 - A PRO 384 CG   VS C LEU 95 CD1 
+Distance: 4.228521 - Hydrophobic, 
+17 - A PRO 384 CG   VS C LEU 95 CD2 
+Distance: 4.047506 - Hydrophobic, 
+18 - A PRO 412 O    VS C GLN 27 NE2 
+Distance: 3.858222 - Hydrogen Bonds, 
+19 - A PRO 412 CG   VS C TYR 92 CE2 
+Distance: 4.027714 - Hydrophobic, 
+20 - A ASP 427 O    VS C TYR 92 OH  
+Distance: 3.539874 - Hydrogen Bonds, 
+21 - A PHE 429 N    VS C TYR 92 OH  
+Distance: 3.685976 - Hydrogen Bonds, 
+22 - A PHE 429 O    VS C TYR 92 OH  
+Distance: 2.647516 - Hydrogen Bonds, 

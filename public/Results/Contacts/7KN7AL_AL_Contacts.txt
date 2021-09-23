@@ -1,0 +1,21 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             04-NOV-20   7KN7             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN COMPLEXED WITNANOBODY VHH W AND ANTIBODY FAB CC12.3:
+
+0 - A ARG 403 NH1  VS L GLY 92 O   
+Distance: 2.977708 - Hydrogen Bonds, 
+1 - A TYR 495 O    VS L TYR 32 OH  
+Distance: 3.714250 - Hydrogen Bonds, 
+2 - A ASN 501 ND2  VS L SER 30 OG  
+Distance: 3.807058 - Hydrogen Bonds, 
+3 - A TYR 505 OH   VS L SER 28 O   
+Distance: 2.846111 - Hydrogen Bonds, 
+4 - A TYR 505 CG   VS L TYR 32 CG  
+Distance: 5.994370 - Aromatic Stacking, 
+5 - A TYR 505 CD1  VS L TYR 32 CE2 
+Distance: 4.145466 - Hydrophobic, 
+6 - A TYR 505 CE1  VS L TYR 32 CD2 
+Distance: 4.278390 - Hydrophobic, 
+7 - A TYR 505 CE1  VS L TYR 32 CE2 
+Distance: 4.349051 - Hydrophobic, 
+8 - A TYR 505 OH   VS L GLY 92 O   
+Distance: 3.620842 - Hydrogen Bonds, 

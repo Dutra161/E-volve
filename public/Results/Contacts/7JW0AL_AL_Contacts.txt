@@ -1,0 +1,9 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             24-AUG-20   7JW0             
+SARS-COV-2 SPIKE IN COMPLEX WITH THE S304 NEUTRALIZING ANTIBODY FABFRAGMENT:
+
+0 - A CYS 379 N    VS L SER 94 O   
+Distance: 2.869787 - Hydrogen Bonds, 
+1 - A CYS 379 O    VS L SER 94 N   
+Distance: 3.030063 - Hydrogen Bonds, 
+2 - A TYR 380 CE2  VS L VAL 93 CB  
+Distance: 4.377244 - Hydrophobic, 

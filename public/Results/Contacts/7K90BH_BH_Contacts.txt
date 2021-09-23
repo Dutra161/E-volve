@@ -1,0 +1,29 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             27-SEP-20   7K90             
+STRUCTURE OF THE SARS-COV-2 S 6P TRIMER IN COMPLEX WITH THE HUMANNEUTRALIZING ANTIBODY FAB FRAGMENT, C144:
+
+0 - B TYR 449 OH   VS H GLY 26 N   
+Distance: 3.566978 - Hydrogen Bonds, 
+1 - B TYR 449 OH   VS H GLY 26 O   
+Distance: 3.611849 - Hydrogen Bonds, 
+2 - B TYR 449 OH   VS H PHE 27 N   
+Distance: 3.307582 - Hydrogen Bonds, 
+3 - B TYR 449 O    VS H LYS 73 NZ  
+Distance: 2.582783 - Hydrogen Bonds, 
+4 - B GLU 484 CB   VS H TYR 52 CD2 
+Distance: 4.100530 - Hydrophobic, 
+5 - B GLU 484 CG   VS H TYR 52 CB  
+Distance: 3.930252 - Hydrophobic, 
+6 - B GLU 484 CG   VS H TYR 52 CG  
+Distance: 4.173139 - Hydrophobic, 
+7 - B GLU 484 CG   VS H TYR 52 CD2 
+Distance: 3.627922 - Hydrophobic, 
+8 - B GLU 484 OE2  VS H SER 56 N   
+Distance: 3.596087 - Hydrogen Bonds, 
+9 - B GLU 484 OE2  VS H SER 56 OG  
+Distance: 2.581770 - Hydrogen Bonds, 
+10 - B GLN 493 NE2  VS H ASN 31 OD1 
+Distance: 1.966171 - Hydrogen Bonds, 
+11 - B SER 494 N    VS H ASN 31 OD1 
+Distance: 3.721990 - Hydrogen Bonds, 
+12 - B SER 494 O    VS H ASN 31 ND2 
+Distance: 3.698686 - Hydrogen Bonds, 

@@ -1,0 +1,69 @@
+IMMUNE SYSTEM/VIRAL PROTEIN             02-NOV-20   7KMG             
+LY-COV555 NEUTRALIZING ANTIBODY AGAINST SARS-COV-2:
+
+0 - B TYR 32 CG   VS C PHE 486 CG  
+Distance: 5.822210 - Aromatic Stacking, 
+1 - B TYR 32 CD2  VS C PHE 486 CB  
+Distance: 4.323332 - Hydrophobic, 
+2 - B TYR 32 CD2  VS C PHE 486 CD1 
+Distance: 4.344235 - Hydrophobic, 
+3 - B TYR 32 CE1  VS C PHE 486 CB  
+Distance: 4.419140 - Hydrophobic, 
+4 - B TYR 32 CE2  VS C PHE 486 CB  
+Distance: 3.953191 - Hydrophobic, 
+5 - B TYR 32 CE2  VS C PHE 486 CG  
+Distance: 4.239778 - Hydrophobic, 
+6 - B TYR 32 CE2  VS C PHE 486 CD1 
+Distance: 3.570385 - Hydrophobic, 
+7 - B TYR 32 OH   VS C TYR 489 OH  
+Distance: 3.533272 - Hydrogen Bonds, 
+8 - B TYR 92 O    VS C PHE 486 N   
+Distance: 2.812982 - Hydrogen Bonds, 
+9 - B TYR 92 CG   VS C PHE 486 CB  
+Distance: 3.884259 - Hydrophobic, 
+10 - B TYR 92 CG   VS C PHE 486 CG  
+Distance: 4.728388 - Aromatic Stacking, 
+11 - B TYR 92 CD1  VS C PHE 486 CB  
+Distance: 4.171028 - Hydrophobic, 
+12 - B TYR 92 CD2  VS C PHE 486 CB  
+Distance: 3.501884 - Hydrophobic, 
+13 - B TYR 92 CD2  VS C PHE 486 CG  
+Distance: 3.935554 - Hydrophobic, 
+14 - B TYR 92 CD2  VS C PHE 486 CD1 
+Distance: 4.450839 - Hydrophobic, 
+15 - B TYR 92 CE1  VS C PHE 486 CB  
+Distance: 4.122410 - Hydrophobic, 
+16 - B TYR 92 CE1  VS C PHE 486 CG  
+Distance: 4.408792 - Hydrophobic, 
+17 - B TYR 92 CE1  VS C PHE 486 CD2 
+Distance: 4.173283 - Hydrophobic, 
+18 - B TYR 92 CE2  VS C PHE 486 CB  
+Distance: 3.449511 - Hydrophobic, 
+19 - B TYR 92 CE2  VS C PHE 486 CG  
+Distance: 3.365825 - Hydrophobic, 
+20 - B TYR 92 CE2  VS C PHE 486 CD1 
+Distance: 3.897660 - Hydrophobic, 
+21 - B TYR 92 CE2  VS C PHE 486 CD2 
+Distance: 3.615855 - Hydrophobic, 
+22 - B TYR 92 CE2  VS C PHE 486 CE2 
+Distance: 4.307947 - Hydrophobic, 
+23 - B THR 94 CG2  VS C ASN 481 CB  
+Distance: 3.736878 - Hydrophobic, 
+24 - B THR 94 CG2  VS C VAL 483 CB  
+Distance: 4.433907 - Hydrophobic, 
+25 - B THR 94 CG2  VS C VAL 483 CG2 
+Distance: 4.467596 - Hydrophobic, 
+26 - B ARG 96 NE   VS C GLU 484 OE2 
+Distance: 5.626318 - Attractive, 
+27 - B ARG 96 CZ   VS C GLU 484 OE1 
+Distance: 5.714092 - Attractive, 
+28 - B ARG 96 CZ   VS C GLU 484 OE2 
+Distance: 4.445742 - Attractive, 
+29 - B ARG 96 NH1  VS C GLU 484 OE2 
+Distance: 4.515929 - Attractive, 
+30 - B ARG 96 NH2  VS C GLU 484 O   
+Distance: 2.971273 - Hydrogen Bonds, 
+31 - B ARG 96 NH2  VS C GLU 484 OE1 
+Distance: 4.648409 - Attractive, 
+32 - B ARG 96 NH2  VS C GLU 484 OE2 
+Distance: 3.535540 - Attractive, Hydrogen Bonds, 

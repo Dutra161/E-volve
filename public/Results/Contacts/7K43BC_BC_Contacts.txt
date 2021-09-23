@@ -1,0 +1,109 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             14-SEP-20   7K43             
+SARS-COV-2 SPIKE IN COMPLEX WITH THE S2M11 NEUTRALIZING ANTIBODY FAB FRAGMENT:
+
+0 - B TYR 449 OH   VS C TYR 27 O   
+Distance: 3.611199 - Hydrogen Bonds, 
+1 - B TYR 449 CE1  VS C THR 28 CG2 
+Distance: 3.914128 - Hydrophobic, 
+2 - B TYR 449 CE1  VS C PHE 29 CB  
+Distance: 4.114021 - Hydrophobic, 
+3 - B TYR 449 CE2  VS C PHE 29 CB  
+Distance: 4.367700 - Hydrophobic, 
+4 - B TYR 449 OH   VS C PHE 29 N   
+Distance: 3.080264 - Hydrogen Bonds, 
+5 - B TYR 449 CG   VS C THR 30 CG2 
+Distance: 4.231791 - Hydrophobic, 
+6 - B TYR 449 CD1  VS C THR 30 CG2 
+Distance: 3.688253 - Hydrophobic, 
+7 - B TYR 449 CE1  VS C THR 30 CG2 
+Distance: 4.154090 - Hydrophobic, 
+8 - B TYR 449 CD2  VS C THR 77 CG2 
+Distance: 4.295738 - Hydrophobic, 
+9 - B TYR 449 CE2  VS C THR 77 CG2 
+Distance: 3.422235 - Hydrophobic, 
+10 - B LEU 452 CD2  VS C ILE 54 CD1 
+Distance: 3.594174 - Hydrophobic, 
+11 - B LEU 455 CD2  VS C TYR 103 CE1 
+Distance: 4.139954 - Hydrophobic, 
+12 - B LEU 455 CD2  VS C TYR 103 CE2 
+Distance: 4.080860 - Hydrophobic, 
+13 - B PHE 456 CG   VS C TYR 103 CG  
+Distance: 5.254571 - Aromatic Stacking, 
+14 - B PHE 456 CE1  VS C TYR 103 CB  
+Distance: 4.390882 - Hydrophobic, 
+15 - B PHE 456 CE2  VS C TYR 103 CB  
+Distance: 4.099574 - Hydrophobic, 
+16 - B PHE 456 CE2  VS C TYR 103 CG  
+Distance: 3.905370 - Hydrophobic, 
+17 - B PHE 456 CE2  VS C TYR 103 CD1 
+Distance: 3.718598 - Hydrophobic, 
+18 - B PHE 456 CE2  VS C TYR 103 CE1 
+Distance: 4.229646 - Hydrophobic, 
+19 - B PHE 456 CZ   VS C TYR 103 CB  
+Distance: 3.526232 - Hydrophobic, 
+20 - B PHE 456 CZ   VS C TYR 103 CG  
+Distance: 3.576535 - Hydrophobic, 
+21 - B PHE 456 CZ   VS C TYR 103 CD1 
+Distance: 3.879618 - Hydrophobic, 
+22 - B PHE 456 CZ   VS C TYR 103 CD2 
+Distance: 4.060126 - Hydrophobic, 
+23 - B GLU 484 CB   VS C TRP 50 CH2 
+Distance: 4.087765 - Hydrophobic, 
+24 - B GLU 484 OE1  VS C ASN 52 ND2 
+Distance: 2.860635 - Hydrogen Bonds, 
+25 - B GLU 484 OE1  VS C SER 55 OG  
+Distance: 3.695592 - Hydrogen Bonds, 
+26 - B GLU 484 OE2  VS C SER 55 OG  
+Distance: 2.716605 - Hydrogen Bonds, 
+27 - B PHE 486 CB   VS C PHE 102 CD2 
+Distance: 4.311747 - Hydrophobic, 
+28 - B PHE 486 CB   VS C PHE 102 CE2 
+Distance: 4.290545 - Hydrophobic, 
+29 - B PHE 486 CD1  VS C PHE 102 CD2 
+Distance: 3.949291 - Hydrophobic, 
+30 - B PHE 486 CD1  VS C PHE 102 CE2 
+Distance: 4.149965 - Hydrophobic, 
+31 - B PHE 486 CD1  VS C TYR 109 CE1 
+Distance: 4.405053 - Hydrophobic, 
+32 - B PHE 486 CE1  VS C TYR 109 CE1 
+Distance: 4.228126 - Hydrophobic, 
+33 - B TYR 489 CD1  VS C PHE 102 CB  
+Distance: 4.402234 - Hydrophobic, 
+34 - B TYR 489 CE1  VS C PHE 102 CB  
+Distance: 4.055906 - Hydrophobic, 
+35 - B TYR 489 OH   VS C PHE 102 O   
+Distance: 3.572198 - Hydrogen Bonds, 
+36 - B TYR 489 CG   VS C TYR 103 CB  
+Distance: 3.926365 - Hydrophobic, 
+37 - B TYR 489 CG   VS C TYR 103 CG  
+Distance: 5.807204 - Aromatic Stacking, 
+38 - B TYR 489 CG   VS C TYR 103 CD1 
+Distance: 4.404911 - Hydrophobic, 
+39 - B TYR 489 CD1  VS C TYR 103 CB  
+Distance: 3.913219 - Hydrophobic, 
+40 - B TYR 489 CD2  VS C TYR 103 CB  
+Distance: 3.782737 - Hydrophobic, 
+41 - B TYR 489 CE1  VS C TYR 103 CB  
+Distance: 3.773299 - Hydrophobic, 
+42 - B TYR 489 CE2  VS C TYR 103 CB  
+Distance: 3.631355 - Hydrophobic, 
+43 - B PHE 490 CB   VS C ILE 54 CG2 
+Distance: 4.380931 - Hydrophobic, 
+44 - B PHE 490 CG   VS C ILE 54 CG2 
+Distance: 4.237905 - Hydrophobic, 
+45 - B PHE 490 CD2  VS C ILE 54 CB  
+Distance: 4.417987 - Hydrophobic, 
+46 - B PHE 490 CD2  VS C ILE 54 CG1 
+Distance: 3.991248 - Hydrophobic, 
+47 - B PHE 490 CD2  VS C ILE 54 CG2 
+Distance: 3.609195 - Hydrophobic, 
+48 - B PHE 490 CE2  VS C ILE 54 CG1 
+Distance: 3.972878 - Hydrophobic, 
+49 - B PHE 490 CE2  VS C ILE 54 CG2 
+Distance: 4.209474 - Hydrophobic, 
+50 - B GLN 493 OE1  VS C THR 30 OG1 
+Distance: 2.888276 - Hydrogen Bonds, 
+51 - B GLN 493 NE2  VS C THR 30 O   
+Distance: 2.939018 - Hydrogen Bonds, 
+52 - B GLN 493 NE2  VS C TYR 103 OH  
+Distance: 3.039879 - Hydrogen Bonds, 

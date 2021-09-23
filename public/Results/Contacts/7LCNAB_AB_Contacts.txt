@@ -1,0 +1,91 @@
+IMMUNE SYSTEM                           11-JAN-21   7LCN             
+STRUCTURE OF SARS-COV-2 S PROTEIN IN COMPLEX WITH N-TERMINAL DOMAINANTIBODY DH1050.1:
+
+0 - A VAL 143 CG1  VS B VAL 104 CG1 
+Distance: 3.710854 - Hydrophobic, 
+1 - A VAL 143 CB   VS B VAL 105 CG2 
+Distance: 4.456574 - Hydrophobic, 
+2 - A VAL 143 CG1  VS B VAL 105 CG2 
+Distance: 3.803484 - Hydrophobic, 
+3 - A VAL 143 CG2  VS B VAL 105 CG2 
+Distance: 3.835053 - Hydrophobic, 
+4 - A TYR 145 CG   VS B TYR 27 CG  
+Distance: 5.962870 - Aromatic Stacking, 
+5 - A TYR 145 CE1  VS B TYR 27 CD1 
+Distance: 3.916566 - Hydrophobic, 
+6 - A TYR 145 CE1  VS B TYR 27 CE1 
+Distance: 4.086678 - Hydrophobic, 
+7 - A TYR 145 CB   VS B GLU 31 CG  
+Distance: 3.470197 - Hydrophobic, 
+8 - A TYR 145 CG   VS B GLU 31 CG  
+Distance: 4.093857 - Hydrophobic, 
+9 - A TYR 145 CG   VS B PHE 102 CG  
+Distance: 5.673189 - Aromatic Stacking, 
+10 - A TYR 145 CG   VS B PHE 102 CE2 
+Distance: 4.195996 - Hydrophobic, 
+11 - A TYR 145 CD1  VS B PHE 102 CD2 
+Distance: 3.998030 - Hydrophobic, 
+12 - A TYR 145 CD1  VS B PHE 102 CE2 
+Distance: 3.744173 - Hydrophobic, 
+13 - A TYR 145 CE1  VS B PHE 102 CE2 
+Distance: 4.158320 - Hydrophobic, 
+14 - A HIS 146 ND1  VS B GLU 31 O   
+Distance: 3.340580 - Hydrogen Bonds, 
+15 - A HIS 146 ND1  VS B GLU 31 OE1 
+Distance: 5.569451 - Attractive, 
+16 - A HIS 146 ND1  VS B GLU 31 OE2 
+Distance: 5.933730 - Attractive, 
+17 - A HIS 146 NE2  VS B GLU 31 O   
+Distance: 3.515062 - Hydrogen Bonds, 
+18 - A HIS 146 CB   VS B PRO 53 CB  
+Distance: 4.201548 - Hydrophobic, 
+19 - A HIS 146 ND1  VS B THR 106 OG1 
+Distance: 3.546145 - Hydrogen Bonds, 
+20 - A HIS 146 NE2  VS B THR 106 OG1 
+Distance: 3.815898 - Hydrogen Bonds, 
+21 - A ASN 148 ND2  VS B GLU 54 OE1 
+Distance: 2.782504 - Hydrogen Bonds, 
+22 - A ASN 149 ND2  VS B PRO 30 O   
+Distance: 2.873863 - Hydrogen Bonds, 
+23 - A ASN 149 ND2  VS B PRO 53 O   
+Distance: 2.811461 - Hydrogen Bonds, 
+24 - A TRP 152 CZ2  VS B THR 28 CG2 
+Distance: 4.283345 - Hydrophobic, 
+25 - A TRP 152 CH2  VS B PRO 30 CG  
+Distance: 4.343920 - Hydrophobic, 
+26 - A PHE 157 CG   VS B TYR 27 CG  
+Distance: 4.758620 - Aromatic Stacking, 
+27 - A PHE 157 CD2  VS B TYR 27 CD1 
+Distance: 4.482067 - Hydrophobic, 
+28 - A PHE 157 CD2  VS B TYR 27 CD2 
+Distance: 4.264897 - Hydrophobic, 
+29 - A PHE 157 CD2  VS B TYR 27 CE1 
+Distance: 4.013081 - Hydrophobic, 
+30 - A PHE 157 CD2  VS B TYR 27 CE2 
+Distance: 3.739862 - Hydrophobic, 
+31 - A PHE 157 CE2  VS B TYR 27 CG  
+Distance: 4.078711 - Hydrophobic, 
+32 - A PHE 157 CE2  VS B TYR 27 CD1 
+Distance: 4.241409 - Hydrophobic, 
+33 - A PHE 157 CE2  VS B TYR 27 CD2 
+Distance: 3.896584 - Hydrophobic, 
+34 - A PHE 157 CE2  VS B TYR 27 CE1 
+Distance: 4.230259 - Hydrophobic, 
+35 - A PHE 157 CE2  VS B TYR 27 CE2 
+Distance: 3.855656 - Hydrophobic, 
+36 - A LEU 244 CB   VS B VAL 104 CG1 
+Distance: 4.041589 - Hydrophobic, 
+37 - A LEU 244 CG   VS B VAL 104 CB  
+Distance: 4.467123 - Hydrophobic, 
+38 - A LEU 244 CG   VS B VAL 104 CG1 
+Distance: 4.493198 - Hydrophobic, 
+39 - A LEU 244 CD1  VS B VAL 104 CB  
+Distance: 3.939395 - Hydrophobic, 
+40 - A LEU 244 CD1  VS B VAL 104 CG1 
+Distance: 4.124564 - Hydrophobic, 
+41 - A LEU 244 CD1  VS B VAL 104 CG2 
+Distance: 3.855479 - Hydrophobic, 
+42 - A LEU 244 CD2  VS B VAL 104 CB  
+Distance: 4.287477 - Hydrophobic, 
+43 - A HIS 245 CB   VS B VAL 105 CG2 
+Distance: 4.182658 - Hydrophobic, 

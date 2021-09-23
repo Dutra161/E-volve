@@ -1,0 +1,49 @@
+VIRAL PROTEIN                           10-JUL-20   7CJF             
+CRYSTAL STRUCTURE OF SARS-COV-2 RBD IN COMPLEX WITH A NEUTRALIZING ANTIBODY FAB:
+
+0 - B ILE 2 CD1  VS C TYR 505 CE1 
+Distance: 3.863380 - Hydrophobic, 
+1 - B GLY 28 N    VS C THR 500 O   
+Distance: 3.694687 - Hydrogen Bonds, 
+2 - B GLY 28 O    VS C GLY 502 N   
+Distance: 2.956232 - Hydrogen Bonds, 
+3 - B ILE 29 CB   VS C TYR 505 CE2 
+Distance: 3.910012 - Hydrophobic, 
+4 - B ILE 29 CG2  VS C TYR 505 CE1 
+Distance: 4.129537 - Hydrophobic, 
+5 - B ILE 29 CG2  VS C TYR 505 CE2 
+Distance: 4.054216 - Hydrophobic, 
+6 - B SER 30 OG   VS C GLY 496 O   
+Distance: 2.981346 - Hydrogen Bonds, 
+7 - B SER 30 OG   VS C GLN 498 OE1 
+Distance: 3.458411 - Hydrogen Bonds, 
+8 - B SER 30 N    VS C ASN 501 OD1 
+Distance: 3.240855 - Hydrogen Bonds, 
+9 - B SER 30 OG   VS C ASN 501 OD1 
+Distance: 3.017384 - Hydrogen Bonds, 
+10 - B SER 30 OG   VS C ASN 501 ND2 
+Distance: 3.452398 - Hydrogen Bonds, 
+11 - B TRP 32 CZ2  VS C TYR 449 CE1 
+Distance: 4.462618 - Hydrophobic, 
+12 - B TRP 32 CH2  VS C TYR 449 CE1 
+Distance: 4.434635 - Hydrophobic, 
+13 - B TRP 32 NE1  VS C TYR 495 O   
+Distance: 3.507182 - Hydrogen Bonds, 
+14 - B SER 67 OG   VS C GLN 498 OE1 
+Distance: 3.350449 - Hydrogen Bonds, 
+15 - B SER 67 OG   VS C GLN 498 NE2 
+Distance: 3.658958 - Hydrogen Bonds, 
+16 - B ASN 92 O    VS C ARG 403 NH1 
+Distance: 2.910935 - Hydrogen Bonds, 
+17 - B ASN 92 O    VS C ARG 403 NH2 
+Distance: 3.054984 - Hydrogen Bonds, 
+18 - B ASN 92 OD1  VS C ARG 403 NH1 
+Distance: 3.427569 - Hydrogen Bonds, 
+19 - B ASN 92 O    VS C TYR 505 OH  
+Distance: 3.248115 - Hydrogen Bonds, 
+20 - B ASN 92 CB   VS C TYR 505 CE2 
+Distance: 4.144953 - Hydrophobic, 
+21 - B SER 93 N    VS C TYR 505 OH  
+Distance: 3.556785 - Hydrogen Bonds, 
+22 - B SER 93 OG   VS C TYR 505 OH  
+Distance: 2.712863 - Hydrogen Bonds, 

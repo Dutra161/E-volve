@@ -1,0 +1,29 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             20-AUG-20   7JVA             
+SARS-COV-2 SPIKE IN COMPLEX WITH THE S2A4 NEUTRALIZING ANTIBODY FABFRAGMENT (LOCAL REFINEMENT OF THE RECEPTOR-BINDING DOMAIN AND FAB VARIABLE DOMAINS):
+
+0 - L SER 28 OG   VS A ARG 408 NH1 
+Distance: 3.225504 - Hydrogen Bonds, 
+1 - L SER 31 OG   VS A THR 376 OG1 
+Distance: 3.863384 - Hydrogen Bonds, 
+2 - L SER 31 O    VS A PHE 377 N   
+Distance: 3.178394 - Hydrogen Bonds, 
+3 - L ASN 32 ND2  VS A SER 375 O   
+Distance: 2.879941 - Hydrogen Bonds, 
+4 - L ASN 32 OD1  VS A PHE 377 N   
+Distance: 3.703224 - Hydrogen Bonds, 
+5 - L TYR 33 OH   VS A CYS 379 N   
+Distance: 2.764912 - Hydrogen Bonds, 
+6 - L TYR 33 OH   VS A CYS 379 O   
+Distance: 2.845309 - Hydrogen Bonds, 
+7 - L TYR 33 CE1  VS A PRO 384 CG  
+Distance: 3.892888 - Hydrophobic, 
+8 - L GLU 51 OE1  VS A SER 383 OG  
+Distance: 2.882312 - Hydrogen Bonds, 
+9 - L GLU 51 OE2  VS A SER 383 OG  
+Distance: 3.604030 - Hydrogen Bonds, 
+10 - L ASP 52 OD1  VS A LYS 378 NZ  
+Distance: 3.790235 - Attractive, Hydrogen Bonds, 
+11 - L ASP 52 OD2  VS A LYS 378 NZ  
+Distance: 2.397765 - Attractive, Hydrogen Bonds, 
+12 - L SER 69 OG   VS A GLN 414 NE2 
+Distance: 3.149007 - Hydrogen Bonds, 

@@ -1,0 +1,87 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             21-NOV-20   7KS9             
+CRYO-EM STRUCTURE OF PREFUSION SARS-COV-2 SPIKE GLYCOPROTEIN INCOMPLEX WITH 910-30 FAB:
+
+0 - H VAL 2 CG2  VS B PHE 486 CE2 
+Distance: 4.236862 - Hydrophobic, 
+1 - H VAL 2 CG2  VS B PHE 486 CZ  
+Distance: 3.792690 - Hydrophobic, 
+2 - H GLY 26 O    VS B ASN 487 ND2 
+Distance: 3.652950 - Hydrogen Bonds, 
+3 - H THR 28 N    VS B ALA 475 O   
+Distance: 3.587556 - Hydrogen Bonds, 
+4 - H THR 28 OG1  VS B ALA 475 O   
+Distance: 2.780327 - Hydrogen Bonds, 
+5 - H THR 28 OG1  VS B GLY 476 N   
+Distance: 3.787458 - Hydrogen Bonds, 
+6 - H SER 31 O    VS B TYR 473 OH  
+Distance: 2.642257 - Hydrogen Bonds, 
+7 - H ASN 32 ND2  VS B ALA 475 O   
+Distance: 2.645255 - Hydrogen Bonds, 
+8 - H TYR 33 CE2  VS B LEU 455 CG  
+Distance: 4.288666 - Hydrophobic, 
+9 - H TYR 33 CE2  VS B LEU 455 CD1 
+Distance: 4.215940 - Hydrophobic, 
+10 - H TYR 33 OH   VS B LEU 455 O   
+Distance: 2.517432 - Hydrogen Bonds, 
+11 - H TYR 33 CG   VS B PHE 456 CG  
+Distance: 5.744298 - Aromatic Stacking, 
+12 - H TYR 33 CD2  VS B PHE 456 CD1 
+Distance: 4.164156 - Hydrophobic, 
+13 - H TYR 33 CD2  VS B PHE 456 CE1 
+Distance: 3.833889 - Hydrophobic, 
+14 - H TYR 33 CE2  VS B PHE 456 CD1 
+Distance: 3.741292 - Hydrophobic, 
+15 - H TYR 33 CE2  VS B PHE 456 CE1 
+Distance: 3.755133 - Hydrophobic, 
+16 - H TYR 52 CE2  VS B LYS 417 CB  
+Distance: 4.378579 - Hydrophobic, 
+17 - H TYR 52 CE2  VS B LYS 417 CG  
+Distance: 3.789093 - Hydrophobic, 
+18 - H TYR 52 OH   VS B LYS 417 N   
+Distance: 3.855375 - Hydrogen Bonds, 
+19 - H TYR 52 CD2  VS B TYR 421 CE2 
+Distance: 4.347897 - Hydrophobic, 
+20 - H SER 53 N    VS B TYR 421 OH  
+Distance: 3.352278 - Hydrogen Bonds, 
+21 - H SER 53 OG   VS B TYR 421 OH  
+Distance: 2.320258 - Hydrogen Bonds, 
+22 - H SER 53 OG   VS B ARG 457 O   
+Distance: 2.772161 - Hydrogen Bonds, 
+23 - H GLY 54 N    VS B TYR 421 OH  
+Distance: 2.738206 - Hydrogen Bonds, 
+24 - H GLY 54 O    VS B ASN 460 ND2 
+Distance: 3.898885 - Hydrogen Bonds, 
+25 - H SER 56 OG   VS B ASP 420 OD1 
+Distance: 3.870588 - Hydrogen Bonds, 
+26 - H SER 56 OG   VS B ASP 420 OD2 
+Distance: 2.381338 - Hydrogen Bonds, 
+27 - H TYR 58 OH   VS B THR 415 O   
+Distance: 3.650594 - Hydrogen Bonds, 
+28 - H TYR 58 OH   VS B THR 415 OG1 
+Distance: 2.433278 - Hydrogen Bonds, 
+29 - H TYR 58 OH   VS B GLY 416 N   
+Distance: 3.024292 - Hydrogen Bonds, 
+30 - H ARG 94 NH1  VS B ASN 487 OD1 
+Distance: 3.280821 - Hydrogen Bonds, 
+31 - H ARG 94 NH2  VS B ASN 487 OD1 
+Distance: 2.580283 - Hydrogen Bonds, 
+32 - H ARG 94 NH2  VS B TYR 489 OH  
+Distance: 3.524463 - Hydrogen Bonds, 
+33 - H TYR 96 CD2  VS B LEU 455 CD2 
+Distance: 4.143677 - Hydrophobic, 
+34 - H TYR 96 CB   VS B PHE 456 CZ  
+Distance: 4.237441 - Hydrophobic, 
+35 - H TYR 96 CG   VS B PHE 456 CZ  
+Distance: 4.361683 - Hydrophobic, 
+36 - H TYR 96 CD2  VS B PHE 456 CE2 
+Distance: 3.903175 - Hydrophobic, 
+37 - H TYR 96 CD2  VS B PHE 456 CZ  
+Distance: 3.542611 - Hydrophobic, 
+38 - H TYR 96 CE2  VS B PHE 456 CE2 
+Distance: 4.382613 - Hydrophobic, 
+39 - H TYR 96 CE2  VS B PHE 456 CZ  
+Distance: 4.415125 - Hydrophobic, 
+40 - H TYR 96 OH   VS B GLN 493 NE2 
+Distance: 2.674805 - Hydrogen Bonds, 
+41 - H ASP 98 OD1  VS B TYR 489 OH  
+Distance: 2.765122 - Hydrogen Bonds, 

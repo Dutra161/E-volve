@@ -1,0 +1,41 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             10-DEC-20   7KZB             
+POTENT SARS-COV-2 BINDING AND NEUTRALIZATION THROUGH MATURATION OF ICONIC SARS-COV-1ANTIBODIES:
+
+0 - H ARG 52 NH1  VS C GLY 381 O   
+Distance: 3.610586 - Hydrogen Bonds, 
+1 - H ALA 55 CB   VS C ASP 427 CB  
+Distance: 3.969911 - Hydrophobic, 
+2 - H ASN 56 ND2  VS C ASP 427 O   
+Distance: 3.898251 - Hydrogen Bonds, 
+3 - H PRO 104 CG   VS C TYR 380 CD2 
+Distance: 3.850686 - Hydrophobic, 
+4 - H PRO 104 CG   VS C TYR 380 CE2 
+Distance: 3.945903 - Hydrophobic, 
+5 - H PHE 105 CE1  VS C LYS 378 CB  
+Distance: 3.832627 - Hydrophobic, 
+6 - H PHE 105 CE1  VS C LYS 378 CG  
+Distance: 4.139220 - Hydrophobic, 
+7 - H PHE 105 CE2  VS C LYS 378 CB  
+Distance: 3.778789 - Hydrophobic, 
+8 - H PHE 105 CE2  VS C LYS 378 CG  
+Distance: 4.392767 - Hydrophobic, 
+9 - H PHE 105 CE2  VS C LYS 378 CD  
+Distance: 4.386627 - Hydrophobic, 
+10 - H PHE 105 CZ   VS C LYS 378 CB  
+Distance: 3.208663 - Hydrophobic, 
+11 - H PHE 105 CZ   VS C LYS 378 CG  
+Distance: 3.910795 - Hydrophobic, 
+12 - H PHE 105 CZ   VS C LYS 378 CD  
+Distance: 4.350508 - Hydrophobic, 
+13 - H PHE 105 CG   VS C TYR 380 CG  
+Distance: 5.305587 - Aromatic Stacking, 
+14 - H PHE 105 CD2  VS C TYR 380 CE2 
+Distance: 4.248144 - Hydrophobic, 
+15 - H PHE 105 CE2  VS C TYR 380 CD2 
+Distance: 4.094678 - Hydrophobic, 
+16 - H PHE 105 CE2  VS C TYR 380 CE1 
+Distance: 4.269234 - Hydrophobic, 
+17 - H PHE 105 CE2  VS C TYR 380 CE2 
+Distance: 3.495319 - Hydrophobic, 
+18 - H PHE 105 CZ   VS C TYR 380 CE2 
+Distance: 4.431721 - Hydrophobic, 

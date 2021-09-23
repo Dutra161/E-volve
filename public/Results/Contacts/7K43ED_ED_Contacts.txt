@@ -1,0 +1,9 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             14-SEP-20   7K43             
+SARS-COV-2 SPIKE IN COMPLEX WITH THE S2M11 NEUTRALIZING ANTIBODY FAB FRAGMENT:
+
+0 - D THR 57 OG1  VS E ASN 440 O   
+Distance: 3.828554 - Hydrogen Bonds, 
+1 - D ASP 61 OD1  VS E LYS 444 NZ  
+Distance: 5.256154 - Attractive, 
+2 - D ASP 61 OD2  VS E LYS 444 NZ  
+Distance: 5.210386 - Attractive, 

@@ -1,0 +1,39 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             26-JUN-20   6XKP             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN IN COMPLEX WITH NEUTRALIZING ANTIBODY CV07-270:
+
+0 - B ARG 346 NE   VS M ASP 31 OD1 
+Distance: 4.580711 - Attractive, 
+1 - B ARG 346 CZ   VS M ASP 31 OD1 
+Distance: 3.908454 - Attractive, 
+2 - B ARG 346 CZ   VS M ASP 31 OD2 
+Distance: 5.721858 - Attractive, 
+3 - B ARG 346 NH1  VS M ASP 31 OD1 
+Distance: 4.346213 - Attractive, 
+4 - B ARG 346 NH2  VS M ASP 31 OD1 
+Distance: 3.343069 - Attractive, Hydrogen Bonds, 
+5 - B ARG 346 NH2  VS M ASP 31 OD2 
+Distance: 5.102307 - Attractive, 
+6 - B LYS 444 NZ   VS M THR 28 OG1 
+Distance: 3.411913 - Hydrogen Bonds, 
+7 - B LYS 444 NZ   VS M ASP 31 OD1 
+Distance: 4.868275 - Attractive, 
+8 - B LYS 444 NZ   VS M ASP 31 OD2 
+Distance: 2.692600 - Attractive, Hydrogen Bonds, 
+9 - B GLY 447 O    VS M SER 98 N   
+Distance: 3.246588 - Hydrogen Bonds, 
+10 - B ASN 448 OD1  VS M SER 98 OG  
+Distance: 2.925304 - Hydrogen Bonds, 
+11 - B TYR 449 N    VS M SER 98 O   
+Distance: 2.789441 - Hydrogen Bonds, 
+12 - B ASN 450 ND2  VS M ASP 31 O   
+Distance: 3.695670 - Hydrogen Bonds, 
+13 - B ASN 450 N    VS M SER 98 O   
+Distance: 3.298977 - Hydrogen Bonds, 
+14 - B ASN 450 ND2  VS M SER 98 O   
+Distance: 3.471874 - Hydrogen Bonds, 
+15 - B ASN 450 ND2  VS M SER 98 OG  
+Distance: 3.284300 - Hydrogen Bonds, 
+16 - B ASN 450 OD1  VS M SER 99 N   
+Distance: 3.697200 - Hydrogen Bonds, 
+17 - B ASN 450 OD1  VS M GLY 100 N   
+Distance: 3.142049 - Hydrogen Bonds, 

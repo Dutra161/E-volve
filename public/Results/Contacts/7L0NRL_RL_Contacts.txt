@@ -1,0 +1,53 @@
+VIRAL PROTEIN/HYDROLASE                 11-DEC-20   7L0N             
+CIRCULATING SARS-COV-2 SPIKE N439K VARIANTS MAINTAIN FITNESS WHILE EVADING ANTIBODY-MEDIATED IMMUNITY:
+
+0 - L GLN 27 NE2  VS R PRO 412 O   
+Distance: 2.835403 - Hydrogen Bonds, 
+1 - L TYR 32 OH   VS R GLY 381 O   
+Distance: 3.359228 - Hydrogen Bonds, 
+2 - L TYR 92 CG   VS R TYR 380 CG  
+Distance: 5.836352 - Aromatic Stacking, 
+3 - L TYR 92 CD2  VS R TYR 380 CB  
+Distance: 4.430319 - Hydrophobic, 
+4 - L TYR 92 CD2  VS R TYR 380 CD1 
+Distance: 3.994401 - Hydrophobic, 
+5 - L TYR 92 CE2  VS R TYR 380 CB  
+Distance: 3.912478 - Hydrophobic, 
+6 - L TYR 92 CE2  VS R TYR 380 CG  
+Distance: 4.247084 - Hydrophobic, 
+7 - L TYR 92 CE2  VS R TYR 380 CD1 
+Distance: 3.806627 - Hydrophobic, 
+8 - L TYR 92 O    VS R GLY 381 N   
+Distance: 3.333221 - Hydrogen Bonds, 
+9 - L TYR 92 CE2  VS R PRO 412 CB  
+Distance: 4.295423 - Hydrophobic, 
+10 - L TYR 92 CE2  VS R PRO 412 CG  
+Distance: 3.655676 - Hydrophobic, 
+11 - L TYR 92 OH   VS R ASP 427 O   
+Distance: 2.983396 - Hydrogen Bonds, 
+12 - L TYR 92 OH   VS R PHE 429 N   
+Distance: 2.927972 - Hydrogen Bonds, 
+13 - L TYR 92 OH   VS R PHE 429 O   
+Distance: 2.819040 - Hydrogen Bonds, 
+14 - L VAL 93 CG1  VS R LYS 378 CD  
+Distance: 4.178010 - Hydrophobic, 
+15 - L VAL 93 CB   VS R TYR 380 CD1 
+Distance: 4.322527 - Hydrophobic, 
+16 - L VAL 93 CB   VS R TYR 380 CE1 
+Distance: 4.130000 - Hydrophobic, 
+17 - L VAL 93 CG1  VS R TYR 380 CE1 
+Distance: 3.968911 - Hydrophobic, 
+18 - L VAL 93 CG2  VS R TYR 380 CD1 
+Distance: 3.638629 - Hydrophobic, 
+19 - L VAL 93 CG2  VS R TYR 380 CE1 
+Distance: 3.430633 - Hydrophobic, 
+20 - L SER 94 N    VS R CYS 379 O   
+Distance: 2.961860 - Hydrogen Bonds, 
+21 - L SER 94 O    VS R CYS 379 N   
+Distance: 2.772579 - Hydrogen Bonds, 
+22 - L SER 94 OG   VS R CYS 379 O   
+Distance: 3.170124 - Hydrogen Bonds, 
+23 - L SER 94 OG   VS R VAL 382 O   
+Distance: 2.967998 - Hydrogen Bonds, 
+24 - L TYR 97 OH   VS R SER 383 OG  
+Distance: 3.266412 - Hydrogen Bonds, 

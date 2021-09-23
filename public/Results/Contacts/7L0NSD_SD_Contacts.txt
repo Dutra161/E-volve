@@ -1,0 +1,21 @@
+VIRAL PROTEIN/HYDROLASE                 11-DEC-20   7L0N             
+CIRCULATING SARS-COV-2 SPIKE N439K VARIANTS MAINTAIN FITNESS WHILE EVADING ANTIBODY-MEDIATED IMMUNITY:
+
+0 - D THR 32 CG2  VS S LEU 441 CD2 
+Distance: 3.762888 - Hydrophobic, 
+1 - D SER 33 OG   VS S ARG 346 NH2 
+Distance: 3.199983 - Hydrogen Bonds, 
+2 - D HIS 92 ND1  VS S ARG 346 NH2 
+Distance: 5.725939 - Repulsive, 
+3 - D ASP 93 OD1  VS S ARG 346 NE  
+Distance: 5.503169 - Attractive, 
+4 - D ASP 93 OD1  VS S ARG 346 CZ  
+Distance: 5.490021 - Attractive, 
+5 - D ASP 93 OD1  VS S ARG 346 NH2 
+Distance: 5.280831 - Attractive, 
+6 - D ASP 93 OD2  VS S ARG 346 NE  
+Distance: 4.964342 - Attractive, 
+7 - D ASP 93 OD2  VS S ARG 346 CZ  
+Distance: 5.290345 - Attractive, 
+8 - D ASP 93 OD2  VS S ARG 346 NH2 
+Distance: 4.980690 - Attractive, 

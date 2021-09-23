@@ -1,0 +1,35 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             27-SEP-20   7K8S             
+STRUCTURE OF THE SARS-COV-2 S 2P TRIMER IN COMPLEX WITH THE HUMANNEUTRALIZING ANTIBODY FAB FRAGMENT, C002 (STATE 1):
+
+0 - A GLU 484 OE1  VS L ARG 96 NE  
+Distance: 4.475543 - Attractive, 
+1 - A GLU 484 OE1  VS L ARG 96 CZ  
+Distance: 5.169062 - Attractive, 
+2 - A GLU 484 OE1  VS L ARG 96 NH2 
+Distance: 4.901589 - Attractive, 
+3 - A GLU 484 OE2  VS L ARG 96 NE  
+Distance: 2.799537 - Attractive, Hydrogen Bonds, 
+4 - A GLU 484 OE2  VS L ARG 96 CZ  
+Distance: 3.504752 - Attractive, 
+5 - A GLU 484 OE2  VS L ARG 96 NH1 
+Distance: 4.615452 - Attractive, 
+6 - A GLU 484 OE2  VS L ARG 96 NH2 
+Distance: 3.604523 - Attractive, Hydrogen Bonds, 
+7 - A PHE 486 CG   VS L TYR 32 CG  
+Distance: 5.888820 - Aromatic Stacking, 
+8 - A PHE 486 CD2  VS L TYR 32 CE1 
+Distance: 4.076962 - Hydrophobic, 
+9 - A PHE 486 CD2  VS L TYR 32 CE2 
+Distance: 4.377701 - Hydrophobic, 
+10 - A PHE 486 CE2  VS L TYR 32 CE1 
+Distance: 4.278210 - Hydrophobic, 
+11 - A PHE 486 CG   VS L TYR 92 CG  
+Distance: 4.854089 - Aromatic Stacking, 
+12 - A PHE 486 CD2  VS L TYR 92 CD1 
+Distance: 4.458201 - Hydrophobic, 
+13 - A PHE 486 CD2  VS L TYR 92 CE1 
+Distance: 4.304235 - Hydrophobic, 
+14 - A PHE 486 CE2  VS L TYR 92 CE1 
+Distance: 3.954071 - Hydrophobic, 
+15 - A TYR 489 OH   VS L TYR 32 OH  
+Distance: 3.036032 - Hydrogen Bonds, 

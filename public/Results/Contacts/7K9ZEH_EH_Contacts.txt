@@ -1,0 +1,91 @@
+IMMUNE SYSTEM                           29-SEP-20   7K9Z             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN IN COMPLEX WITH THE FAB FRAGMENTS OF NEUTRALIZING ANTIBODIES 298 AND 52:
+
+0 - H TYR 32 OH   VS E GLY 482 O   
+Distance: 3.021584 - Hydrogen Bonds, 
+1 - H ILE 52 CD1  VS E LEU 452 CD1 
+Distance: 4.078933 - Hydrophobic, 
+2 - H ILE 52 CD1  VS E THR 470 CG2 
+Distance: 4.298508 - Hydrophobic, 
+3 - H ILE 52 CG2  VS E PHE 490 CE2 
+Distance: 4.223246 - Hydrophobic, 
+4 - H ILE 52 CG2  VS E PHE 490 CZ  
+Distance: 4.083091 - Hydrophobic, 
+5 - H ILE 52 CD1  VS E LEU 492 CD2 
+Distance: 3.978533 - Hydrophobic, 
+6 - H MET 53 CB   VS E PHE 490 CD2 
+Distance: 4.222179 - Hydrophobic, 
+7 - H MET 53 CB   VS E PHE 490 CE2 
+Distance: 3.830217 - Hydrophobic, 
+8 - H MET 53 CB   VS E PHE 490 CZ  
+Distance: 4.399598 - Hydrophobic, 
+9 - H MET 53 CG   VS E PHE 490 CD2 
+Distance: 3.818847 - Hydrophobic, 
+10 - H MET 53 CG   VS E PHE 490 CE2 
+Distance: 3.931149 - Hydrophobic, 
+11 - H PHE 54 CB   VS E LEU 452 CD2 
+Distance: 3.949147 - Hydrophobic, 
+12 - H PHE 54 CG   VS E LEU 452 CD1 
+Distance: 4.462122 - Hydrophobic, 
+13 - H PHE 54 CG   VS E LEU 452 CD2 
+Distance: 3.676914 - Hydrophobic, 
+14 - H PHE 54 CD1  VS E LEU 452 CD2 
+Distance: 4.183515 - Hydrophobic, 
+15 - H PHE 54 CD2  VS E LEU 452 CG  
+Distance: 4.337545 - Hydrophobic, 
+16 - H PHE 54 CD2  VS E LEU 452 CD1 
+Distance: 3.729890 - Hydrophobic, 
+17 - H PHE 54 CD2  VS E LEU 452 CD2 
+Distance: 3.678644 - Hydrophobic, 
+18 - H PHE 54 CE2  VS E LEU 452 CD1 
+Distance: 4.187803 - Hydrophobic, 
+19 - H PHE 54 CE2  VS E LEU 452 CD2 
+Distance: 4.190152 - Hydrophobic, 
+20 - H PHE 54 CD2  VS E PHE 490 CE2 
+Distance: 4.461405 - Hydrophobic, 
+21 - H PHE 54 CE2  VS E PHE 490 CD2 
+Distance: 3.911358 - Hydrophobic, 
+22 - H PHE 54 CE2  VS E PHE 490 CE2 
+Distance: 3.612554 - Hydrophobic, 
+23 - H PHE 54 CZ   VS E PHE 490 CD2 
+Distance: 4.165362 - Hydrophobic, 
+24 - H PHE 54 CZ   VS E PHE 490 CE2 
+Distance: 4.312547 - Hydrophobic, 
+25 - H PHE 54 CE2  VS E LEU 492 CB  
+Distance: 3.958823 - Hydrophobic, 
+26 - H PHE 54 CZ   VS E LEU 492 CB  
+Distance: 4.433749 - Hydrophobic, 
+27 - H THR 56 CG2  VS E ASN 450 CB  
+Distance: 4.314556 - Hydrophobic, 
+28 - H THR 56 CG2  VS E LEU 452 CG  
+Distance: 4.044911 - Hydrophobic, 
+29 - H THR 56 CG2  VS E LEU 452 CD1 
+Distance: 4.017028 - Hydrophobic, 
+30 - H THR 56 CG2  VS E LEU 452 CD2 
+Distance: 3.918397 - Hydrophobic, 
+31 - H GLN 64 OE1  VS E ARG 346 NH2 
+Distance: 3.246888 - Hydrogen Bonds, 
+32 - H ARG 96 NH2  VS E SER 469 OG  
+Distance: 3.825176 - Hydrogen Bonds, 
+33 - H ARG 96 NE   VS E GLU 471 OE1 
+Distance: 4.891147 - Attractive, 
+34 - H ARG 96 NE   VS E GLU 471 OE2 
+Distance: 5.122473 - Attractive, 
+35 - H ARG 96 CZ   VS E GLU 471 OE1 
+Distance: 4.699040 - Attractive, 
+36 - H ARG 96 CZ   VS E GLU 471 OE2 
+Distance: 4.632526 - Attractive, 
+37 - H ARG 96 NH1  VS E GLU 471 OE1 
+Distance: 5.874973 - Attractive, 
+38 - H ARG 96 NH1  VS E GLU 471 OE2 
+Distance: 5.609631 - Attractive, 
+39 - H ARG 96 NH2  VS E GLU 471 OE1 
+Distance: 3.619966 - Attractive, Hydrogen Bonds, 
+40 - H ARG 96 NH2  VS E GLU 471 OE2 
+Distance: 3.455057 - Attractive, Hydrogen Bonds, 
+41 - H GLY 97 N    VS E THR 470 OG1 
+Distance: 3.252809 - Hydrogen Bonds, 
+42 - H ASP 98 OD2  VS E ASP 467 OD1 
+Distance: 5.097203 - Repulsive, 
+43 - H ASP 98 OD1  VS E SER 469 OG  
+Distance: 3.693248 - Hydrogen Bonds, 

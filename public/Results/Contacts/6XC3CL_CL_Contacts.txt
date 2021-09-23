@@ -1,0 +1,29 @@
+IMMUNE SYSTEM/VIRAL PROTEIN             08-JUN-20   6XC3             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN IN COMPLEX WITH ANTIBODIES CC12.1 AND CR3022:
+
+0 - L ILE 28 CD1  VS C VAL 382 CG1 
+Distance: 4.013408 - Hydrophobic, 
+1 - L ILE 28 CG1  VS C PHE 392 CE1 
+Distance: 4.386137 - Hydrophobic, 
+2 - L ILE 28 CD1  VS C PHE 392 CE1 
+Distance: 4.019053 - Hydrophobic, 
+3 - L ILE 28 CD1  VS C THR 430 CG2 
+Distance: 4.105985 - Hydrophobic, 
+4 - L TYR 32 OH   VS C GLY 381 O   
+Distance: 2.596295 - Hydrogen Bonds, 
+5 - L TYR 49 CE1  VS C LYS 386 CD  
+Distance: 3.788954 - Hydrophobic, 
+6 - L TYR 49 CE2  VS C LYS 386 CB  
+Distance: 4.395861 - Hydrophobic, 
+7 - L TYR 49 CE2  VS C LYS 386 CG  
+Distance: 4.494343 - Hydrophobic, 
+8 - L TYR 49 CE2  VS C LYS 386 CD  
+Distance: 4.170228 - Hydrophobic, 
+9 - L TRP 50 CZ3  VS C LEU 390 CD2 
+Distance: 3.737514 - Hydrophobic, 
+10 - L TRP 50 CH2  VS C LEU 390 CD2 
+Distance: 4.090299 - Hydrophobic, 
+11 - L GLU 55 OE1  VS C LYS 386 NZ  
+Distance: 2.964465 - Attractive, Hydrogen Bonds, 
+12 - L GLU 55 OE2  VS C LYS 386 NZ  
+Distance: 4.511160 - Attractive, 

@@ -1,0 +1,49 @@
+VIRAL PROTEIN                           14-JUN-20   6ZDH             
+SARS-COV-2 SPIKE GLYCOPROTEIN IN COMPLEX WITH A NEUTRALIZING ANTIBODYEY6A FAB:
+
+0 - C PHE 377 CG   VS I LEU 95 CD1 
+Distance: 4.363572 - Hydrophobic, 
+1 - C PHE 377 CD1  VS I LEU 95 CD1 
+Distance: 3.896978 - Hydrophobic, 
+2 - C PHE 377 CE1  VS I LEU 95 CD1 
+Distance: 4.454447 - Hydrophobic, 
+3 - C CYS 379 O    VS I THR 94 N   
+Distance: 2.886094 - Hydrogen Bonds, 
+4 - C TYR 380 CB   VS I TYR 92 CD2 
+Distance: 4.287836 - Hydrophobic, 
+5 - C TYR 380 CB   VS I TYR 92 CE1 
+Distance: 4.227884 - Hydrophobic, 
+6 - C TYR 380 CB   VS I TYR 92 CE2 
+Distance: 3.774270 - Hydrophobic, 
+7 - C TYR 380 CG   VS I TYR 92 CG  
+Distance: 5.939655 - Aromatic Stacking, 
+8 - C TYR 380 CG   VS I TYR 92 CE2 
+Distance: 4.321827 - Hydrophobic, 
+9 - C TYR 380 CD2  VS I TYR 92 CD2 
+Distance: 4.223996 - Hydrophobic, 
+10 - C TYR 380 CD2  VS I TYR 92 CE2 
+Distance: 3.967788 - Hydrophobic, 
+11 - C GLY 381 O    VS I TYR 32 OH  
+Distance: 3.343098 - Hydrogen Bonds, 
+12 - C GLY 381 N    VS I TYR 92 O   
+Distance: 2.907941 - Hydrogen Bonds, 
+13 - C VAL 382 O    VS I THR 94 OG1 
+Distance: 3.249387 - Hydrogen Bonds, 
+14 - C SER 383 N    VS I THR 94 OG1 
+Distance: 3.774311 - Hydrogen Bonds, 
+15 - C SER 383 OG   VS I THR 94 OG1 
+Distance: 3.831778 - Hydrogen Bonds, 
+16 - C PRO 384 CG   VS I LEU 95 CG  
+Distance: 4.179603 - Hydrophobic, 
+17 - C PRO 384 CG   VS I LEU 95 CD1 
+Distance: 3.887695 - Hydrophobic, 
+18 - C PRO 384 CG   VS I LEU 95 CD2 
+Distance: 4.123191 - Hydrophobic, 
+19 - C PRO 412 CG   VS I TYR 92 CE2 
+Distance: 3.550556 - Hydrophobic, 
+20 - C ASP 427 O    VS I TYR 92 OH  
+Distance: 3.399420 - Hydrogen Bonds, 
+21 - C PHE 429 N    VS I TYR 92 OH  
+Distance: 3.215222 - Hydrogen Bonds, 
+22 - C PHE 429 O    VS I TYR 92 OH  
+Distance: 2.208269 - Hydrogen Bonds, 

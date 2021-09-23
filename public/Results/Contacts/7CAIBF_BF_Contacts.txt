@@ -1,0 +1,27 @@
+VIRAL PROTEIN                           08-JUN-20   7CAI             
+SARS-COV-2 S TRIMER WITH TWO RBDS IN THE OPEN STATE AND COMPLEXED WITTWO H014 FAB:
+
+0 - B TYR 369 CD1  VS F TRP 93 CZ2 
+Distance: 4.363385 - Hydrophobic, 
+1 - B ALA 372 CB   VS F GLN 26 CG  
+Distance: 4.394420 - Hydrophobic, 
+2 - B ALA 372 O    VS F SER 27 OG  
+Distance: 3.456828 - Hydrogen Bonds, 
+3 - B PHE 374 O    VS F PHE 92 N   
+Distance: 3.487387 - Hydrogen Bonds, 
+4 - B PHE 374 O    VS F TRP 93 N   
+Distance: 2.203762 - Hydrogen Bonds, 
+5 - B SER 375 OG   VS F ASN 91 ND2 
+Distance: 3.362050 - Hydrogen Bonds, 
+6 - B SER 375 O    VS F PHE 92 N   
+Distance: 2.728076 - Hydrogen Bonds, 
+7 - B SER 375 O    VS F TRP 93 N   
+Distance: 2.697428 - Hydrogen Bonds, 
+8 - B ASN 437 ND2  VS F SER 29 OG  
+Distance: 3.477366 - Hydrogen Bonds, 
+9 - B ASN 437 CB   VS F PHE 92 CE1 
+Distance: 4.382143 - Hydrophobic, 
+10 - B VAL 503 CG1  VS F ASN 31 CB  
+Distance: 4.400619 - Hydrophobic, 
+11 - B VAL 503 CG2  VS F ASN 31 CB  
+Distance: 4.150557 - Hydrophobic, 

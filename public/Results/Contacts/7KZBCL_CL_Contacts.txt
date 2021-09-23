@@ -1,0 +1,107 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             10-DEC-20   7KZB             
+POTENT SARS-COV-2 BINDING AND NEUTRALIZATION THROUGH MATURATION OF ICONIC SARS-COV-1ANTIBODIES:
+
+0 - L TYR 28 CE1  VS C ALA 372 CB  
+Distance: 3.776180 - Hydrophobic, 
+1 - L TYR 28 CE2  VS C ALA 372 CB  
+Distance: 4.388394 - Hydrophobic, 
+2 - L TYR 30 OH   VS C LEU 368 O   
+Distance: 3.216305 - Hydrogen Bonds, 
+3 - L TYR 30 CE2  VS C TYR 369 CB  
+Distance: 4.364058 - Hydrophobic, 
+4 - L TYR 30 OH   VS C TYR 369 O   
+Distance: 2.692801 - Hydrogen Bonds, 
+5 - L TYR 30 OH   VS C ASN 370 N   
+Distance: 3.866726 - Hydrogen Bonds, 
+6 - L TYR 30 OH   VS C SER 371 N   
+Distance: 3.421677 - Hydrogen Bonds, 
+7 - L TYR 30 OH   VS C SER 371 O   
+Distance: 2.625997 - Hydrogen Bonds, 
+8 - L TYR 30 CD1  VS C PHE 374 CB  
+Distance: 3.720065 - Hydrophobic, 
+9 - L TYR 30 CE1  VS C PHE 374 CB  
+Distance: 3.568970 - Hydrophobic, 
+10 - L TYR 30 CE1  VS C PHE 374 CG  
+Distance: 4.300248 - Hydrophobic, 
+11 - L TYR 30 CE1  VS C PHE 374 CD2 
+Distance: 4.070190 - Hydrophobic, 
+12 - L TYR 30 CB   VS C PHE 377 CB  
+Distance: 4.252527 - Hydrophobic, 
+13 - L TYR 30 CG   VS C PHE 377 CB  
+Distance: 3.739618 - Hydrophobic, 
+14 - L TYR 30 CG   VS C PHE 377 CG  
+Distance: 5.262247 - Aromatic Stacking, 
+15 - L TYR 30 CD1  VS C PHE 377 CB  
+Distance: 4.292470 - Hydrophobic, 
+16 - L TYR 30 CD2  VS C PHE 377 CB  
+Distance: 3.500906 - Hydrophobic, 
+17 - L TYR 30 CD2  VS C PHE 377 CG  
+Distance: 4.154586 - Hydrophobic, 
+18 - L TYR 30 CD2  VS C PHE 377 CD2 
+Distance: 4.285416 - Hydrophobic, 
+19 - L TYR 30 CE2  VS C PHE 377 CB  
+Distance: 3.815174 - Hydrophobic, 
+20 - L TYR 30 CE2  VS C PHE 377 CG  
+Distance: 4.000261 - Hydrophobic, 
+21 - L TYR 30 CE2  VS C PHE 377 CD2 
+Distance: 3.707672 - Hydrophobic, 
+22 - L ASP 31 N    VS C SER 375 O   
+Distance: 3.639939 - Hydrogen Bonds, 
+23 - L ASP 31 OD2  VS C THR 376 OG1 
+Distance: 3.747216 - Hydrogen Bonds, 
+24 - L ASP 31 OD1  VS C LYS 378 NZ  
+Distance: 5.106096 - Attractive, 
+25 - L ASP 31 OD2  VS C LYS 378 NZ  
+Distance: 5.969773 - Attractive, 
+26 - L ASP 50 OD1  VS C LYS 378 NZ  
+Distance: 3.352398 - Attractive, Hydrogen Bonds, 
+27 - L ASP 50 OD2  VS C LYS 378 NZ  
+Distance: 3.641240 - Attractive, Hydrogen Bonds, 
+28 - L TRP 92 CZ2  VS C TYR 369 CB  
+Distance: 3.321122 - Hydrophobic, 
+29 - L TRP 92 CZ2  VS C TYR 369 CG  
+Distance: 4.172909 - Hydrophobic, 
+30 - L TRP 92 CH2  VS C TYR 369 CB  
+Distance: 3.358813 - Hydrophobic, 
+31 - L TRP 92 CH2  VS C TYR 369 CG  
+Distance: 3.795554 - Hydrophobic, 
+32 - L TRP 92 CH2  VS C TYR 369 CD1 
+Distance: 4.365530 - Hydrophobic, 
+33 - L TRP 92 CH2  VS C TYR 369 CD2 
+Distance: 4.309626 - Hydrophobic, 
+34 - L TRP 92 CG   VS C PHE 377 CG  
+Distance: 5.526746 - Aromatic Stacking, 
+35 - L TRP 92 NE1  VS C PHE 377 O   
+Distance: 2.920033 - Hydrogen Bonds, 
+36 - L TRP 92 CZ2  VS C PHE 377 CG  
+Distance: 4.472724 - Hydrophobic, 
+37 - L TRP 92 CZ2  VS C PHE 377 CD1 
+Distance: 4.404846 - Hydrophobic, 
+38 - L TRP 92 CD2  VS C PRO 384 CG  
+Distance: 3.904905 - Hydrophobic, 
+39 - L TRP 92 CE3  VS C PRO 384 CG  
+Distance: 3.988638 - Hydrophobic, 
+40 - L TRP 92 CZ2  VS C PRO 384 CB  
+Distance: 3.521261 - Hydrophobic, 
+41 - L TRP 92 CZ2  VS C PRO 384 CG  
+Distance: 3.389117 - Hydrophobic, 
+42 - L TRP 92 CZ3  VS C PRO 384 CB  
+Distance: 4.410426 - Hydrophobic, 
+43 - L TRP 92 CZ3  VS C PRO 384 CG  
+Distance: 3.756936 - Hydrophobic, 
+44 - L TRP 92 CH2  VS C PRO 384 CB  
+Distance: 3.668454 - Hydrophobic, 
+45 - L TRP 92 CH2  VS C PRO 384 CG  
+Distance: 3.461689 - Hydrophobic, 
+46 - L TRP 92 CZ3  VS C THR 385 CG2 
+Distance: 3.663985 - Hydrophobic, 
+47 - L TRP 92 CH2  VS C THR 385 CG2 
+Distance: 3.951541 - Hydrophobic, 
+48 - L ASP 93 OD1  VS C SER 383 OG  
+Distance: 3.381835 - Hydrogen Bonds, 
+49 - L ASP 93 CB   VS C PRO 384 CG  
+Distance: 4.441607 - Hydrophobic, 
+50 - L ASP 93 OD1  VS C THR 385 OG1 
+Distance: 3.042742 - Hydrogen Bonds, 
+51 - L ASP 93 OD2  VS C THR 385 OG1 
+Distance: 2.365600 - Hydrogen Bonds, 

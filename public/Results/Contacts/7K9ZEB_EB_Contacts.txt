@@ -1,0 +1,51 @@
+IMMUNE SYSTEM                           29-SEP-20   7K9Z             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN IN COMPLEX WITH THE FAB FRAGMENTS OF NEUTRALIZING ANTIBODIES 298 AND 52:
+
+0 - B THR 31 CG2  VS E GLN 493 CG  
+Distance: 4.306133 - Hydrophobic, 
+1 - B TYR 32 CE2  VS E PHE 456 CZ  
+Distance: 4.495266 - Hydrophobic, 
+2 - B TYR 32 CG   VS E TYR 489 CG  
+Distance: 5.404676 - Aromatic Stacking, 
+3 - B TYR 32 CD2  VS E TYR 489 CE2 
+Distance: 4.036357 - Hydrophobic, 
+4 - B TYR 32 CE2  VS E TYR 489 CE2 
+Distance: 4.287259 - Hydrophobic, 
+5 - B TRP 47 CG   VS E PHE 486 CG  
+Distance: 5.763813 - Aromatic Stacking, 
+6 - B TRP 47 CZ2  VS E PHE 486 CB  
+Distance: 4.340611 - Hydrophobic, 
+7 - B TRP 47 CZ2  VS E PHE 486 CG  
+Distance: 4.398509 - Hydrophobic, 
+8 - B TRP 47 CH2  VS E PHE 486 CB  
+Distance: 4.409326 - Hydrophobic, 
+9 - B TRP 50 CZ3  VS E GLU 484 CB  
+Distance: 4.417456 - Hydrophobic, 
+10 - B TRP 50 CH2  VS E GLU 484 CB  
+Distance: 4.499353 - Hydrophobic, 
+11 - B TRP 50 CB   VS E PHE 486 CB  
+Distance: 4.192305 - Hydrophobic, 
+12 - B TRP 50 CG   VS E PHE 486 CB  
+Distance: 4.440239 - Hydrophobic, 
+13 - B TRP 50 CG   VS E TYR 489 CG  
+Distance: 5.900350 - Aromatic Stacking, 
+14 - B TRP 50 CZ2  VS E TYR 489 CD1 
+Distance: 3.884271 - Hydrophobic, 
+15 - B TRP 50 CZ2  VS E TYR 489 CE1 
+Distance: 4.078237 - Hydrophobic, 
+16 - B SER 52 OG   VS E GLU 484 OE1 
+Distance: 3.754182 - Hydrogen Bonds, 
+17 - B SER 54 OG   VS E GLU 484 OE1 
+Distance: 3.823390 - Hydrogen Bonds, 
+18 - B SER 54 OG   VS E GLU 484 OE2 
+Distance: 3.177397 - Hydrogen Bonds, 
+19 - B ASP 58 OD2  VS E PHE 486 N   
+Distance: 3.315647 - Hydrogen Bonds, 
+20 - B ASP 95 OD2  VS E TYR 489 OH  
+Distance: 3.550970 - Hydrogen Bonds, 
+21 - B ARG 97 NH1  VS E ASN 487 OD1 
+Distance: 3.453054 - Hydrogen Bonds, 
+22 - B ARG 97 NH2  VS E ASN 487 OD1 
+Distance: 2.616930 - Hydrogen Bonds, 
+23 - B ARG 97 NH2  VS E TYR 489 OH  
+Distance: 2.976686 - Hydrogen Bonds, 

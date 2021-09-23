@@ -1,0 +1,59 @@
+ANTIVIRAL PROTEIN/IMMUNE SYSTEM         05-JUL-20   7CHH             
+CRYO-EM STRUCTURE OF THE SARS-COV-2 S-6P IN COMPLEX WITH BD-368-2 FAB:
+
+0 - A TYR 449 OH   VS D GLY 26 O   
+Distance: 3.615175 - Hydrogen Bonds, 
+1 - A TYR 449 CB   VS D ALA 28 CB  
+Distance: 4.045921 - Hydrophobic, 
+2 - A LEU 452 CD1  VS D THR 31 CG2 
+Distance: 3.752747 - Hydrophobic, 
+3 - A GLY 482 O    VS D LEU 104 N   
+Distance: 3.393863 - Hydrogen Bonds, 
+4 - A GLY 482 O    VS D TYR 105 N   
+Distance: 3.302287 - Hydrogen Bonds, 
+5 - A GLY 482 O    VS D ASP 106 N   
+Distance: 3.893952 - Hydrogen Bonds, 
+6 - A VAL 483 CG2  VS D TYR 105 CB  
+Distance: 4.252931 - Hydrophobic, 
+7 - A GLU 484 O    VS D ARG 100 NH1 
+Distance: 3.099885 - Hydrogen Bonds, 
+8 - A GLU 484 O    VS D ARG 100 NH2 
+Distance: 2.523849 - Hydrogen Bonds, 
+9 - A GLU 484 OE1  VS D ARG 100 NE  
+Distance: 5.083873 - Attractive, 
+10 - A GLU 484 OE1  VS D ARG 100 CZ  
+Distance: 5.392740 - Attractive, 
+11 - A GLU 484 OE1  VS D ARG 100 NH1 
+Distance: 5.312072 - Attractive, 
+12 - A GLU 484 OE2  VS D ARG 100 NE  
+Distance: 5.604698 - Attractive, 
+13 - A GLU 484 OE2  VS D ARG 100 CZ  
+Distance: 5.682265 - Attractive, 
+14 - A GLU 484 OE2  VS D ARG 100 NH1 
+Distance: 5.093223 - Attractive, 
+15 - A GLU 484 OE1  VS D ARG 102 NE  
+Distance: 3.873566 - Attractive, Hydrogen Bonds, 
+16 - A GLU 484 OE1  VS D ARG 102 CZ  
+Distance: 4.489467 - Attractive, 
+17 - A GLU 484 OE1  VS D ARG 102 NH1 
+Distance: 5.807576 - Attractive, 
+18 - A GLU 484 OE1  VS D ARG 102 NH2 
+Distance: 4.132955 - Attractive, 
+19 - A GLU 484 OE2  VS D ARG 102 NE  
+Distance: 4.550576 - Attractive, 
+20 - A GLU 484 OE2  VS D ARG 102 CZ  
+Distance: 4.521833 - Attractive, 
+21 - A GLU 484 OE2  VS D ARG 102 NH1 
+Distance: 5.762370 - Attractive, 
+22 - A GLU 484 OE2  VS D ARG 102 NH2 
+Distance: 3.571957 - Attractive, Hydrogen Bonds, 
+23 - A GLU 484 N    VS D ASP 106 OD1 
+Distance: 3.461387 - Hydrogen Bonds, 
+24 - A GLU 484 OE1  VS D ASP 106 OD2 
+Distance: 4.669271 - Repulsive, 
+25 - A PHE 490 CD1  VS D ARG 102 CB  
+Distance: 3.989123 - Hydrophobic, 
+26 - A PHE 490 CE1  VS D ARG 102 CB  
+Distance: 3.950544 - Hydrophobic, 
+27 - A PHE 490 CE1  VS D ARG 102 CG  
+Distance: 4.410218 - Hydrophobic, 

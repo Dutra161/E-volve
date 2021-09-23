@@ -1,0 +1,17 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             11-JUN-20   6XE1             
+STRUCTURE OF SARS-COV-2 SPIKE PROTEIN RECEPTOR BINDING DOMAIN IN COMPLEX WITH A POTENT NEUTRALIZING ANTIBODY, CV30 FAB:
+
+0 - L TYR 32 OH   VS E ARG 403 NH1 
+Distance: 3.726794 - Hydrogen Bonds, 
+1 - L TYR 32 OH   VS E TYR 453 OH  
+Distance: 3.526891 - Hydrogen Bonds, 
+2 - L TYR 32 CD2  VS E TYR 505 CE1 
+Distance: 4.013403 - Hydrophobic, 
+3 - L TYR 32 CE2  VS E TYR 505 CE1 
+Distance: 4.199321 - Hydrophobic, 
+4 - L GLY 92 O    VS E ARG 403 NH1 
+Distance: 3.193812 - Hydrogen Bonds, 
+5 - L GLY 92 O    VS E ARG 403 NH2 
+Distance: 2.681594 - Hydrogen Bonds, 
+6 - L SER 93 OG   VS E TYR 505 OH  
+Distance: 3.248971 - Hydrogen Bonds, 

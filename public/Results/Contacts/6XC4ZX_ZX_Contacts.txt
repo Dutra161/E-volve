@@ -1,0 +1,107 @@
+IMMUNE SYSTEM/VIRAL PROTEIN             08-JUN-20   6XC4             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN IN COMPLEX WITH NEUTRALIZING ANTIBODY CC12.3:
+
+0 - Z LYS 417 CG   VS X TYR 52 CD1 
+Distance: 4.473581 - Hydrophobic, 
+1 - Z LYS 417 CG   VS X TYR 52 CE1 
+Distance: 3.722095 - Hydrophobic, 
+2 - Z LYS 417 NZ   VS X GLY 97 O   
+Distance: 2.884561 - Hydrogen Bonds, 
+3 - Z LYS 417 NZ   VS X ASP 98 OD1 
+Distance: 5.773880 - Attractive, 
+4 - Z LYS 417 NZ   VS X ASP 98 OD2 
+Distance: 4.470956 - Attractive, 
+5 - Z ASP 420 OD1  VS X SER 56 OG  
+Distance: 3.673654 - Hydrogen Bonds, 
+6 - Z ASP 420 OD2  VS X SER 56 OG  
+Distance: 2.550969 - Hydrogen Bonds, 
+7 - Z TYR 421 CE2  VS X TYR 52 CD1 
+Distance: 4.122652 - Hydrophobic, 
+8 - Z TYR 421 OH   VS X SER 53 N   
+Distance: 3.640501 - Hydrogen Bonds, 
+9 - Z TYR 421 OH   VS X SER 53 OG  
+Distance: 3.210923 - Hydrogen Bonds, 
+10 - Z TYR 421 OH   VS X GLY 54 N   
+Distance: 2.682234 - Hydrogen Bonds, 
+11 - Z LEU 455 O    VS X TYR 33 OH  
+Distance: 2.598463 - Hydrogen Bonds, 
+12 - Z LEU 455 CD2  VS X PHE 96 CE1 
+Distance: 4.424876 - Hydrophobic, 
+13 - Z LEU 455 CD1  VS X PHE 99 CE2 
+Distance: 4.144705 - Hydrophobic, 
+14 - Z LEU 455 CD1  VS X PHE 99 CZ  
+Distance: 4.288099 - Hydrophobic, 
+15 - Z LEU 455 CD2  VS X PHE 99 CE2 
+Distance: 3.970379 - Hydrophobic, 
+16 - Z PHE 456 CG   VS X TYR 33 CG  
+Distance: 5.785626 - Aromatic Stacking, 
+17 - Z PHE 456 CD1  VS X TYR 33 CD2 
+Distance: 4.167922 - Hydrophobic, 
+18 - Z PHE 456 CD1  VS X TYR 33 CE2 
+Distance: 3.799764 - Hydrophobic, 
+19 - Z PHE 456 CE1  VS X TYR 33 CD2 
+Distance: 3.923286 - Hydrophobic, 
+20 - Z PHE 456 CE1  VS X TYR 33 CE2 
+Distance: 3.862251 - Hydrophobic, 
+21 - Z PHE 456 CG   VS X PHE 96 CG  
+Distance: 5.321811 - Aromatic Stacking, 
+22 - Z PHE 456 CE2  VS X PHE 96 CE2 
+Distance: 4.068962 - Hydrophobic, 
+23 - Z PHE 456 CE2  VS X PHE 96 CZ  
+Distance: 3.984744 - Hydrophobic, 
+24 - Z PHE 456 CZ   VS X PHE 96 CD2 
+Distance: 3.969717 - Hydrophobic, 
+25 - Z PHE 456 CZ   VS X PHE 96 CE1 
+Distance: 4.424521 - Hydrophobic, 
+26 - Z PHE 456 CZ   VS X PHE 96 CE2 
+Distance: 3.631638 - Hydrophobic, 
+27 - Z PHE 456 CZ   VS X PHE 96 CZ  
+Distance: 3.887088 - Hydrophobic, 
+28 - Z ARG 457 N    VS X SER 53 OG  
+Distance: 3.579026 - Hydrogen Bonds, 
+29 - Z ARG 457 O    VS X SER 53 OG  
+Distance: 2.791251 - Hydrogen Bonds, 
+30 - Z ARG 457 O    VS X GLY 54 N   
+Distance: 3.456209 - Hydrogen Bonds, 
+31 - Z ASN 460 ND2  VS X SER 56 OG  
+Distance: 3.892017 - Hydrogen Bonds, 
+32 - Z TYR 473 OH   VS X SER 31 O   
+Distance: 2.702817 - Hydrogen Bonds, 
+33 - Z ALA 475 O    VS X THR 28 N   
+Distance: 3.097651 - Hydrogen Bonds, 
+34 - Z ALA 475 O    VS X THR 28 OG1 
+Distance: 3.618674 - Hydrogen Bonds, 
+35 - Z ALA 475 O    VS X ASN 32 ND2 
+Distance: 2.954499 - Hydrogen Bonds, 
+36 - Z GLY 476 O    VS X THR 28 OG1 
+Distance: 3.532907 - Hydrogen Bonds, 
+37 - Z PHE 486 CE1  VS X VAL 2 CG2 
+Distance: 4.070268 - Hydrophobic, 
+38 - Z PHE 486 CZ   VS X VAL 2 CG2 
+Distance: 3.741392 - Hydrophobic, 
+39 - Z PHE 486 CE1  VS X TYR 102 CE2 
+Distance: 4.409946 - Hydrophobic, 
+40 - Z ASN 487 ND2  VS X GLY 26 O   
+Distance: 2.887621 - Hydrogen Bonds, 
+41 - Z ASN 487 OD1  VS X ARG 94 NH2 
+Distance: 2.526944 - Hydrogen Bonds, 
+42 - Z TYR 489 OH   VS X ARG 94 NH1 
+Distance: 3.205212 - Hydrogen Bonds, 
+43 - Z TYR 489 OH   VS X ARG 94 NH2 
+Distance: 2.935949 - Hydrogen Bonds, 
+44 - Z TYR 489 CG   VS X PHE 96 CG  
+Distance: 5.104544 - Aromatic Stacking, 
+45 - Z TYR 489 CG   VS X PHE 96 CE2 
+Distance: 4.039065 - Hydrophobic, 
+46 - Z TYR 489 CD1  VS X PHE 96 CE2 
+Distance: 3.897994 - Hydrophobic, 
+47 - Z TYR 489 CD2  VS X PHE 96 CE2 
+Distance: 4.134367 - Hydrophobic, 
+48 - Z TYR 489 CE1  VS X PHE 96 CD2 
+Distance: 4.478082 - Hydrophobic, 
+49 - Z TYR 489 CE1  VS X PHE 96 CE2 
+Distance: 3.868900 - Hydrophobic, 
+50 - Z TYR 489 CE2  VS X PHE 96 CD2 
+Distance: 4.368097 - Hydrophobic, 
+51 - Z TYR 489 CE2  VS X PHE 96 CE2 
+Distance: 4.105813 - Hydrophobic, 

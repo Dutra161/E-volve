@@ -1,0 +1,57 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             27-SEP-20   7K8X             
+STRUCTURE OF THE SARS-COV-2 S 2P TRIMER IN COMPLEX WITH THE HUMANNEUTRALIZING ANTIBODY FAB FRAGMENT, C121 (STATE 1):
+
+0 - A LYS 444 NZ   VS E SER 75 O   
+Distance: 3.021826 - Hydrogen Bonds, 
+1 - A TYR 449 CE1  VS E PHE 29 CB  
+Distance: 4.139650 - Hydrophobic, 
+2 - A TYR 449 OH   VS E PHE 29 N   
+Distance: 3.058322 - Hydrogen Bonds, 
+3 - A TYR 449 CB   VS E THR 30 CG2 
+Distance: 4.326391 - Hydrophobic, 
+4 - A TYR 449 CG   VS E THR 30 CG2 
+Distance: 4.309119 - Hydrophobic, 
+5 - A TYR 449 CD2  VS E THR 30 CG2 
+Distance: 4.317217 - Hydrophobic, 
+6 - A LEU 452 CD1  VS E VAL 54 CG2 
+Distance: 3.837874 - Hydrophobic, 
+7 - A GLU 484 OE1  VS E TYR 33 OH  
+Distance: 3.557309 - Hydrogen Bonds, 
+8 - A GLU 484 CG   VS E TRP 50 CH2 
+Distance: 3.780627 - Hydrophobic, 
+9 - A PHE 486 CG   VS E TYR 113 CG  
+Distance: 4.827814 - Aromatic Stacking, 
+10 - A PHE 486 CG   VS E TYR 113 CD1 
+Distance: 4.312743 - Hydrophobic, 
+11 - A PHE 486 CD2  VS E TYR 113 CB  
+Distance: 4.333242 - Hydrophobic, 
+12 - A PHE 486 CD2  VS E TYR 113 CG  
+Distance: 4.038052 - Hydrophobic, 
+13 - A PHE 486 CD2  VS E TYR 113 CD1 
+Distance: 3.256406 - Hydrophobic, 
+14 - A PHE 486 CD2  VS E TYR 113 CE1 
+Distance: 3.770874 - Hydrophobic, 
+15 - A PHE 486 CE1  VS E TYR 113 CB  
+Distance: 4.164351 - Hydrophobic, 
+16 - A PHE 486 CE2  VS E TYR 113 CB  
+Distance: 3.676662 - Hydrophobic, 
+17 - A PHE 486 CE2  VS E TYR 113 CG  
+Distance: 3.631191 - Hydrophobic, 
+18 - A PHE 486 CE2  VS E TYR 113 CD1 
+Distance: 2.849529 - Hydrophobic, 
+19 - A PHE 486 CE2  VS E TYR 113 CE1 
+Distance: 3.700449 - Hydrophobic, 
+20 - A PHE 486 CZ   VS E TYR 113 CB  
+Distance: 3.578532 - Hydrophobic, 
+21 - A PHE 486 CZ   VS E TYR 113 CG  
+Distance: 4.078109 - Hydrophobic, 
+22 - A PHE 486 CZ   VS E TYR 113 CD1 
+Distance: 3.690016 - Hydrophobic, 
+23 - A TYR 489 OH   VS E GLY 105 O   
+Distance: 3.787048 - Hydrogen Bonds, 
+24 - A TYR 489 OH   VS E ALA 109 O   
+Distance: 3.008087 - Hydrogen Bonds, 
+25 - A TYR 489 OH   VS E ASP 111 N   
+Distance: 2.919108 - Hydrogen Bonds, 
+26 - A TYR 489 OH   VS E ASP 111 O   
+Distance: 2.591901 - Hydrogen Bonds, 

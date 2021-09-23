@@ -1,0 +1,35 @@
+IMMUNE SYSTEM                           29-SEP-20   7K9Z             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN IN COMPLEX WITH THE FAB FRAGMENTS OF NEUTRALIZING ANTIBODIES 298 AND 52:
+
+0 - A TYR 32 OH   VS E ALA 475 O   
+Distance: 3.321155 - Hydrogen Bonds, 
+1 - A TYR 91 CB   VS E PHE 486 CE2 
+Distance: 4.411871 - Hydrophobic, 
+2 - A TYR 91 CB   VS E PHE 486 CZ  
+Distance: 3.813655 - Hydrophobic, 
+3 - A TYR 91 O    VS E ASN 487 ND2 
+Distance: 3.000092 - Hydrogen Bonds, 
+4 - A TYR 92 O    VS E SER 477 N   
+Distance: 3.285326 - Hydrogen Bonds, 
+5 - A TYR 92 O    VS E SER 477 OG  
+Distance: 3.364326 - Hydrogen Bonds, 
+6 - A TYR 92 O    VS E ASN 487 ND2 
+Distance: 3.682075 - Hydrogen Bonds, 
+7 - A THR 94 OG1  VS E THR 478 OG1 
+Distance: 3.423969 - Hydrogen Bonds, 
+8 - A THR 94 OG1  VS E PHE 486 O   
+Distance: 3.515264 - Hydrogen Bonds, 
+9 - A THR 94 CG2  VS E PHE 486 CD2 
+Distance: 4.497761 - Hydrophobic, 
+10 - A PRO 96 CB   VS E PHE 486 CE2 
+Distance: 4.026408 - Hydrophobic, 
+11 - A PRO 96 CB   VS E PHE 486 CZ  
+Distance: 4.065426 - Hydrophobic, 
+12 - A PRO 96 CG   VS E PHE 486 CD2 
+Distance: 4.293168 - Hydrophobic, 
+13 - A PRO 96 CG   VS E PHE 486 CE1 
+Distance: 4.401403 - Hydrophobic, 
+14 - A PRO 96 CG   VS E PHE 486 CE2 
+Distance: 3.759198 - Hydrophobic, 
+15 - A PRO 96 CG   VS E PHE 486 CZ  
+Distance: 3.820903 - Hydrophobic, 

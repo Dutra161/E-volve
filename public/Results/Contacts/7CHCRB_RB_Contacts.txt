@@ -1,0 +1,13 @@
+PROTEIN BINDING/IMMUNE SYSTEM           05-JUL-20   7CHC             
+CRYSTAL STRUCTURE OF THE SARS-COV-2 S RBD IN COMPLEX WITH BD-629 FAB AND BD-368-2 FAB:
+
+0 - R ASN 481 O    VS B ASN 33 ND2 
+Distance: 3.340228 - Hydrogen Bonds, 
+1 - R ASN 481 CB   VS B ASN 33 CB  
+Distance: 3.464351 - Hydrophobic, 
+2 - R ASN 481 ND2  VS B ASN 33 O   
+Distance: 3.474026 - Hydrogen Bonds, 
+3 - R ASN 481 CB   VS B TYR 35 CE1 
+Distance: 4.498517 - Hydrophobic, 
+4 - R VAL 483 CG1  VS B LEU 55 CD1 
+Distance: 3.686999 - Hydrophobic, 

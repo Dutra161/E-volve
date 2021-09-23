@@ -1,0 +1,67 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             04-NOV-20   7KN5             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN COMPLEXED WITNANOBODIES VHH E AND U:
+
+0 - A TYR 369 OH   VS E SER 52 OG  
+Distance: 3.850575 - Hydrogen Bonds, 
+1 - A TYR 369 O    VS E TYR 99 N   
+Distance: 2.779363 - Hydrogen Bonds, 
+2 - A TYR 369 CG   VS E TYR 99 CB  
+Distance: 4.466731 - Hydrophobic, 
+3 - A TYR 369 CG   VS E TYR 99 CG  
+Distance: 5.611674 - Aromatic Stacking, 
+4 - A TYR 369 CD2  VS E TYR 99 CB  
+Distance: 3.920973 - Hydrophobic, 
+5 - A TYR 369 CD2  VS E TYR 99 CG  
+Distance: 4.430291 - Hydrophobic, 
+6 - A TYR 369 CE1  VS E TYR 99 CB  
+Distance: 4.479752 - Hydrophobic, 
+7 - A TYR 369 CE2  VS E TYR 99 CB  
+Distance: 3.651261 - Hydrophobic, 
+8 - A TYR 369 CE2  VS E TYR 99 CG  
+Distance: 3.898367 - Hydrophobic, 
+9 - A TYR 369 CE2  VS E TYR 99 CD1 
+Distance: 3.640494 - Hydrophobic, 
+10 - A ASN 370 CB   VS E TYR 100 CE2 
+Distance: 3.991439 - Hydrophobic, 
+11 - A SER 371 O    VS E SER 98 OG  
+Distance: 2.595709 - Hydrogen Bonds, 
+12 - A SER 371 OG   VS E SER 98 OG  
+Distance: 3.677685 - Hydrogen Bonds, 
+13 - A SER 371 O    VS E TYR 99 N   
+Distance: 3.555879 - Hydrogen Bonds, 
+14 - A SER 371 O    VS E TYR 100 N   
+Distance: 3.090655 - Hydrogen Bonds, 
+15 - A ALA 372 CB   VS E TYR 100 CB  
+Distance: 3.958572 - Hydrophobic, 
+16 - A SER 373 N    VS E SER 98 OG  
+Distance: 3.360437 - Hydrogen Bonds, 
+17 - A PHE 374 N    VS E SER 98 OG  
+Distance: 3.146274 - Hydrogen Bonds, 
+18 - A PHE 374 O    VS E SER 98 N   
+Distance: 2.859447 - Hydrogen Bonds, 
+19 - A PHE 374 O    VS E SER 98 OG  
+Distance: 3.482569 - Hydrogen Bonds, 
+20 - A SER 375 O    VS E GLN 95 NE2 
+Distance: 2.878373 - Hydrogen Bonds, 
+21 - A THR 376 OG1  VS E GLN 95 NE2 
+Distance: 3.234634 - Hydrogen Bonds, 
+22 - A PHE 377 N    VS E SER 96 O   
+Distance: 2.808170 - Hydrogen Bonds, 
+23 - A PHE 377 O    VS E SER 96 OG  
+Distance: 3.062069 - Hydrogen Bonds, 
+24 - A LYS 378 NZ   VS E SER 96 O   
+Distance: 3.790930 - Hydrogen Bonds, 
+25 - A LYS 378 NZ   VS E GLU 101 OE1 
+Distance: 4.632023 - Attractive, 
+26 - A LYS 378 NZ   VS E GLU 101 OE2 
+Distance: 5.630862 - Attractive, 
+27 - A SER 383 OG   VS E TYR 31 OH  
+Distance: 3.204408 - Hydrogen Bonds, 
+28 - A PRO 384 CG   VS E TYR 31 CG  
+Distance: 4.343489 - Hydrophobic, 
+29 - A PRO 384 CG   VS E TYR 31 CD1 
+Distance: 4.035025 - Hydrophobic, 
+30 - A PRO 384 CG   VS E TYR 31 CE1 
+Distance: 4.154897 - Hydrophobic, 
+31 - A THR 385 CG2  VS E TYR 31 CE2 
+Distance: 4.477385 - Hydrophobic, 

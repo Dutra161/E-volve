@@ -1,0 +1,5 @@
+VIRAL PROTEIN                           31-AUG-20   7CWS             
+SARS-COV-2 SPIKE PROTEINS TRIMER IN COMPLEX WITH FC05 AND H014 FABSCOCKTAIL:
+
+0 - M TYR 50 OH   VS R LEU 249 O   
+Distance: 3.457618 - Hydrogen Bonds, 

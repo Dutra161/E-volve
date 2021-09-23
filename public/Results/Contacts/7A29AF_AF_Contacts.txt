@@ -1,0 +1,21 @@
+VIRAL PROTEIN                           16-AUG-20   7A29             
+CRYO-EM STRUCTURE OF THE SARS-COV-2 SPIKE PROTEIN BOUND TO NEUTRALIZING SYBODIES (SB23) 2-UP CONFORMATION:
+
+0 - A ARG 408 NE   VS F ASP 62 OD1 
+Distance: 5.170519 - Attractive, 
+1 - A ARG 408 NE   VS F ASP 62 OD2 
+Distance: 5.517989 - Attractive, 
+2 - A ARG 408 CZ   VS F ASP 62 OD1 
+Distance: 3.847048 - Attractive, 
+3 - A ARG 408 CZ   VS F ASP 62 OD2 
+Distance: 4.288215 - Attractive, 
+4 - A ARG 408 NH1  VS F ASP 62 O   
+Distance: 3.494483 - Hydrogen Bonds, 
+5 - A ARG 408 NH1  VS F ASP 62 OD1 
+Distance: 3.376506 - Attractive, Hydrogen Bonds, 
+6 - A ARG 408 NH1  VS F ASP 62 OD2 
+Distance: 3.706845 - Attractive, Hydrogen Bonds, 
+7 - A ARG 408 NH2  VS F ASP 62 OD1 
+Distance: 3.395320 - Attractive, Hydrogen Bonds, 
+8 - A ARG 408 NH2  VS F ASP 62 OD2 
+Distance: 4.030409 - Attractive, 

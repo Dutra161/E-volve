@@ -1,0 +1,69 @@
+VIRAL PROTEIN                           29-AUG-20   7CWM             
+COMPLEX OF SARS-COV-2 SPIKE PROTEIN AND FAB P17 WITH ONE RBD IN OPEN STATE AND TWO RBD IN CLOSED STATE:
+
+0 - A GLU 484 O    VS L ARG 96 NH1 
+Distance: 3.823473 - Hydrogen Bonds, 
+1 - A GLU 484 O    VS L ARG 96 NH2 
+Distance: 2.617658 - Hydrogen Bonds, 
+2 - A GLU 484 OE1  VS L ARG 96 NE  
+Distance: 5.802757 - Attractive, 
+3 - A GLU 484 OE1  VS L ARG 96 CZ  
+Distance: 5.336526 - Attractive, 
+4 - A GLU 484 OE1  VS L ARG 96 NH1 
+Distance: 5.917471 - Attractive, 
+5 - A GLU 484 OE1  VS L ARG 96 NH2 
+Distance: 4.726468 - Attractive, 
+6 - A GLU 484 OE2  VS L ARG 96 NE  
+Distance: 4.422287 - Attractive, 
+7 - A GLU 484 OE2  VS L ARG 96 CZ  
+Distance: 4.441919 - Attractive, 
+8 - A GLU 484 OE2  VS L ARG 96 NH1 
+Distance: 5.330804 - Attractive, 
+9 - A GLU 484 OE2  VS L ARG 96 NH2 
+Distance: 4.092622 - Attractive, 
+10 - A PHE 486 CB   VS L TYR 32 CD2 
+Distance: 4.416848 - Hydrophobic, 
+11 - A PHE 486 CB   VS L TYR 32 CE2 
+Distance: 3.882867 - Hydrophobic, 
+12 - A PHE 486 CG   VS L TYR 32 CG  
+Distance: 5.868013 - Aromatic Stacking, 
+13 - A PHE 486 CG   VS L TYR 32 CE2 
+Distance: 4.123689 - Hydrophobic, 
+14 - A PHE 486 CD1  VS L TYR 32 CD2 
+Distance: 4.197372 - Hydrophobic, 
+15 - A PHE 486 CD1  VS L TYR 32 CE2 
+Distance: 3.412816 - Hydrophobic, 
+16 - A PHE 486 CE1  VS L TYR 32 CE2 
+Distance: 4.388949 - Hydrophobic, 
+17 - A PHE 486 N    VS L TYR 92 O   
+Distance: 3.020894 - Hydrogen Bonds, 
+18 - A PHE 486 CB   VS L TYR 92 CG  
+Distance: 4.238788 - Hydrophobic, 
+19 - A PHE 486 CB   VS L TYR 92 CD1 
+Distance: 3.949193 - Hydrophobic, 
+20 - A PHE 486 CB   VS L TYR 92 CE1 
+Distance: 3.969478 - Hydrophobic, 
+21 - A PHE 486 CG   VS L TYR 92 CG  
+Distance: 4.337623 - Aromatic Stacking, 
+22 - A PHE 486 CG   VS L TYR 92 CD1 
+Distance: 3.874644 - Hydrophobic, 
+23 - A PHE 486 CG   VS L TYR 92 CE1 
+Distance: 3.432879 - Hydrophobic, 
+24 - A PHE 486 CG   VS L TYR 92 CE2 
+Distance: 4.438262 - Hydrophobic, 
+25 - A PHE 486 CD1  VS L TYR 92 CD1 
+Distance: 3.870577 - Hydrophobic, 
+26 - A PHE 486 CD1  VS L TYR 92 CE1 
+Distance: 3.449748 - Hydrophobic, 
+27 - A PHE 486 CD2  VS L TYR 92 CD1 
+Distance: 4.491338 - Hydrophobic, 
+28 - A PHE 486 CD2  VS L TYR 92 CE1 
+Distance: 3.693074 - Hydrophobic, 
+29 - A PHE 486 CD2  VS L TYR 92 CE2 
+Distance: 4.279327 - Hydrophobic, 
+30 - A PHE 486 CE1  VS L TYR 92 CE1 
+Distance: 3.764273 - Hydrophobic, 
+31 - A PHE 486 CE2  VS L TYR 92 CE1 
+Distance: 3.984172 - Hydrophobic, 
+32 - A PHE 486 CZ   VS L TYR 92 CE1 
+Distance: 4.015142 - Hydrophobic, 

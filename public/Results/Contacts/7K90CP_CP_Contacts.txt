@@ -1,0 +1,17 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             27-SEP-20   7K90             
+STRUCTURE OF THE SARS-COV-2 S 6P TRIMER IN COMPLEX WITH THE HUMANNEUTRALIZING ANTIBODY FAB FRAGMENT, C144:
+
+0 - C PHE 486 CG   VS P TYR 30 CG  
+Distance: 5.404762 - Aromatic Stacking, 
+1 - C PHE 486 CD2  VS P TYR 32 CE2 
+Distance: 4.098498 - Hydrophobic, 
+2 - C PHE 486 CE2  VS P TYR 32 CD2 
+Distance: 4.464191 - Hydrophobic, 
+3 - C PHE 486 CE2  VS P TYR 32 CE2 
+Distance: 3.333224 - Hydrophobic, 
+4 - C PHE 486 CZ   VS P TYR 32 CE2 
+Distance: 4.282709 - Hydrophobic, 
+5 - C PHE 486 CG   VS P TYR 91 CG  
+Distance: 5.683031 - Aromatic Stacking, 
+6 - C PHE 486 CD2  VS P TYR 91 CE2 
+Distance: 3.838713 - Hydrophobic, 

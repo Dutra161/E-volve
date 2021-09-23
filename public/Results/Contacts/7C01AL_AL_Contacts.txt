@@ -1,0 +1,35 @@
+VIRAL PROTEIN                           29-APR-20   7C01             
+MOLECULAR BASIS FOR A POTENT HUMAN NEUTRALIZING ANTIBODY TARGETING SARS-COV-2 RBD:
+
+0 - A ARG 403 NH1  VS L TYR 92 O   
+Distance: 3.129194 - Hydrogen Bonds, 
+1 - A ARG 403 NH2  VS L TYR 92 O   
+Distance: 2.952879 - Hydrogen Bonds, 
+2 - A GLU 406 CG   VS L THR 94 CG2 
+Distance: 3.788025 - Hydrophobic, 
+3 - A TYR 495 O    VS L TYR 32 OH  
+Distance: 3.755636 - Hydrogen Bonds, 
+4 - A TYR 505 CG   VS L TYR 32 CG  
+Distance: 5.260330 - Aromatic Stacking, 
+5 - A TYR 505 CD2  VS L TYR 32 CE1 
+Distance: 4.029723 - Hydrophobic, 
+6 - A TYR 505 CE1  VS L TYR 32 CE1 
+Distance: 4.394165 - Hydrophobic, 
+7 - A TYR 505 CE2  VS L TYR 32 CD1 
+Distance: 4.185239 - Hydrophobic, 
+8 - A TYR 505 CE2  VS L TYR 32 CE1 
+Distance: 3.234314 - Hydrophobic, 
+9 - A TYR 505 OH   VS L TYR 32 OH  
+Distance: 2.392346 - Hydrogen Bonds, 
+10 - A TYR 505 N    VS L TYR 92 OH  
+Distance: 3.352717 - Hydrogen Bonds, 
+11 - A TYR 505 CB   VS L TYR 92 CE2 
+Distance: 3.486149 - Hydrophobic, 
+12 - A TYR 505 CG   VS L TYR 92 CG  
+Distance: 5.917428 - Aromatic Stacking, 
+13 - A TYR 505 CG   VS L TYR 92 CE2 
+Distance: 3.923393 - Hydrophobic, 
+14 - A TYR 505 CD2  VS L TYR 92 CD2 
+Distance: 4.439429 - Hydrophobic, 
+15 - A TYR 505 CD2  VS L TYR 92 CE2 
+Distance: 3.936273 - Hydrophobic, 

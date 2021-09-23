@@ -1,0 +1,41 @@
+PROTEIN BINDING/IMMUNE SYSTEM           05-JUL-20   7CH4             
+CRYSTAL STRUCTURE OF THE SARS-COV-2 S RBD IN COMPLEX WITH BD-604 FAB:
+
+0 - L GLN 27 O    VS R GLY 502 N   
+Distance: 3.143877 - Hydrogen Bonds, 
+1 - L GLY 28 O    VS R GLY 502 N   
+Distance: 3.159402 - Hydrogen Bonds, 
+2 - L ILE 29 CG2  VS R TYR 505 CD2 
+Distance: 4.482513 - Hydrophobic, 
+3 - L ILE 29 CG2  VS R TYR 505 CE2 
+Distance: 4.079178 - Hydrophobic, 
+4 - L SER 30 OG   VS R GLN 498 OE1 
+Distance: 2.539252 - Hydrogen Bonds, 
+5 - L SER 30 N    VS R ASN 501 OD1 
+Distance: 3.671046 - Hydrogen Bonds, 
+6 - L ASP 32 OD2  VS R ARG 403 NH1 
+Distance: 5.623596 - Attractive, 
+7 - L SER 67 OG   VS R GLN 498 OE1 
+Distance: 3.571404 - Hydrogen Bonds, 
+8 - L SER 67 OG   VS R GLN 498 NE2 
+Distance: 3.472824 - Hydrogen Bonds, 
+9 - L GLN 90 NE2  VS R TYR 505 OH  
+Distance: 2.653688 - Hydrogen Bonds, 
+10 - L ASN 92 O    VS R ARG 403 NH1 
+Distance: 2.857181 - Hydrogen Bonds, 
+11 - L ASN 92 O    VS R ARG 403 NH2 
+Distance: 3.231451 - Hydrogen Bonds, 
+12 - L ASN 92 ND2  VS R TYR 453 OH  
+Distance: 3.644838 - Hydrogen Bonds, 
+13 - L ASP 94 OD1  VS R ARG 408 CZ  
+Distance: 5.533202 - Attractive, 
+14 - L ASP 94 OD1  VS R ARG 408 NH1 
+Distance: 5.124065 - Attractive, 
+15 - L ASP 94 OD1  VS R ARG 408 NH2 
+Distance: 5.059427 - Attractive, 
+16 - L ASP 94 OD2  VS R ARG 408 CZ  
+Distance: 5.919620 - Attractive, 
+17 - L ASP 94 OD2  VS R ARG 408 NH1 
+Distance: 5.943045 - Attractive, 
+18 - L ASP 94 OD2  VS R ARG 408 NH2 
+Distance: 4.989284 - Attractive, 

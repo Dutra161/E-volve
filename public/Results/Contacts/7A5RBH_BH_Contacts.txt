@@ -1,0 +1,43 @@
+VIRAL PROTEIN                           21-AUG-20   7A5R             
+COMPLEX OF SARS-COV-2 SPIKE AND CR3022 FAB (NON-UNIFORM REFINEMENT):
+
+0 - H PRO 14 CG   VS B TYR 489 CE2 
+Distance: 4.409349 - Hydrophobic, 
+1 - H GLU 16 OE1  VS B GLN 493 NE2 
+Distance: 2.481480 - Hydrogen Bonds, 
+2 - H SER 17 OG   VS B TYR 505 OH  
+Distance: 3.462232 - Hydrogen Bonds, 
+3 - H LYS 19 CD   VS B TYR 505 CE2 
+Distance: 4.410445 - Hydrophobic, 
+4 - H SER 119 OG   VS B ASN 487 N   
+Distance: 3.300495 - Hydrogen Bonds, 
+5 - H LYS 121 CB   VS B PHE 486 CB  
+Distance: 4.084428 - Hydrophobic, 
+6 - H LYS 121 CG   VS B PHE 486 CB  
+Distance: 4.162659 - Hydrophobic, 
+7 - H PHE 150 CG   VS B PHE 486 CG  
+Distance: 5.225683 - Aromatic Stacking, 
+8 - H PHE 150 CG   VS B PHE 486 CD1 
+Distance: 4.251076 - Hydrophobic, 
+9 - H PHE 150 CG   VS B PHE 486 CE1 
+Distance: 4.412121 - Hydrophobic, 
+10 - H PHE 150 CD1  VS B PHE 486 CD1 
+Distance: 4.301660 - Hydrophobic, 
+11 - H PHE 150 CD1  VS B PHE 486 CE1 
+Distance: 4.094913 - Hydrophobic, 
+12 - H PHE 150 CD2  VS B PHE 486 CD1 
+Distance: 4.487429 - Hydrophobic, 
+13 - H PHE 150 CE1  VS B PHE 486 CE1 
+Distance: 4.035115 - Hydrophobic, 
+14 - H PHE 150 CZ   VS B PHE 486 CE1 
+Distance: 4.271912 - Hydrophobic, 
+15 - H LEU 179 CD2  VS B PHE 486 CB  
+Distance: 4.281643 - Hydrophobic, 
+16 - H LEU 179 CD2  VS B PHE 486 CG  
+Distance: 3.923255 - Hydrophobic, 
+17 - H LEU 179 CD2  VS B PHE 486 CD1 
+Distance: 3.983173 - Hydrophobic, 
+18 - H LEU 179 CD2  VS B PHE 486 CD2 
+Distance: 4.214992 - Hydrophobic, 
+19 - H LEU 179 CD2  VS B PHE 486 CE1 
+Distance: 4.356346 - Hydrophobic, 

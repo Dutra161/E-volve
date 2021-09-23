@@ -1,0 +1,55 @@
+VIRAL PROTEIN                           24-APR-20   7BYR             
+BD23-FAB IN COMPLEX WITH THE S ECTODOMAIN TRIMER:
+
+0 - B TYR 449 OH   VS H LEU 72 O   
+Distance: 2.735560 - Hydrogen Bonds, 
+1 - B GLU 484 OE2  VS H ARG 107 NE  
+Distance: 5.840563 - Attractive, 
+2 - B PHE 486 CD2  VS H GLN 100 CB  
+Distance: 4.403010 - Hydrophobic, 
+3 - B PHE 486 CE2  VS H GLN 100 CB  
+Distance: 3.394827 - Hydrophobic, 
+4 - B PHE 486 CE2  VS H GLN 100 CG  
+Distance: 4.356261 - Hydrophobic, 
+5 - B PHE 486 CZ   VS H GLN 100 CB  
+Distance: 3.760443 - Hydrophobic, 
+6 - B PHE 486 CZ   VS H GLN 100 CG  
+Distance: 4.363750 - Hydrophobic, 
+7 - B PHE 486 N    VS H TYR 111 OH  
+Distance: 3.623833 - Hydrogen Bonds, 
+8 - B PHE 486 CG   VS H TYR 111 CG  
+Distance: 5.818987 - Aromatic Stacking, 
+9 - B TYR 489 OH   VS H SER 31 OG  
+Distance: 3.800154 - Hydrogen Bonds, 
+10 - B TYR 489 CG   VS H TYR 32 CG  
+Distance: 5.581665 - Aromatic Stacking, 
+11 - B TYR 489 CD1  VS H TYR 32 CE1 
+Distance: 4.332827 - Hydrophobic, 
+12 - B TYR 489 CE1  VS H TYR 32 CD1 
+Distance: 4.085138 - Hydrophobic, 
+13 - B TYR 489 CE1  VS H TYR 32 CE1 
+Distance: 3.440928 - Hydrophobic, 
+14 - B TYR 489 OH   VS H TYR 32 OH  
+Distance: 3.578142 - Hydrogen Bonds, 
+15 - B PHE 490 CG   VS H TRP 105 CG  
+Distance: 5.507794 - Aromatic Stacking, 
+16 - B LEU 492 O    VS H ASN 54 ND2 
+Distance: 3.435671 - Hydrogen Bonds, 
+17 - B GLN 493 NE2  VS H THR 30 O   
+Distance: 3.026666 - Hydrogen Bonds, 
+18 - B GLN 493 NE2  VS H THR 30 OG1 
+Distance: 3.194022 - Hydrogen Bonds, 
+19 - B GLN 493 OE1  VS H ASN 54 ND2 
+Distance: 3.473625 - Hydrogen Bonds, 
+20 - B SER 494 OG   VS H THR 53 O   
+Distance: 3.777226 - Hydrogen Bonds, 
+21 - B SER 494 N    VS H ASN 54 OD1 
+Distance: 3.225897 - Hydrogen Bonds, 
+22 - B SER 494 OG   VS H ASN 54 O   
+Distance: 2.758334 - Hydrogen Bonds, 
+23 - B SER 494 OG   VS H ASN 54 OD1 
+Distance: 2.754285 - Hydrogen Bonds, 
+24 - B GLN 498 NE2  VS H ASP 73 OD1 
+Distance: 3.643583 - Hydrogen Bonds, 
+25 - B GLN 498 NE2  VS H ASP 73 OD2 
+Distance: 2.779963 - Hydrogen Bonds, 

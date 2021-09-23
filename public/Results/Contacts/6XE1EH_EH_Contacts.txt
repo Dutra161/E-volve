@@ -1,0 +1,89 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             11-JUN-20   6XE1             
+STRUCTURE OF SARS-COV-2 SPIKE PROTEIN RECEPTOR BINDING DOMAIN IN COMPLEX WITH A POTENT NEUTRALIZING ANTIBODY, CV30 FAB:
+
+0 - H VAL 2 CG1  VS E PHE 486 CZ  
+Distance: 4.461507 - Hydrophobic, 
+1 - H VAL 2 CG2  VS E PHE 486 CE2 
+Distance: 3.803337 - Hydrophobic, 
+2 - H VAL 2 CG2  VS E PHE 486 CZ  
+Distance: 4.048294 - Hydrophobic, 
+3 - H GLY 26 O    VS E ASN 487 ND2 
+Distance: 2.780344 - Hydrogen Bonds, 
+4 - H ILE 28 N    VS E ALA 475 O   
+Distance: 3.352135 - Hydrogen Bonds, 
+5 - H SER 31 O    VS E TYR 473 OH  
+Distance: 2.656385 - Hydrogen Bonds, 
+6 - H ASN 32 ND2  VS E ALA 475 O   
+Distance: 3.151411 - Hydrogen Bonds, 
+7 - H TYR 33 CE1  VS E TYR 421 CE2 
+Distance: 4.361109 - Hydrophobic, 
+8 - H TYR 33 CE2  VS E LEU 455 CD1 
+Distance: 4.033329 - Hydrophobic, 
+9 - H TYR 33 OH   VS E LEU 455 O   
+Distance: 2.601622 - Hydrogen Bonds, 
+10 - H TYR 33 CD2  VS E PHE 456 CE1 
+Distance: 4.277180 - Hydrophobic, 
+11 - H TYR 33 CE2  VS E PHE 456 CD1 
+Distance: 4.121348 - Hydrophobic, 
+12 - H TYR 33 CE2  VS E PHE 456 CE1 
+Distance: 4.114165 - Hydrophobic, 
+13 - H TYR 52 CE2  VS E LYS 417 CG  
+Distance: 3.928714 - Hydrophobic, 
+14 - H TYR 52 OH   VS E LYS 417 NZ  
+Distance: 2.984485 - Hydrogen Bonds, 
+15 - H TYR 52 CD2  VS E TYR 421 CE2 
+Distance: 4.251509 - Hydrophobic, 
+16 - H SER 53 N    VS E TYR 421 OH  
+Distance: 3.438746 - Hydrogen Bonds, 
+17 - H SER 53 OG   VS E ARG 457 O   
+Distance: 3.489506 - Hydrogen Bonds, 
+18 - H SER 53 OG   VS E LYS 458 O   
+Distance: 3.260748 - Hydrogen Bonds, 
+19 - H SER 53 OG   VS E TYR 473 OH  
+Distance: 3.259861 - Hydrogen Bonds, 
+20 - H GLY 54 N    VS E TYR 421 OH  
+Distance: 2.984856 - Hydrogen Bonds, 
+21 - H SER 56 OG   VS E ASP 420 OD1 
+Distance: 3.503172 - Hydrogen Bonds, 
+22 - H SER 56 OG   VS E ASP 420 OD2 
+Distance: 2.769233 - Hydrogen Bonds, 
+23 - H TYR 58 OH   VS E THR 415 O   
+Distance: 3.230584 - Hydrogen Bonds, 
+24 - H TYR 58 OH   VS E THR 415 OG1 
+Distance: 2.771919 - Hydrogen Bonds, 
+25 - H TYR 58 OH   VS E GLY 416 N   
+Distance: 2.964451 - Hydrogen Bonds, 
+26 - H ARG 94 NH1  VS E ASN 487 OD1 
+Distance: 2.562430 - Hydrogen Bonds, 
+27 - H ARG 94 NH2  VS E ASN 487 OD1 
+Distance: 2.997014 - Hydrogen Bonds, 
+28 - H ARG 94 NH2  VS E TYR 489 OH  
+Distance: 2.648182 - Hydrogen Bonds, 
+29 - H LEU 96 CD2  VS E PHE 456 CE1 
+Distance: 4.456964 - Hydrophobic, 
+30 - H LEU 96 CD2  VS E PHE 456 CZ  
+Distance: 4.277878 - Hydrophobic, 
+31 - H LEU 96 CD1  VS E TYR 489 CE1 
+Distance: 3.886794 - Hydrophobic, 
+32 - H LEU 96 CD1  VS E TYR 489 CE2 
+Distance: 4.173075 - Hydrophobic, 
+33 - H LEU 96 CD2  VS E TYR 489 CD2 
+Distance: 4.254423 - Hydrophobic, 
+34 - H LEU 96 CD2  VS E TYR 489 CE2 
+Distance: 3.663555 - Hydrophobic, 
+35 - H ASP 97 OD1  VS E LYS 417 NZ  
+Distance: 4.210841 - Attractive, 
+36 - H ASP 97 OD2  VS E LYS 417 NZ  
+Distance: 4.911447 - Attractive, 
+37 - H ASP 97 CB   VS E LEU 455 CD1 
+Distance: 4.111246 - Hydrophobic, 
+38 - H ASP 97 CB   VS E LEU 455 CD2 
+Distance: 4.166387 - Hydrophobic, 
+39 - H VAL 98 CG2  VS E LEU 455 CD2 
+Distance: 4.040864 - Hydrophobic, 
+40 - H VAL 98 CG2  VS E GLN 493 CB  
+Distance: 4.114651 - Hydrophobic, 
+41 - H VAL 98 CG2  VS E GLN 493 CG  
+Distance: 3.612042 - Hydrophobic, 
+42 - H SER 99 OG   VS E GLN 493 NE2 
+Distance: 3.057600 - Hydrogen Bonds, 

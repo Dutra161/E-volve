@@ -1,0 +1,33 @@
+IMMUNE SYSTEM/VIRAL PROTEIN             15-OCT-20   7KFX             
+STRUCTURAL BASIS FOR A GERMLINE-BIASED ANTIBODY RESPONSE TO SARS-COV-(RBD:C1A-C2 FAB):
+
+0 - A ARG 403 NH1  VS L ASN 92 O   
+Distance: 3.419527 - Hydrogen Bonds, 
+1 - A ARG 403 NH1  VS L ASN 92 OD1 
+Distance: 3.177473 - Hydrogen Bonds, 
+2 - A ARG 403 NH2  VS L ASN 92 O   
+Distance: 3.029763 - Hydrogen Bonds, 
+3 - A LYS 417 NZ   VS L TYR 94 OH  
+Distance: 3.665472 - Hydrogen Bonds, 
+4 - A TYR 453 OH   VS L TYR 32 OH  
+Distance: 3.061975 - Hydrogen Bonds, 
+5 - A GLN 493 NE2  VS L TYR 32 OH  
+Distance: 2.931859 - Hydrogen Bonds, 
+6 - A SER 494 O    VS L TYR 32 OH  
+Distance: 3.625781 - Hydrogen Bonds, 
+7 - A GLN 498 NE2  VS L SER 67 OG  
+Distance: 2.997779 - Hydrogen Bonds, 
+8 - A THR 500 O    VS L GLY 28 N   
+Distance: 3.463296 - Hydrogen Bonds, 
+9 - A GLY 502 N    VS L GLY 28 O   
+Distance: 3.821008 - Hydrogen Bonds, 
+10 - A TYR 505 CE1  VS L ILE 2 CG1 
+Distance: 4.463500 - Hydrophobic, 
+11 - A TYR 505 CE1  VS L ILE 2 CD1 
+Distance: 4.137486 - Hydrophobic, 
+12 - A TYR 505 CE1  VS L GLU 27 CG  
+Distance: 4.237785 - Hydrophobic, 
+13 - A TYR 505 OH   VS L GLU 27 OE2 
+Distance: 3.545584 - Hydrogen Bonds, 
+14 - A TYR 505 OH   VS L SER 93 OG  
+Distance: 3.745350 - Hydrogen Bonds, 

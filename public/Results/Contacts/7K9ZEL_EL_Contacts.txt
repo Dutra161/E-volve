@@ -1,0 +1,23 @@
+IMMUNE SYSTEM                           29-SEP-20   7K9Z             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN IN COMPLEX WITH THE FAB FRAGMENTS OF NEUTRALIZING ANTIBODIES 298 AND 52:
+
+0 - L SER 0 OG   VS E ARG 355 O   
+Distance: 3.532946 - Hydrogen Bonds, 
+1 - L SER 0 OG   VS E ARG 357 N   
+Distance: 3.441185 - Hydrogen Bonds, 
+2 - L GLN 27 OE1  VS E ARG 357 NH1 
+Distance: 3.744125 - Hydrogen Bonds, 
+3 - L GLN 27 OE1  VS E ARG 357 NH2 
+Distance: 2.966331 - Hydrogen Bonds, 
+4 - L SER 30 OG   VS E GLU 465 OE2 
+Distance: 3.470923 - Hydrogen Bonds, 
+5 - L ASN 32 ND2  VS E ARG 466 O   
+Distance: 3.696978 - Hydrogen Bonds, 
+6 - L ASN 92 O    VS E ARG 466 NH1 
+Distance: 3.002212 - Hydrogen Bonds, 
+7 - L PHE 94 CD1  VS E ILE 468 CD1 
+Distance: 4.098395 - Hydrophobic, 
+8 - L PHE 94 CE1  VS E ILE 468 CG2 
+Distance: 4.483309 - Hydrophobic, 
+9 - L PHE 94 CE1  VS E ILE 468 CD1 
+Distance: 3.523131 - Hydrophobic, 

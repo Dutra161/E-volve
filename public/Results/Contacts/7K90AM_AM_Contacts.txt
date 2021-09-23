@@ -1,0 +1,49 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             27-SEP-20   7K90             
+STRUCTURE OF THE SARS-COV-2 S 6P TRIMER IN COMPLEX WITH THE HUMANNEUTRALIZING ANTIBODY FAB FRAGMENT, C144:
+
+0 - A TYR 449 OH   VS M GLY 26 N   
+Distance: 3.568521 - Hydrogen Bonds, 
+1 - A TYR 449 OH   VS M GLY 26 O   
+Distance: 3.772160 - Hydrogen Bonds, 
+2 - A TYR 449 OH   VS M PHE 27 N   
+Distance: 3.440300 - Hydrogen Bonds, 
+3 - A TYR 449 CB   VS M THR 28 CG2 
+Distance: 3.146805 - Hydrophobic, 
+4 - A TYR 449 CG   VS M THR 28 CG2 
+Distance: 2.934125 - Hydrophobic, 
+5 - A TYR 449 CD1  VS M THR 28 CG2 
+Distance: 3.347062 - Hydrophobic, 
+6 - A TYR 449 CD2  VS M THR 28 CG2 
+Distance: 3.265551 - Hydrophobic, 
+7 - A TYR 449 CE1  VS M THR 28 CG2 
+Distance: 3.995487 - Hydrophobic, 
+8 - A TYR 449 CE2  VS M THR 28 CG2 
+Distance: 3.924111 - Hydrophobic, 
+9 - A TYR 449 O    VS M LYS 73 NZ  
+Distance: 2.609891 - Hydrogen Bonds, 
+10 - A LEU 455 CD1  VS M VAL 99 CG1 
+Distance: 4.344727 - Hydrophobic, 
+11 - A LEU 455 CD1  VS M VAL 99 CG2 
+Distance: 4.099390 - Hydrophobic, 
+12 - A GLU 484 CB   VS M TYR 52 CD2 
+Distance: 3.891385 - Hydrophobic, 
+13 - A GLU 484 CG   VS M TYR 52 CB  
+Distance: 3.712215 - Hydrophobic, 
+14 - A GLU 484 CG   VS M TYR 52 CG  
+Distance: 3.963629 - Hydrophobic, 
+15 - A GLU 484 CG   VS M TYR 52 CD2 
+Distance: 3.459770 - Hydrophobic, 
+16 - A GLU 484 CG   VS M TYR 52 CE2 
+Distance: 4.440185 - Hydrophobic, 
+17 - A GLU 484 OE2  VS M SER 56 N   
+Distance: 3.432809 - Hydrogen Bonds, 
+18 - A GLU 484 OE2  VS M SER 56 OG  
+Distance: 2.352358 - Hydrogen Bonds, 
+19 - A GLN 493 NE2  VS M ASN 31 OD1 
+Distance: 2.605908 - Hydrogen Bonds, 
+20 - A SER 494 N    VS M ASN 31 OD1 
+Distance: 3.792157 - Hydrogen Bonds, 
+21 - A SER 494 O    VS M ASN 31 ND2 
+Distance: 2.689435 - Hydrogen Bonds, 
+22 - A SER 494 OG   VS M LYS 73 NZ  
+Distance: 3.068143 - Hydrogen Bonds, 

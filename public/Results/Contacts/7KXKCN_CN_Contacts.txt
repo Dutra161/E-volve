@@ -1,0 +1,53 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             04-DEC-20   7KXK             
+SARS-COV-2 SPIKE PROTEIN IN COMPLEX WITH FAB 15033-7, 2-"UP"-1-"DOWN"CONFORMATION:
+
+0 - C ARG 403 NE   VS N ASP 66 OD1 
+Distance: 5.396777 - Attractive, 
+1 - C ARG 403 CZ   VS N ASP 66 OD1 
+Distance: 4.214514 - Attractive, 
+2 - C ARG 403 CZ   VS N ASP 66 OD2 
+Distance: 4.996710 - Attractive, 
+3 - C ARG 403 NH1  VS N ASP 66 OD1 
+Distance: 3.103418 - Attractive, Hydrogen Bonds, 
+4 - C ARG 403 NH1  VS N ASP 66 OD2 
+Distance: 3.935293 - Attractive, 
+5 - C ARG 403 NH2  VS N ASP 66 OD1 
+Distance: 4.519742 - Attractive, 
+6 - C ARG 403 NH2  VS N ASP 66 OD2 
+Distance: 5.282784 - Attractive, 
+7 - C LYS 417 NZ   VS N ARG 80 NH1 
+Distance: 5.911067 - Repulsive, 
+8 - C PHE 486 CB   VS N TYR 114 CD2 
+Distance: 4.209227 - Hydrophobic, 
+9 - C PHE 486 CB   VS N TYR 114 CE2 
+Distance: 3.791776 - Hydrophobic, 
+10 - C PHE 486 CG   VS N TYR 114 CG  
+Distance: 5.033518 - Aromatic Stacking, 
+11 - C PHE 486 CG   VS N TYR 114 CD2 
+Distance: 3.925558 - Hydrophobic, 
+12 - C PHE 486 CG   VS N TYR 114 CE2 
+Distance: 3.679820 - Hydrophobic, 
+13 - C PHE 486 CD1  VS N TYR 114 CE2 
+Distance: 4.141719 - Hydrophobic, 
+14 - C PHE 486 CD2  VS N TYR 114 CD2 
+Distance: 3.610110 - Hydrophobic, 
+15 - C PHE 486 CD2  VS N TYR 114 CE2 
+Distance: 3.855723 - Hydrophobic, 
+16 - C PHE 486 CE2  VS N TYR 114 CD2 
+Distance: 4.071777 - Hydrophobic, 
+17 - C PHE 486 CE2  VS N TYR 114 CE2 
+Distance: 4.444112 - Hydrophobic, 
+18 - C ASN 487 OD1  VS N THR 109 OG1 
+Distance: 3.085800 - Hydrogen Bonds, 
+19 - C TYR 489 CG   VS N HIS 108 CG  
+Distance: 5.507313 - Aromatic Stacking, 
+20 - C TYR 489 OH   VS N HIS 108 O   
+Distance: 3.816070 - Hydrogen Bonds, 
+21 - C TYR 489 OH   VS N HIS 108 ND1 
+Distance: 3.842049 - Hydrogen Bonds, 
+22 - C TYR 489 OH   VS N HIS 108 NE2 
+Distance: 3.126826 - Hydrogen Bonds, 
+23 - C TYR 505 OH   VS N ASP 66 OD1 
+Distance: 2.886671 - Hydrogen Bonds, 
+24 - C TYR 505 OH   VS N LEU 67 N   
+Distance: 3.526118 - Hydrogen Bonds, 

@@ -1,0 +1,85 @@
+
+:
+
+0 - A VAL 445 O    VS D GLN 1 NE2 
+Distance: 3.546041 - Hydrogen Bonds, 
+1 - A TYR 449 CG   VS D PHE 106 CG  
+Distance: 5.314632 - Aromatic Stacking, 
+2 - A TYR 449 CD1  VS D PHE 106 CZ  
+Distance: 4.211899 - Hydrophobic, 
+3 - A TYR 449 CE1  VS D PHE 106 CE1 
+Distance: 4.498191 - Hydrophobic, 
+4 - A TYR 449 CE1  VS D PHE 106 CE2 
+Distance: 4.441131 - Hydrophobic, 
+5 - A TYR 449 CE1  VS D PHE 106 CZ  
+Distance: 3.624603 - Hydrophobic, 
+6 - A TYR 449 CE2  VS D PHE 106 CZ  
+Distance: 4.141304 - Hydrophobic, 
+7 - A VAL 483 CG2  VS D TRP 52 CB  
+Distance: 3.965357 - Hydrophobic, 
+8 - A VAL 483 CG2  VS D TRP 52 CD2 
+Distance: 4.326285 - Hydrophobic, 
+9 - A VAL 483 CG2  VS D TRP 52 CE3 
+Distance: 3.526827 - Hydrophobic, 
+10 - A VAL 483 CG2  VS D TRP 52 CZ3 
+Distance: 4.381803 - Hydrophobic, 
+11 - A VAL 483 CB   VS D ARG 53 CB  
+Distance: 4.002340 - Hydrophobic, 
+12 - A VAL 483 CG1  VS D ARG 53 CB  
+Distance: 4.414918 - Hydrophobic, 
+13 - A GLU 484 O    VS D ARG 53 N   
+Distance: 3.566057 - Hydrogen Bonds, 
+14 - A GLU 484 CB   VS D ARG 53 CG  
+Distance: 3.903215 - Hydrophobic, 
+15 - A GLU 484 OE1  VS D ARG 53 NE  
+Distance: 2.593810 - Attractive, Hydrogen Bonds, 
+16 - A GLU 484 OE1  VS D ARG 53 CZ  
+Distance: 3.083370 - Attractive, 
+17 - A GLU 484 OE1  VS D ARG 53 NH1 
+Distance: 4.410894 - Attractive, 
+18 - A GLU 484 OE1  VS D ARG 53 NH2 
+Distance: 2.749501 - Attractive, Hydrogen Bonds, 
+19 - A GLU 484 OE2  VS D ARG 53 NE  
+Distance: 4.727496 - Attractive, 
+20 - A GLU 484 OE2  VS D ARG 53 CZ  
+Distance: 5.137204 - Attractive, 
+21 - A GLU 484 OE2  VS D ARG 53 NH2 
+Distance: 4.504246 - Attractive, 
+22 - A GLU 484 OE2  VS D ASN 98 ND2 
+Distance: 3.657818 - Hydrogen Bonds, 
+23 - A GLU 484 OE1  VS D HIS 102 ND1 
+Distance: 4.715350 - Attractive, 
+24 - A GLU 484 OE2  VS D HIS 102 N   
+Distance: 3.421065 - Hydrogen Bonds, 
+25 - A GLU 484 OE2  VS D HIS 102 ND1 
+Distance: 2.685613 - Attractive, Hydrogen Bonds, 
+26 - A GLU 484 OE2  VS D HIS 102 NE2 
+Distance: 4.438822 - Attractive, 
+27 - A PHE 486 CB   VS D TRP 52 CZ2 
+Distance: 3.926651 - Hydrophobic, 
+28 - A PHE 486 N    VS D ASP 58 OD2 
+Distance: 3.395931 - Hydrogen Bonds, 
+29 - A ASN 487 N    VS D HIS 102 NE2 
+Distance: 3.092282 - Hydrogen Bonds, 
+30 - A CYS 488 N    VS D HIS 102 NE2 
+Distance: 3.228627 - Hydrogen Bonds, 
+31 - A TYR 489 CB   VS D ALA 101 CB  
+Distance: 4.373002 - Hydrophobic, 
+32 - A TYR 489 CG   VS D ALA 101 CB  
+Distance: 3.716353 - Hydrophobic, 
+33 - A TYR 489 CD1  VS D ALA 101 CB  
+Distance: 3.948857 - Hydrophobic, 
+34 - A TYR 489 CD2  VS D ALA 101 CB  
+Distance: 3.605711 - Hydrophobic, 
+35 - A TYR 489 CE1  VS D ALA 101 CB  
+Distance: 4.092544 - Hydrophobic, 
+36 - A TYR 489 CE2  VS D ALA 101 CB  
+Distance: 3.761375 - Hydrophobic, 
+37 - A TYR 489 CG   VS D HIS 102 CG  
+Distance: 4.743730 - Aromatic Stacking, 
+38 - A PHE 490 N    VS D GLY 100 O   
+Distance: 3.155740 - Hydrogen Bonds, 
+39 - A GLN 493 NE2  VS D ASP 105 OD1 
+Distance: 3.831928 - Hydrogen Bonds, 
+40 - A GLN 493 NE2  VS D ASP 105 OD2 
+Distance: 2.924964 - Hydrogen Bonds, 

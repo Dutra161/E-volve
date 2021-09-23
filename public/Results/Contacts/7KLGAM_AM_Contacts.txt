@@ -1,0 +1,7 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             30-OCT-20   7KLG             
+SARS-COV-2 RBD IN COMPLEX WITH FAB 15033:
+
+0 - M SER 92 OG   VS A ASN 370 OD1 
+Distance: 3.517933 - Hydrogen Bonds, 
+1 - M SER 93 OG   VS A ASN 370 OD1 
+Distance: 3.006331 - Hydrogen Bonds, 

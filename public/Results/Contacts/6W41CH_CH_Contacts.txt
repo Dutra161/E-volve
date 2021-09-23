@@ -1,0 +1,59 @@
+IMMUNE SYSTEM/VIRAL PROTEIN             09-MAR-20   6W41             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN IN COMPLEX WITH HUMAN ANTIBODY CR3022:
+
+0 - H ILE 30 CB   VS C PHE 377 CB  
+Distance: 4.250130 - Hydrophobic, 
+1 - H ILE 30 CG2  VS C PHE 377 CB  
+Distance: 3.826567 - Hydrophobic, 
+2 - H THR 31 CG2  VS C PRO 384 CG  
+Distance: 4.334037 - Hydrophobic, 
+3 - H TRP 33 CZ2  VS C LYS 378 CG  
+Distance: 4.044127 - Hydrophobic, 
+4 - H TRP 33 CZ2  VS C LYS 378 CD  
+Distance: 4.063043 - Hydrophobic, 
+5 - H TYR 52 OH   VS C PHE 377 N   
+Distance: 3.017305 - Hydrogen Bonds, 
+6 - H TYR 52 OH   VS C PHE 377 O   
+Distance: 2.450768 - Hydrogen Bonds, 
+7 - H TYR 52 CD1  VS C LYS 378 CG  
+Distance: 4.487739 - Hydrophobic, 
+8 - H TYR 52 CD2  VS C LYS 378 CG  
+Distance: 4.217825 - Hydrophobic, 
+9 - H TYR 52 CE1  VS C LYS 378 CG  
+Distance: 4.092843 - Hydrophobic, 
+10 - H TYR 52 CE2  VS C LYS 378 CG  
+Distance: 3.790521 - Hydrophobic, 
+11 - H TYR 52 CE2  VS C LYS 378 CD  
+Distance: 4.441709 - Hydrophobic, 
+12 - H TYR 52 OH   VS C LYS 378 N   
+Distance: 3.880926 - Hydrogen Bonds, 
+13 - H ASP 54 OD1  VS C LYS 378 NZ  
+Distance: 3.394783 - Attractive, Hydrogen Bonds, 
+14 - H ASP 54 OD2  VS C LYS 378 NZ  
+Distance: 2.723046 - Attractive, Hydrogen Bonds, 
+15 - H GLU 56 OE1  VS C LYS 378 NZ  
+Distance: 2.404058 - Attractive, Hydrogen Bonds, 
+16 - H GLU 56 OE2  VS C LYS 378 NZ  
+Distance: 4.541215 - Attractive, 
+17 - H ILE 98 N    VS C CYS 379 O   
+Distance: 3.242108 - Hydrogen Bonds, 
+18 - H ILE 98 CG2  VS C TYR 380 CB  
+Distance: 3.999833 - Hydrophobic, 
+19 - H ILE 98 CG2  VS C TYR 380 CG  
+Distance: 3.660501 - Hydrophobic, 
+20 - H ILE 98 CG2  VS C TYR 380 CD1 
+Distance: 4.312287 - Hydrophobic, 
+21 - H ILE 98 CG2  VS C TYR 380 CD2 
+Distance: 3.424676 - Hydrophobic, 
+22 - H ILE 98 CG2  VS C TYR 380 CE2 
+Distance: 3.906641 - Hydrophobic, 
+23 - H SER 99 N    VS C TYR 380 O   
+Distance: 3.296169 - Hydrogen Bonds, 
+24 - H THR 100 OG1  VS C VAL 382 O   
+Distance: 3.727208 - Hydrogen Bonds, 
+25 - H THR 100 OG1  VS C SER 383 N   
+Distance: 3.429015 - Hydrogen Bonds, 
+26 - H ASP 101 OD1  VS C LYS 386 NZ  
+Distance: 3.255200 - Attractive, Hydrogen Bonds, 
+27 - H ASP 101 OD2  VS C LYS 386 NZ  
+Distance: 3.576295 - Attractive, Hydrogen Bonds, 

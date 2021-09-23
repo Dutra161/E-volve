@@ -1,0 +1,65 @@
+VIRAL PROTEIN                           08-JUN-20   7CAI             
+SARS-COV-2 S TRIMER WITH TWO RBDS IN THE OPEN STATE AND COMPLEXED WITTWO H014 FAB:
+
+0 - A TYR 369 CG   VS E LEU 62 CD1 
+Distance: 4.313659 - Hydrophobic, 
+1 - A TYR 369 CD1  VS E LEU 62 CD1 
+Distance: 4.227491 - Hydrophobic, 
+2 - A TYR 369 CD2  VS E LEU 62 CD1 
+Distance: 4.044468 - Hydrophobic, 
+3 - A TYR 369 CE1  VS E LEU 62 CD1 
+Distance: 3.907732 - Hydrophobic, 
+4 - A TYR 369 CE2  VS E LEU 62 CD1 
+Distance: 3.709568 - Hydrophobic, 
+5 - A THR 376 OG1  VS E TYR 50 OH  
+Distance: 3.023568 - Hydrogen Bonds, 
+6 - A THR 376 CG2  VS E PRO 103 CB  
+Distance: 4.000900 - Hydrophobic, 
+7 - A THR 376 CG2  VS E PRO 103 CG  
+Distance: 4.085386 - Hydrophobic, 
+8 - A THR 376 OG1  VS E TYR 105 OH  
+Distance: 2.447125 - Hydrogen Bonds, 
+9 - A PHE 377 O    VS E TYR 50 OH  
+Distance: 3.083087 - Hydrogen Bonds, 
+10 - A LYS 378 CD   VS E TYR 33 CE1 
+Distance: 4.019828 - Hydrophobic, 
+11 - A LYS 378 CD   VS E TYR 50 CE1 
+Distance: 3.952905 - Hydrophobic, 
+12 - A LYS 378 NZ   VS E GLY 57 O   
+Distance: 2.827245 - Hydrogen Bonds, 
+13 - A TYR 380 CD1  VS E ASN 55 CB  
+Distance: 3.925073 - Hydrophobic, 
+14 - A TYR 380 CE1  VS E ASN 55 CB  
+Distance: 4.459249 - Hydrophobic, 
+15 - A TYR 380 CE1  VS E TYR 101 CE1 
+Distance: 4.493226 - Hydrophobic, 
+16 - A TYR 380 OH   VS E TYR 101 OH  
+Distance: 3.861560 - Hydrogen Bonds, 
+17 - A SER 383 OG   VS E GLY 56 O   
+Distance: 3.782388 - Hydrogen Bonds, 
+18 - A THR 385 CG2  VS E ASP 60 CB  
+Distance: 3.550492 - Hydrophobic, 
+19 - A ASP 405 OD1  VS E ASP 102 OD2 
+Distance: 4.530389 - Repulsive, 
+20 - A ASP 405 OD1  VS E TYR 104 OH  
+Distance: 2.125965 - Hydrogen Bonds, 
+21 - A VAL 407 CG1  VS E PRO 103 CG  
+Distance: 4.129092 - Hydrophobic, 
+22 - A ARG 408 N    VS E ASP 102 OD1 
+Distance: 3.047619 - Hydrogen Bonds, 
+23 - A ARG 408 NE   VS E ASP 102 OD1 
+Distance: 5.712197 - Attractive, 
+24 - A ARG 408 NE   VS E ASP 102 OD2 
+Distance: 5.299811 - Attractive, 
+25 - A ALA 411 CB   VS E TYR 101 CE2 
+Distance: 3.958987 - Hydrophobic, 
+26 - A PRO 412 CB   VS E PHE 54 CD2 
+Distance: 4.320472 - Hydrophobic, 
+27 - A PRO 412 CB   VS E PHE 54 CE2 
+Distance: 3.520270 - Hydrophobic, 
+28 - A PRO 412 CB   VS E PHE 54 CZ  
+Distance: 4.390767 - Hydrophobic, 
+29 - A PRO 412 CG   VS E PHE 54 CD2 
+Distance: 3.876241 - Hydrophobic, 
+30 - A PRO 412 CG   VS E PHE 54 CE2 
+Distance: 3.498599 - Hydrophobic, 

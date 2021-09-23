@@ -1,0 +1,77 @@
+VIRAL PROTEIN/HYDROLASE                 11-DEC-20   7L0N             
+CIRCULATING SARS-COV-2 SPIKE N439K VARIANTS MAINTAIN FITNESS WHILE EVADING ANTIBODY-MEDIATED IMMUNITY:
+
+0 - M ASP 33 OD2  VS S THR 385 OG1 
+Distance: 2.723103 - Hydrogen Bonds, 
+1 - M ASP 33 OD1  VS S LYS 386 NZ  
+Distance: 4.638334 - Attractive, 
+2 - M ASP 33 OD2  VS S LYS 386 NZ  
+Distance: 4.207711 - Attractive, 
+3 - M THR 50 CG2  VS S THR 385 CG2 
+Distance: 4.083024 - Hydrophobic, 
+4 - M ALA 54 CB   VS S TYR 369 CD2 
+Distance: 4.305896 - Hydrophobic, 
+5 - M ALA 54 CB   VS S TYR 369 CE2 
+Distance: 4.148316 - Hydrophobic, 
+6 - M ASP 56 CB   VS S TYR 369 CB  
+Distance: 3.743407 - Hydrophobic, 
+7 - M ASP 56 CB   VS S TYR 369 CG  
+Distance: 3.341833 - Hydrophobic, 
+8 - M ASP 56 CB   VS S TYR 369 CD1 
+Distance: 3.544704 - Hydrophobic, 
+9 - M ASP 56 CB   VS S TYR 369 CD2 
+Distance: 3.577094 - Hydrophobic, 
+10 - M ASP 56 CB   VS S TYR 369 CE1 
+Distance: 3.985886 - Hydrophobic, 
+11 - M ASP 56 CB   VS S TYR 369 CE2 
+Distance: 4.013561 - Hydrophobic, 
+12 - M ASP 56 OD2  VS S TYR 369 OH  
+Distance: 3.790188 - Hydrogen Bonds, 
+13 - M THR 57 N    VS S ASN 370 OD1 
+Distance: 3.000281 - Hydrogen Bonds, 
+14 - M THR 57 O    VS S ASN 370 ND2 
+Distance: 3.359404 - Hydrogen Bonds, 
+15 - M THR 57 OG1  VS S ASN 370 OD1 
+Distance: 3.526955 - Hydrogen Bonds, 
+16 - M THR 57 OG1  VS S ASN 370 ND2 
+Distance: 2.805061 - Hydrogen Bonds, 
+17 - M TYR 58 CE2  VS S PHE 377 CD2 
+Distance: 4.218680 - Hydrophobic, 
+18 - M TYR 58 CE2  VS S PHE 377 CE2 
+Distance: 4.018367 - Hydrophobic, 
+19 - M TYR 58 CD2  VS S PRO 384 CG  
+Distance: 4.254308 - Hydrophobic, 
+20 - M TYR 58 CE1  VS S PRO 384 CG  
+Distance: 4.481485 - Hydrophobic, 
+21 - M TYR 58 CE2  VS S PRO 384 CB  
+Distance: 3.761445 - Hydrophobic, 
+22 - M TYR 58 CE2  VS S PRO 384 CG  
+Distance: 3.493988 - Hydrophobic, 
+23 - M TYR 58 OH   VS S PRO 384 O   
+Distance: 3.433480 - Hydrogen Bonds, 
+24 - M TYR 58 CD1  VS S THR 385 CG2 
+Distance: 4.219497 - Hydrophobic, 
+25 - M TYR 58 CE1  VS S THR 385 CG2 
+Distance: 3.324989 - Hydrophobic, 
+26 - M TYR 58 OH   VS S THR 385 N   
+Distance: 3.644263 - Hydrogen Bonds, 
+27 - M ASP 61 OD2  VS S LYS 378 NZ  
+Distance: 5.785123 - Attractive, 
+28 - M LYS 64 NZ   VS S SER 375 O   
+Distance: 3.762994 - Hydrogen Bonds, 
+29 - M ASP 99 OD1  VS S LYS 386 NZ  
+Distance: 4.846255 - Attractive, 
+30 - M TYR 103 CD1  VS S VAL 382 CG1 
+Distance: 3.558501 - Hydrophobic, 
+31 - M TYR 103 CE1  VS S VAL 382 CG1 
+Distance: 3.567259 - Hydrophobic, 
+32 - M TYR 103 CD1  VS S LEU 390 CD2 
+Distance: 4.393070 - Hydrophobic, 
+33 - M TYR 103 CE1  VS S LEU 390 CG  
+Distance: 4.471407 - Hydrophobic, 
+34 - M TYR 103 CE1  VS S LEU 390 CD1 
+Distance: 4.003920 - Hydrophobic, 
+35 - M TYR 103 CE1  VS S LEU 390 CD2 
+Distance: 3.710691 - Hydrophobic, 
+36 - M TYR 105 CE2  VS S LYS 386 CG  
+Distance: 4.456555 - Hydrophobic, 

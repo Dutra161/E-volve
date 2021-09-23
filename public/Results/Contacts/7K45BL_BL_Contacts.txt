@@ -1,0 +1,31 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             14-SEP-20   7K45             
+SARS-COV-2 SPIKE IN COMPLEX WITH THE S2E12 NEUTRALIZING ANTIBODY FAB FRAGMENT (LOCAL REFINEMENT OF THE RBD AND FAB VARIABLE DOMAINS):
+
+0 - L TYR 33 CD2  VS B PHE 486 CB  
+Distance: 4.412035 - Hydrophobic, 
+1 - L TYR 33 CE2  VS B PHE 486 CB  
+Distance: 4.051740 - Hydrophobic, 
+2 - L TYR 33 OH   VS B PHE 486 O   
+Distance: 3.400149 - Hydrogen Bonds, 
+3 - L TYR 33 OH   VS B CYS 488 SG  
+Distance: 3.573444 - Hydrogen Bonds, 
+4 - L TYR 92 CB   VS B PHE 486 CB  
+Distance: 4.131873 - Hydrophobic, 
+5 - L TYR 92 CG   VS B PHE 486 CG  
+Distance: 5.156369 - Aromatic Stacking, 
+6 - L TYR 92 CD2  VS B PHE 486 CD2 
+Distance: 4.311607 - Hydrophobic, 
+7 - L LEU 95 CG   VS B GLU 484 CB  
+Distance: 4.259449 - Hydrophobic, 
+8 - L LEU 95 CD1  VS B GLU 484 CB  
+Distance: 4.126498 - Hydrophobic, 
+9 - L LEU 95 CD2  VS B GLU 484 CB  
+Distance: 4.115309 - Hydrophobic, 
+10 - L TRP 98 CZ2  VS B PHE 486 CB  
+Distance: 3.851355 - Hydrophobic, 
+11 - L TRP 98 CH2  VS B PHE 486 CB  
+Distance: 4.010886 - Hydrophobic, 
+12 - L TRP 98 CH2  VS B PHE 486 CG  
+Distance: 4.310738 - Hydrophobic, 
+13 - L TRP 98 CH2  VS B PHE 486 CD1 
+Distance: 3.956300 - Hydrophobic, 

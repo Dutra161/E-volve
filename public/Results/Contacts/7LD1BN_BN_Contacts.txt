@@ -1,0 +1,13 @@
+IMMUNE SYSTEM                           12-JAN-21   7LD1             
+STRUCTURE OF SARS-COV-2 S PROTEIN IN COMPLEX WITH RECEPTOR BINDING DOMAIN ANTIBODY DH1047:
+
+0 - B SER 477 O    VS N GLY 35 N   
+Distance: 3.514165 - Hydrogen Bonds, 
+1 - B SER 477 OG   VS N GLY 35 O   
+Distance: 3.703552 - Hydrogen Bonds, 
+2 - B PRO 479 CG   VS N LEU 34 CD1 
+Distance: 4.245462 - Hydrophobic, 
+3 - B PRO 479 CB   VS N ALA 105 CB  
+Distance: 4.172474 - Hydrophobic, 
+4 - B PRO 479 CG   VS N ALA 105 CB  
+Distance: 4.304314 - Hydrophobic, 

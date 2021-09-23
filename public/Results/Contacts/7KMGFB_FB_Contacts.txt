@@ -1,0 +1,9 @@
+IMMUNE SYSTEM/VIRAL PROTEIN             02-NOV-20   7KMG             
+LY-COV555 NEUTRALIZING ANTIBODY AGAINST SARS-COV-2:
+
+0 - B SER 67 OG   VS F CYS 379 O   
+Distance: 2.827696 - Hydrogen Bonds, 
+1 - B SER 67 OG   VS F VAL 382 O   
+Distance: 2.715642 - Hydrogen Bonds, 
+2 - B ASP 70 OD2  VS F LYS 386 NZ  
+Distance: 4.538895 - Attractive, 

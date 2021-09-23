@@ -1,0 +1,63 @@
+VIRAL PROTEIN                           29-AUG-20   7CWN             
+P17-H014 FAB COCKTAIL IN COMPLEX WITH SARS-COV-2 SPIKE PROTEIN:
+
+0 - C TYR 369 CB   VS H LEU 62 CG  
+Distance: 4.459384 - Hydrophobic, 
+1 - C TYR 369 CB   VS H LEU 62 CD2 
+Distance: 3.175743 - Hydrophobic, 
+2 - C TYR 369 CG   VS H LEU 62 CD2 
+Distance: 3.879852 - Hydrophobic, 
+3 - C TYR 369 CD2  VS H LEU 62 CG  
+Distance: 4.375472 - Hydrophobic, 
+4 - C TYR 369 CD2  VS H LEU 62 CD1 
+Distance: 3.888356 - Hydrophobic, 
+5 - C TYR 369 CD2  VS H LEU 62 CD2 
+Distance: 3.842868 - Hydrophobic, 
+6 - C TYR 369 CE2  VS H LEU 62 CD1 
+Distance: 4.495711 - Hydrophobic, 
+7 - C SER 375 O    VS H TYR 50 OH  
+Distance: 3.805174 - Hydrogen Bonds, 
+8 - C PHE 377 N    VS H TYR 50 OH  
+Distance: 2.526751 - Hydrogen Bonds, 
+9 - C PHE 377 O    VS H TYR 50 OH  
+Distance: 3.061108 - Hydrogen Bonds, 
+10 - C PHE 377 O    VS H SER 59 OG  
+Distance: 3.054624 - Hydrogen Bonds, 
+11 - C LYS 378 NZ   VS H TYR 33 OH  
+Distance: 3.343814 - Hydrogen Bonds, 
+12 - C LYS 378 NZ   VS H GLY 56 O   
+Distance: 3.750202 - Hydrogen Bonds, 
+13 - C CYS 379 N    VS H THR 58 O   
+Distance: 3.456803 - Hydrogen Bonds, 
+14 - C TYR 380 CD1  VS H ASN 55 CB  
+Distance: 4.391215 - Hydrophobic, 
+15 - C TYR 380 CE1  VS H ASN 55 CB  
+Distance: 3.168382 - Hydrophobic, 
+16 - C TYR 380 OH   VS H ASN 55 OD1 
+Distance: 3.469459 - Hydrogen Bonds, 
+17 - C TYR 380 OH   VS H GLY 56 N   
+Distance: 3.717416 - Hydrogen Bonds, 
+18 - C TYR 380 OH   VS H GLY 56 O   
+Distance: 2.962891 - Hydrogen Bonds, 
+19 - C SER 383 OG   VS H THR 69 OG1 
+Distance: 2.170317 - Hydrogen Bonds, 
+20 - C PRO 384 CG   VS H ASP 60 CB  
+Distance: 4.394644 - Hydrophobic, 
+21 - C THR 385 CG2  VS H ASP 60 CB  
+Distance: 4.275147 - Hydrophobic, 
+22 - C THR 385 CG2  VS H LEU 62 CD1 
+Distance: 3.749779 - Hydrophobic, 
+23 - C LYS 386 NZ   VS H ALA 67 O   
+Distance: 3.007998 - Hydrogen Bonds, 
+24 - C LYS 386 NZ   VS H THR 69 OG1 
+Distance: 2.942076 - Hydrogen Bonds, 
+25 - C ARG 408 CB   VS H TYR 101 CD2 
+Distance: 3.680904 - Hydrophobic, 
+26 - C ARG 408 CB   VS H TYR 101 CE2 
+Distance: 3.937440 - Hydrophobic, 
+27 - C PRO 412 O    VS H ASN 55 ND2 
+Distance: 3.390976 - Hydrogen Bonds, 
+28 - C TYR 508 CE2  VS H PRO 103 CB  
+Distance: 4.312461 - Hydrophobic, 
+29 - C TYR 508 CE2  VS H PRO 103 CG  
+Distance: 4.471026 - Hydrophobic, 

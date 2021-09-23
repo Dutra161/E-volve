@@ -1,0 +1,97 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             04-DEC-20   7KXK             
+SARS-COV-2 SPIKE PROTEIN IN COMPLEX WITH FAB 15033-7, 2-"UP"-1-"DOWN"CONFORMATION:
+
+0 - A GLU 484 CG   VS H TYR 109 CE1 
+Distance: 3.973964 - Hydrophobic, 
+1 - A GLU 484 CG   VS H TYR 110 CD1 
+Distance: 4.169988 - Hydrophobic, 
+2 - A GLU 484 CG   VS H TYR 110 CE1 
+Distance: 4.014548 - Hydrophobic, 
+3 - A GLY 485 O    VS H TYR 109 OH  
+Distance: 3.268990 - Hydrogen Bonds, 
+4 - A PHE 486 CD1  VS H ALA 64 CB  
+Distance: 4.459241 - Hydrophobic, 
+5 - A PHE 486 CE1  VS H ALA 64 CB  
+Distance: 4.136037 - Hydrophobic, 
+6 - A PHE 486 CG   VS H ALA 66 CB  
+Distance: 4.013997 - Hydrophobic, 
+7 - A PHE 486 CD1  VS H ALA 66 CB  
+Distance: 4.088248 - Hydrophobic, 
+8 - A PHE 486 CD2  VS H ALA 66 CB  
+Distance: 3.875055 - Hydrophobic, 
+9 - A PHE 486 CE1  VS H ALA 66 CB  
+Distance: 4.033392 - Hydrophobic, 
+10 - A PHE 486 CE2  VS H ALA 66 CB  
+Distance: 3.819319 - Hydrophobic, 
+11 - A PHE 486 CZ   VS H ALA 66 CB  
+Distance: 3.898725 - Hydrophobic, 
+12 - A PHE 486 CB   VS H TYR 110 CD2 
+Distance: 4.473832 - Hydrophobic, 
+13 - A PHE 486 CG   VS H TYR 110 CG  
+Distance: 4.491516 - Hydrophobic, 
+14 - A PHE 486 CG   VS H TYR 110 CG  
+Distance: 4.694289 - Aromatic Stacking, 
+15 - A PHE 486 CG   VS H TYR 110 CD2 
+Distance: 3.695275 - Hydrophobic, 
+16 - A PHE 486 CG   VS H TYR 110 CE2 
+Distance: 4.277890 - Hydrophobic, 
+17 - A PHE 486 CD1  VS H TYR 110 CD2 
+Distance: 3.593745 - Hydrophobic, 
+18 - A PHE 486 CD1  VS H TYR 110 CE2 
+Distance: 3.764973 - Hydrophobic, 
+19 - A PHE 486 CD2  VS H TYR 110 CB  
+Distance: 4.071811 - Hydrophobic, 
+20 - A PHE 486 CD2  VS H TYR 110 CG  
+Distance: 4.417460 - Hydrophobic, 
+21 - A PHE 486 CD2  VS H TYR 110 CD2 
+Distance: 3.774189 - Hydrophobic, 
+22 - A PHE 486 CE1  VS H TYR 110 CD2 
+Distance: 3.580539 - Hydrophobic, 
+23 - A PHE 486 CE1  VS H TYR 110 CE2 
+Distance: 3.687955 - Hydrophobic, 
+24 - A PHE 486 CE2  VS H TYR 110 CB  
+Distance: 4.315305 - Hydrophobic, 
+25 - A PHE 486 CE2  VS H TYR 110 CD2 
+Distance: 3.796298 - Hydrophobic, 
+26 - A PHE 486 CZ   VS H TYR 110 CD2 
+Distance: 3.696554 - Hydrophobic, 
+27 - A PHE 486 CZ   VS H TYR 110 CE2 
+Distance: 4.159491 - Hydrophobic, 
+28 - A CYS 488 N    VS H TYR 109 OH  
+Distance: 3.645037 - Hydrogen Bonds, 
+29 - A CYS 488 O    VS H TYR 109 OH  
+Distance: 2.797966 - Hydrogen Bonds, 
+30 - A TYR 489 N    VS H TYR 109 OH  
+Distance: 3.351666 - Hydrogen Bonds, 
+31 - A TYR 489 CB   VS H TYR 109 CE1 
+Distance: 4.143194 - Hydrophobic, 
+32 - A TYR 489 CB   VS H TYR 109 CE2 
+Distance: 3.937503 - Hydrophobic, 
+33 - A TYR 489 CG   VS H TYR 109 CG  
+Distance: 4.568941 - Aromatic Stacking, 
+34 - A TYR 489 CG   VS H TYR 109 CD2 
+Distance: 4.487723 - Hydrophobic, 
+35 - A TYR 489 CG   VS H TYR 109 CE1 
+Distance: 4.314804 - Hydrophobic, 
+36 - A TYR 489 CG   VS H TYR 109 CE2 
+Distance: 3.995460 - Hydrophobic, 
+37 - A TYR 489 CD1  VS H TYR 109 CG  
+Distance: 3.735641 - Hydrophobic, 
+38 - A TYR 489 CD1  VS H TYR 109 CD1 
+Distance: 3.732341 - Hydrophobic, 
+39 - A TYR 489 CD1  VS H TYR 109 CD2 
+Distance: 3.545926 - Hydrophobic, 
+40 - A TYR 489 CD1  VS H TYR 109 CE1 
+Distance: 3.574600 - Hydrophobic, 
+41 - A TYR 489 CD1  VS H TYR 109 CE2 
+Distance: 3.412289 - Hydrophobic, 
+42 - A TYR 489 CE1  VS H TYR 109 CG  
+Distance: 3.961358 - Hydrophobic, 
+43 - A TYR 489 CE1  VS H TYR 109 CD1 
+Distance: 4.210765 - Hydrophobic, 
+44 - A TYR 489 CE1  VS H TYR 109 CD2 
+Distance: 3.927348 - Hydrophobic, 
+45 - A TYR 489 CE1  VS H TYR 109 CE1 
+Distance: 4.460310 - Hydrophobic, 
+46 - A TYR 489 CE1  VS H TYR 109 CE2 
+Distance: 4.207901 - Hydrophobic, 

@@ -1,0 +1,73 @@
+IMMUNE SYSTEM/VIRAL PROTEIN             20-DEC-20   7DPM             
+CRYSTAL STRUCTURE OF SARS-COV-2 SPIKE RBD IN COMPLEX WITH MW06 FAB:
+
+0 - J TYR 101 CD1  VS L LYS 378 CD  
+Distance: 4.488944 - Hydrophobic, 
+1 - J TYR 101 CE1  VS L LYS 378 CD  
+Distance: 3.968573 - Hydrophobic, 
+2 - J TYR 101 OH   VS L LYS 378 NZ  
+Distance: 3.392419 - Hydrogen Bonds, 
+3 - J TYR 102 OH   VS L TYR 369 OH  
+Distance: 3.598926 - Hydrogen Bonds, 
+4 - J ASP 103 OD2  VS L LYS 378 NZ  
+Distance: 5.180252 - Attractive, 
+5 - J SER 105 O    VS L CYS 379 N   
+Distance: 3.098120 - Hydrogen Bonds, 
+6 - J TYR 107 CG   VS L TYR 369 CG  
+Distance: 5.507843 - Aromatic Stacking, 
+7 - J TYR 107 CD1  VS L TYR 369 CE1 
+Distance: 4.107402 - Hydrophobic, 
+8 - J TYR 107 CE1  VS L TYR 369 CD1 
+Distance: 4.107283 - Hydrophobic, 
+9 - J TYR 107 CE1  VS L TYR 369 CE1 
+Distance: 3.664635 - Hydrophobic, 
+10 - J TYR 107 OH   VS L TYR 369 O   
+Distance: 3.130974 - Hydrogen Bonds, 
+11 - J TYR 107 N    VS L PHE 377 O   
+Distance: 3.313328 - Hydrogen Bonds, 
+12 - J TYR 107 O    VS L PHE 377 N   
+Distance: 2.671094 - Hydrogen Bonds, 
+13 - J TYR 107 CD1  VS L PHE 377 CB  
+Distance: 4.364976 - Hydrophobic, 
+14 - J TYR 107 CD2  VS L PHE 377 CB  
+Distance: 4.211787 - Hydrophobic, 
+15 - J TYR 107 CE1  VS L PHE 377 CB  
+Distance: 3.817862 - Hydrophobic, 
+16 - J TYR 107 CE2  VS L PHE 377 CB  
+Distance: 3.633232 - Hydrophobic, 
+17 - J TYR 108 O    VS L THR 376 N   
+Distance: 3.720824 - Hydrogen Bonds, 
+18 - J TYR 108 O    VS L THR 376 OG1 
+Distance: 2.240568 - Hydrogen Bonds, 
+19 - J TYR 108 CB   VS L THR 376 CG2 
+Distance: 4.390781 - Hydrophobic, 
+20 - J TYR 108 CD1  VS L THR 376 CG2 
+Distance: 3.801999 - Hydrophobic, 
+21 - J TYR 108 CB   VS L LYS 378 CD  
+Distance: 4.167995 - Hydrophobic, 
+22 - J TYR 108 CD1  VS L VAL 407 CG1 
+Distance: 4.442355 - Hydrophobic, 
+23 - J TYR 108 CE1  VS L VAL 407 CB  
+Distance: 4.350718 - Hydrophobic, 
+24 - J TYR 108 CE1  VS L VAL 407 CG1 
+Distance: 4.009298 - Hydrophobic, 
+25 - J PHE 109 N    VS L SER 375 O   
+Distance: 3.643794 - Hydrogen Bonds, 
+26 - J PHE 109 CE1  VS L VAL 503 CG1 
+Distance: 3.942924 - Hydrophobic, 
+27 - J PHE 109 CZ   VS L VAL 503 CG1 
+Distance: 3.556736 - Hydrophobic, 
+28 - J ARG 110 NH1  VS L ALA 372 O   
+Distance: 3.535633 - Hydrogen Bonds, 
+29 - J ARG 110 NE   VS L PHE 374 O   
+Distance: 3.884340 - Hydrogen Bonds, 
+30 - J ARG 110 NH1  VS L PHE 374 O   
+Distance: 2.806555 - Hydrogen Bonds, 
+31 - J ARG 110 N    VS L SER 375 O   
+Distance: 3.069770 - Hydrogen Bonds, 
+32 - J GLU 111 OE1  VS L SER 375 OG  
+Distance: 3.583274 - Hydrogen Bonds, 
+33 - J GLU 111 OE1  VS L TYR 508 OH  
+Distance: 3.342724 - Hydrogen Bonds, 
+34 - J GLU 111 OE2  VS L TYR 508 OH  
+Distance: 2.709199 - Hydrogen Bonds, 

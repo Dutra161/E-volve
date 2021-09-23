@@ -1,0 +1,25 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             26-JUN-20   6XKP             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN IN COMPLEX WITH NEUTRALIZING ANTIBODY CV07-270:
+
+0 - B ARG 357 NE   VS H ARG 19 NH2 
+Distance: 5.693871 - Repulsive, 
+1 - B ARG 357 CZ   VS H ARG 19 NE  
+Distance: 5.945997 - Repulsive, 
+2 - B ARG 357 CZ   VS H ARG 19 NH2 
+Distance: 5.370765 - Repulsive, 
+3 - B ARG 357 NH1  VS H ARG 19 NE  
+Distance: 5.245076 - Repulsive, 
+4 - B ARG 357 NH1  VS H ARG 19 CZ  
+Distance: 5.494273 - Repulsive, 
+5 - B ARG 357 NH1  VS H ARG 19 NH2 
+Distance: 4.694837 - Repulsive, 
+6 - B LYS 462 NZ   VS H PRO 14 O   
+Distance: 3.380302 - Hydrogen Bonds, 
+7 - B ARG 466 NH2  VS H SER 17 OG  
+Distance: 3.366235 - Hydrogen Bonds, 
+8 - B ARG 466 NH2  VS H GLN 81 OE1 
+Distance: 3.858316 - Hydrogen Bonds, 
+9 - B SER 469 N    VS H GLY 65 O   
+Distance: 3.288983 - Hydrogen Bonds, 
+10 - B ALA 520 CB   VS H ASN 204 CB  
+Distance: 4.121771 - Hydrophobic, 

@@ -1,0 +1,83 @@
+IMMUNE SYSTEM/VIRAL PROTEIN             20-DEC-20   7DPM             
+CRYSTAL STRUCTURE OF SARS-COV-2 SPIKE RBD IN COMPLEX WITH MW06 FAB:
+
+0 - F TRP 353 CH2  VS H ALA 153 CB  
+Distance: 3.837187 - Hydrophobic, 
+1 - F ASN 354 OD1  VS H LYS 188 NZ  
+Distance: 3.645898 - Hydrogen Bonds, 
+2 - F ARG 355 CG   VS H ASP 151 CB  
+Distance: 4.485005 - Hydrophobic, 
+3 - F ARG 355 NH1  VS H ASP 151 O   
+Distance: 2.697895 - Hydrogen Bonds, 
+4 - F ARG 355 O    VS H HIS 189 ND1 
+Distance: 3.597921 - Hydrogen Bonds, 
+5 - F ARG 357 NE   VS H ASP 151 OD1 
+Distance: 4.664139 - Attractive, 
+6 - F ARG 357 NE   VS H ASP 151 OD2 
+Distance: 5.755267 - Attractive, 
+7 - F ARG 357 CZ   VS H ASP 151 OD1 
+Distance: 5.546764 - Attractive, 
+8 - F ARG 357 NH2  VS H ASP 151 OD1 
+Distance: 5.719588 - Attractive, 
+9 - F ARG 357 NE   VS H LYS 190 NZ  
+Distance: 5.335650 - Repulsive, 
+10 - F ARG 357 CZ   VS H LYS 190 NZ  
+Distance: 4.148557 - Repulsive, 
+11 - F ARG 357 NH1  VS H LYS 190 NZ  
+Distance: 3.794297 - Repulsive, 
+12 - F ARG 357 NH2  VS H LYS 190 NZ  
+Distance: 3.757526 - Repulsive, 
+13 - F TYR 396 CE1  VS H ASP 151 CB  
+Distance: 4.068345 - Hydrophobic, 
+14 - F TYR 396 CE2  VS H ASN 152 CB  
+Distance: 4.341696 - Hydrophobic, 
+15 - F LYS 462 NZ   VS H LYS 145 NZ  
+Distance: 3.357926 - Repulsive, 
+16 - F LYS 462 NZ   VS H GLN 147 OE1 
+Distance: 3.311726 - Hydrogen Bonds, 
+17 - F LYS 462 CB   VS H LEU 154 CD2 
+Distance: 4.208922 - Hydrophobic, 
+18 - F LYS 462 CD   VS H LEU 154 CD2 
+Distance: 3.853750 - Hydrophobic, 
+19 - F PHE 464 O    VS H LEU 154 N   
+Distance: 3.215753 - Hydrogen Bonds, 
+20 - F GLU 465 CB   VS H LEU 154 CB  
+Distance: 4.127514 - Hydrophobic, 
+21 - F GLU 465 CB   VS H LEU 154 CG  
+Distance: 4.410167 - Hydrophobic, 
+22 - F GLU 465 CB   VS H LEU 154 CD2 
+Distance: 4.060681 - Hydrophobic, 
+23 - F GLU 465 CG   VS H LEU 154 CB  
+Distance: 4.041046 - Hydrophobic, 
+24 - F GLU 465 CG   VS H LEU 154 CG  
+Distance: 3.900946 - Hydrophobic, 
+25 - F GLU 465 CG   VS H LEU 154 CD2 
+Distance: 3.712441 - Hydrophobic, 
+26 - F GLU 465 OE2  VS H SER 156 OG  
+Distance: 3.842109 - Hydrogen Bonds, 
+27 - F ARG 466 N    VS H LEU 154 O   
+Distance: 2.863439 - Hydrogen Bonds, 
+28 - F ARG 466 NE   VS H GLN 155 OE1 
+Distance: 3.563970 - Hydrogen Bonds, 
+29 - F ARG 466 O    VS H SER 156 N   
+Distance: 3.011999 - Hydrogen Bonds, 
+30 - F ARG 466 CZ   VS H ASP 185 OD2 
+Distance: 5.675566 - Attractive, 
+31 - F ARG 466 NH1  VS H ASP 185 OD2 
+Distance: 5.691759 - Attractive, 
+32 - F ARG 466 NH2  VS H ASP 185 OD2 
+Distance: 4.830413 - Attractive, 
+33 - F ASP 467 OD1  VS H SER 156 OG  
+Distance: 3.239574 - Hydrogen Bonds, 
+34 - F ASP 467 OD2  VS H SER 156 OG  
+Distance: 3.685842 - Hydrogen Bonds, 
+35 - F ILE 468 N    VS H SER 156 O   
+Distance: 3.042984 - Hydrogen Bonds, 
+36 - F ILE 468 CG1  VS H ASN 158 CB  
+Distance: 4.094776 - Hydrophobic, 
+37 - F ILE 468 CD1  VS H ASN 158 CB  
+Distance: 3.643961 - Hydrophobic, 
+38 - F SER 477 OG   VS H GLN 3 NE2 
+Distance: 3.336832 - Hydrogen Bonds, 
+39 - F GLU 516 OE1  VS H ASN 152 ND2 
+Distance: 3.110176 - Hydrogen Bonds, 

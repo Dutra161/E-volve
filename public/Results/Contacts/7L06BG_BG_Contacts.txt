@@ -1,0 +1,11 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             11-DEC-20   7L06             
+CRYO-EM STRUCTURE OF SARS-COV-2 2P S ECTODOMAIN BOUND TO TWO COPIES ODOMAIN-SWAPPED ANTIBODY 2G12:
+
+0 - B ASP 936 O    VS G ARG 99 NH2 
+Distance: 3.708996 - Hydrogen Bonds, 
+1 - B SER 940 OG   VS G ARG 99 NE  
+Distance: 3.366594 - Hydrogen Bonds, 
+2 - B SER 940 OG   VS G ARG 99 NH2 
+Distance: 2.260015 - Hydrogen Bonds, 
+3 - B THR 941 OG1  VS G ARG 99 NH2 
+Distance: 2.834168 - Hydrogen Bonds, 

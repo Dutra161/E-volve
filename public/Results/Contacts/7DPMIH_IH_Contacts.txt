@@ -1,0 +1,17 @@
+IMMUNE SYSTEM/VIRAL PROTEIN             20-DEC-20   7DPM             
+CRYSTAL STRUCTURE OF SARS-COV-2 SPIKE RBD IN COMPLEX WITH MW06 FAB:
+
+0 - H TYR 32 OH   VS I SER 373 O   
+Distance: 3.196163 - Hydrogen Bonds, 
+1 - H TYR 32 OH   VS I PHE 374 O   
+Distance: 3.101790 - Hydrogen Bonds, 
+2 - H TYR 32 OH   VS I SER 375 N   
+Distance: 3.498393 - Hydrogen Bonds, 
+3 - H ALA 50 CB   VS I VAL 503 CG2 
+Distance: 3.355123 - Hydrophobic, 
+4 - H SER 52 OG   VS I GLN 506 NE2 
+Distance: 3.748164 - Hydrogen Bonds, 
+5 - H SER 53 OG   VS I VAL 503 N   
+Distance: 3.254907 - Hydrogen Bonds, 
+6 - H ASN 92 ND2  VS I ALA 372 O   
+Distance: 3.491194 - Hydrogen Bonds, 

@@ -1,0 +1,71 @@
+VIRAL PROTEIN                           14-JUN-20   6ZDG             
+ASSOCIATION OF THREE COMPLEXES OF LARGELY STRUCTURALLY DISORDEREDSPIKE ECTODOMAIN WITH BOUND EY6A FAB:
+
+0 - D TYR 369 OH   VS F ASN 57 ND2 
+Distance: 3.602533 - Hydrogen Bonds, 
+1 - D SER 375 O    VS F LYS 65 NZ  
+Distance: 3.555627 - Hydrogen Bonds, 
+2 - D PHE 377 CG   VS F TYR 59 CG  
+Distance: 5.600780 - Aromatic Stacking, 
+3 - D PHE 377 CD1  VS F TYR 59 CD1 
+Distance: 4.449352 - Hydrophobic, 
+4 - D PHE 377 CD1  VS F TYR 59 CE1 
+Distance: 3.630818 - Hydrophobic, 
+5 - D PHE 377 CE1  VS F TYR 59 CE1 
+Distance: 3.631328 - Hydrophobic, 
+6 - D LYS 378 NZ   VS F ASP 62 OD2 
+Distance: 5.744328 - Attractive, 
+7 - D VAL 382 CB   VS F TRP 104 CB  
+Distance: 3.575146 - Hydrophobic, 
+8 - D VAL 382 CB   VS F TRP 104 CG  
+Distance: 4.489462 - Hydrophobic, 
+9 - D VAL 382 CG2  VS F TRP 104 CB  
+Distance: 3.678365 - Hydrophobic, 
+10 - D VAL 382 CG2  VS F TRP 104 CG  
+Distance: 4.418086 - Hydrophobic, 
+11 - D SER 383 N    VS F TRP 104 O   
+Distance: 2.706687 - Hydrogen Bonds, 
+12 - D SER 383 OG   VS F TRP 104 O   
+Distance: 3.438901 - Hydrogen Bonds, 
+13 - D SER 383 OG   VS F TYR 106 N   
+Distance: 3.820015 - Hydrogen Bonds, 
+14 - D PRO 384 CB   VS F TYR 59 CE2 
+Distance: 4.249176 - Hydrophobic, 
+15 - D PRO 384 CG   VS F TYR 59 CD2 
+Distance: 4.282061 - Hydrophobic, 
+16 - D PRO 384 CG   VS F TYR 59 CE1 
+Distance: 4.126783 - Hydrophobic, 
+17 - D PRO 384 CG   VS F TYR 59 CE2 
+Distance: 3.563667 - Hydrophobic, 
+18 - D THR 385 OG1  VS F ASP 33 OD2 
+Distance: 3.178942 - Hydrogen Bonds, 
+19 - D THR 385 CG2  VS F ASN 57 CB  
+Distance: 3.993401 - Hydrophobic, 
+20 - D THR 385 CG2  VS F TYR 59 CD2 
+Distance: 4.069913 - Hydrophobic, 
+21 - D THR 385 CG2  VS F TYR 59 CE2 
+Distance: 3.668289 - Hydrophobic, 
+22 - D THR 385 OG1  VS F TYR 106 OH  
+Distance: 2.117906 - Hydrogen Bonds, 
+23 - D LYS 386 NZ   VS F ASP 99 OD2 
+Distance: 5.215783 - Attractive, 
+24 - D LYS 386 NZ   VS F GLY 101 O   
+Distance: 2.829932 - Hydrogen Bonds, 
+25 - D LYS 386 NZ   VS F LEU 103 O   
+Distance: 2.496511 - Hydrogen Bonds, 
+26 - D LEU 390 CG   VS F TRP 104 CZ2 
+Distance: 4.494164 - Hydrophobic, 
+27 - D LEU 390 CD1  VS F TRP 104 CZ2 
+Distance: 3.999144 - Hydrophobic, 
+28 - D LEU 390 CD2  VS F TRP 104 CG  
+Distance: 3.862124 - Hydrophobic, 
+29 - D LEU 390 CD2  VS F TRP 104 CD2 
+Distance: 3.815608 - Hydrophobic, 
+30 - D LEU 390 CD2  VS F TRP 104 CZ2 
+Distance: 4.218088 - Hydrophobic, 
+31 - D PHE 392 CE2  VS F TRP 104 CZ3 
+Distance: 4.272097 - Hydrophobic, 
+32 - D PHE 392 CE2  VS F TRP 104 CH2 
+Distance: 4.441650 - Hydrophobic, 
+33 - D LEU 517 CD1  VS F TRP 104 CH2 
+Distance: 4.264554 - Hydrophobic, 

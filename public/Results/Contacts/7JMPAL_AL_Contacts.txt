@@ -1,0 +1,55 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             02-AUG-20   7JMP             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN IN COMPLEX WITH NEUTRALIZING ANTIBODY COVA2-39:
+
+0 - A PHE 486 CE2  VS L LEU 32 CD1 
+Distance: 3.558804 - Hydrophobic, 
+1 - A PHE 486 CZ   VS L LEU 32 CD1 
+Distance: 3.775958 - Hydrophobic, 
+2 - A PHE 486 CZ   VS L LEU 32 CD2 
+Distance: 4.359635 - Hydrophobic, 
+3 - A PHE 486 CB   VS L TYR 91 CE1 
+Distance: 3.632055 - Hydrophobic, 
+4 - A PHE 486 CG   VS L TYR 91 CG  
+Distance: 4.247197 - Aromatic Stacking, 
+5 - A PHE 486 CG   VS L TYR 91 CD1 
+Distance: 4.174076 - Hydrophobic, 
+6 - A PHE 486 CG   VS L TYR 91 CE1 
+Distance: 3.580047 - Hydrophobic, 
+7 - A PHE 486 CG   VS L TYR 91 CE2 
+Distance: 4.495799 - Hydrophobic, 
+8 - A PHE 486 CD1  VS L TYR 91 CE1 
+Distance: 4.265308 - Hydrophobic, 
+9 - A PHE 486 CD2  VS L TYR 91 CG  
+Distance: 4.426808 - Hydrophobic, 
+10 - A PHE 486 CD2  VS L TYR 91 CD1 
+Distance: 4.148390 - Hydrophobic, 
+11 - A PHE 486 CD2  VS L TYR 91 CD2 
+Distance: 4.225377 - Hydrophobic, 
+12 - A PHE 486 CD2  VS L TYR 91 CE1 
+Distance: 3.661561 - Hydrophobic, 
+13 - A PHE 486 CD2  VS L TYR 91 CE2 
+Distance: 3.775681 - Hydrophobic, 
+14 - A PHE 486 CE2  VS L TYR 91 CG  
+Distance: 4.398717 - Hydrophobic, 
+15 - A PHE 486 CE2  VS L TYR 91 CD1 
+Distance: 4.442284 - Hydrophobic, 
+16 - A PHE 486 CE2  VS L TYR 91 CD2 
+Distance: 4.250055 - Hydrophobic, 
+17 - A PHE 486 CE2  VS L TYR 91 CE1 
+Distance: 4.381077 - Hydrophobic, 
+18 - A PHE 486 CE2  VS L TYR 91 CE2 
+Distance: 4.202277 - Hydrophobic, 
+19 - A PHE 486 N    VS L SER 95 OG  
+Distance: 2.815431 - Hydrogen Bonds, 
+20 - A PHE 486 CB   VS L TRP 96 CH2 
+Distance: 4.389396 - Hydrophobic, 
+21 - A PHE 486 CG   VS L TRP 96 CG  
+Distance: 5.997135 - Aromatic Stacking, 
+22 - A PHE 486 CG   VS L TRP 96 CZ2 
+Distance: 4.332498 - Hydrophobic, 
+23 - A PHE 486 CD1  VS L TRP 96 CZ2 
+Distance: 3.620518 - Hydrophobic, 
+24 - A PHE 486 CD1  VS L TRP 96 CH2 
+Distance: 4.020983 - Hydrophobic, 
+25 - A PHE 486 CE1  VS L TRP 96 CZ2 
+Distance: 4.060922 - Hydrophobic, 

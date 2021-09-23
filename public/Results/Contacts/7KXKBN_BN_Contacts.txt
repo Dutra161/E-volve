@@ -1,0 +1,11 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             04-DEC-20   7KXK             
+SARS-COV-2 SPIKE PROTEIN IN COMPLEX WITH FAB 15033-7, 2-"UP"-1-"DOWN"CONFORMATION:
+
+0 - B ASP 428 OD2  VS N ASP 1 OD2 
+Distance: 5.381834 - Repulsive, 
+1 - B HIS 519 CB   VS N GLN 3 CB  
+Distance: 3.823734 - Hydrophobic, 
+2 - B HIS 519 CB   VS N GLN 3 CG  
+Distance: 4.188275 - Hydrophobic, 
+3 - B HIS 519 NE2  VS N THR 5 OG1 
+Distance: 3.442873 - Hydrogen Bonds, 

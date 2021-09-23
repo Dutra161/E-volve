@@ -1,0 +1,83 @@
+IMMUNE SYSTEM/VIRAL PROTEIN             08-JUN-20   6XC7             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN IN COMPLEX WITH ANTIBODIES CC12.3 AND CR3022:
+
+0 - A TYR 369 O    VS H GLY 28 N   
+Distance: 3.673316 - Hydrogen Bonds, 
+1 - A TYR 369 CB   VS H THR 31 CG2 
+Distance: 3.823014 - Hydrophobic, 
+2 - A PHE 377 CB   VS H ILE 30 CB  
+Distance: 4.480284 - Hydrophobic, 
+3 - A PHE 377 CB   VS H ILE 30 CG1 
+Distance: 3.938600 - Hydrophobic, 
+4 - A PHE 377 CB   VS H ILE 30 CG2 
+Distance: 4.007359 - Hydrophobic, 
+5 - A PHE 377 CG   VS H ILE 30 CG2 
+Distance: 4.485864 - Hydrophobic, 
+6 - A PHE 377 CD2  VS H ILE 30 CG2 
+Distance: 4.351535 - Hydrophobic, 
+7 - A PHE 377 CB   VS H THR 31 CG2 
+Distance: 3.854839 - Hydrophobic, 
+8 - A PHE 377 CG   VS H THR 31 CG2 
+Distance: 3.454536 - Hydrophobic, 
+9 - A PHE 377 CD1  VS H THR 31 CG2 
+Distance: 3.513965 - Hydrophobic, 
+10 - A PHE 377 CD2  VS H THR 31 CG2 
+Distance: 3.811060 - Hydrophobic, 
+11 - A PHE 377 CE1  VS H THR 31 CG2 
+Distance: 3.938244 - Hydrophobic, 
+12 - A PHE 377 CE2  VS H THR 31 CG2 
+Distance: 4.208156 - Hydrophobic, 
+13 - A PHE 377 CZ   VS H THR 31 CG2 
+Distance: 4.265983 - Hydrophobic, 
+14 - A PHE 377 N    VS H TYR 52 OH  
+Distance: 2.679765 - Hydrogen Bonds, 
+15 - A PHE 377 O    VS H TYR 52 OH  
+Distance: 2.905046 - Hydrogen Bonds, 
+16 - A LYS 378 CB   VS H TRP 33 CZ2 
+Distance: 4.362431 - Hydrophobic, 
+17 - A LYS 378 CD   VS H TRP 33 CZ2 
+Distance: 4.145742 - Hydrophobic, 
+18 - A LYS 378 N    VS H TYR 52 OH  
+Distance: 3.885783 - Hydrogen Bonds, 
+19 - A LYS 378 CG   VS H TYR 52 CD2 
+Distance: 4.295887 - Hydrophobic, 
+20 - A LYS 378 CG   VS H TYR 52 CE1 
+Distance: 4.132121 - Hydrophobic, 
+21 - A LYS 378 CG   VS H TYR 52 CE2 
+Distance: 3.783814 - Hydrophobic, 
+22 - A LYS 378 CD   VS H TYR 52 CG  
+Distance: 3.810995 - Hydrophobic, 
+23 - A LYS 378 CD   VS H TYR 52 CD1 
+Distance: 4.094104 - Hydrophobic, 
+24 - A LYS 378 CD   VS H TYR 52 CD2 
+Distance: 3.463350 - Hydrophobic, 
+25 - A LYS 378 CD   VS H TYR 52 CE1 
+Distance: 4.072203 - Hydrophobic, 
+26 - A LYS 378 CD   VS H TYR 52 CE2 
+Distance: 3.436759 - Hydrophobic, 
+27 - A LYS 378 NZ   VS H ASP 54 OD1 
+Distance: 3.543556 - Attractive, Hydrogen Bonds, 
+28 - A LYS 378 NZ   VS H ASP 54 OD2 
+Distance: 2.805834 - Attractive, Hydrogen Bonds, 
+29 - A LYS 378 NZ   VS H GLU 56 OE1 
+Distance: 2.721010 - Attractive, Hydrogen Bonds, 
+30 - A LYS 378 NZ   VS H GLU 56 OE2 
+Distance: 4.902045 - Attractive, 
+31 - A CYS 379 O    VS H ILE 98 N   
+Distance: 2.989935 - Hydrogen Bonds, 
+32 - A TYR 380 CB   VS H ILE 98 CG2 
+Distance: 4.297157 - Hydrophobic, 
+33 - A TYR 380 CG   VS H ILE 98 CG2 
+Distance: 4.120664 - Hydrophobic, 
+34 - A TYR 380 CD2  VS H ILE 98 CG2 
+Distance: 3.471926 - Hydrophobic, 
+35 - A TYR 380 CE2  VS H ILE 98 CG2 
+Distance: 4.087162 - Hydrophobic, 
+36 - A GLY 381 N    VS H ILE 98 O   
+Distance: 3.124384 - Hydrogen Bonds, 
+37 - A PRO 384 CG   VS H THR 31 CG2 
+Distance: 4.111761 - Hydrophobic, 
+38 - A LYS 386 NZ   VS H ASP 101 OD1 
+Distance: 4.195861 - Attractive, 
+39 - A LYS 386 NZ   VS H ASP 101 OD2 
+Distance: 2.758951 - Attractive, Hydrogen Bonds, 

@@ -1,0 +1,121 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             10-JUN-20   6XDG             
+COMPLEX OF SARS-COV-2 RECEPTOR BINDING DOMAIN WITH THE FAB FRAGMENTS OF TWO NEUTRALIZING ANTIBODIES:
+
+0 - E LYS 417 NZ   VS B ASP 31 OD1 
+Distance: 5.772559 - Attractive, 
+1 - E LYS 417 NZ   VS B ASP 31 OD2 
+Distance: 3.849548 - Attractive, Hydrogen Bonds, 
+2 - E LYS 417 NZ   VS B THR 102 OG1 
+Distance: 3.684543 - Hydrogen Bonds, 
+3 - E TYR 453 OH   VS B ASP 31 OD1 
+Distance: 2.836725 - Hydrogen Bonds, 
+4 - E LEU 455 CG   VS B ASP 31 CB  
+Distance: 4.111114 - Hydrophobic, 
+5 - E LEU 455 CD1  VS B ASP 31 CB  
+Distance: 3.583007 - Hydrophobic, 
+6 - E LEU 455 CD2  VS B ASP 31 CB  
+Distance: 3.742913 - Hydrophobic, 
+7 - E ALA 475 CB   VS B MET 104 CE  
+Distance: 4.469351 - Hydrophobic, 
+8 - E GLU 484 OE1  VS B TYR 53 OH  
+Distance: 3.439104 - Hydrogen Bonds, 
+9 - E GLU 484 OE2  VS B TYR 53 OH  
+Distance: 3.236531 - Hydrogen Bonds, 
+10 - E GLU 484 OE2  VS B SER 56 OG  
+Distance: 2.940625 - Hydrogen Bonds, 
+11 - E GLU 484 CG   VS B THR 57 CG2 
+Distance: 4.453010 - Hydrophobic, 
+12 - E GLY 485 O    VS B TYR 33 OH  
+Distance: 3.773098 - Hydrogen Bonds, 
+13 - E PHE 486 CG   VS B TYR 50 CG  
+Distance: 5.323949 - Aromatic Stacking, 
+14 - E PHE 486 CD2  VS B TYR 50 CD2 
+Distance: 3.970508 - Hydrophobic, 
+15 - E PHE 486 CD2  VS B TYR 50 CE2 
+Distance: 3.778595 - Hydrophobic, 
+16 - E PHE 486 CE2  VS B TYR 50 CD2 
+Distance: 3.928011 - Hydrophobic, 
+17 - E PHE 486 CE2  VS B TYR 50 CE2 
+Distance: 3.846884 - Hydrophobic, 
+18 - E PHE 486 N    VS B TYR 59 OH  
+Distance: 2.727664 - Hydrogen Bonds, 
+19 - E PHE 486 CB   VS B TYR 59 CE2 
+Distance: 3.920516 - Hydrophobic, 
+20 - E PHE 486 CG   VS B TYR 59 CG  
+Distance: 5.809063 - Aromatic Stacking, 
+21 - E PHE 486 CG   VS B TYR 59 CE2 
+Distance: 4.207918 - Hydrophobic, 
+22 - E PHE 486 CD2  VS B TYR 59 CD2 
+Distance: 3.906995 - Hydrophobic, 
+23 - E PHE 486 CD2  VS B TYR 59 CE2 
+Distance: 3.534630 - Hydrophobic, 
+24 - E PHE 486 O    VS B ARG 100 NH1 
+Distance: 2.229011 - Hydrogen Bonds, 
+25 - E CYS 488 N    VS B TYR 33 OH  
+Distance: 2.944735 - Hydrogen Bonds, 
+26 - E TYR 489 N    VS B TYR 33 OH  
+Distance: 3.058859 - Hydrogen Bonds, 
+27 - E TYR 489 CG   VS B TYR 33 CG  
+Distance: 5.132812 - Aromatic Stacking, 
+28 - E TYR 489 CD1  VS B TYR 33 CE1 
+Distance: 3.616346 - Hydrophobic, 
+29 - E TYR 489 CD1  VS B TYR 33 CE2 
+Distance: 3.966410 - Hydrophobic, 
+30 - E TYR 489 CE1  VS B TYR 33 CD1 
+Distance: 4.492691 - Hydrophobic, 
+31 - E TYR 489 CE1  VS B TYR 33 CD2 
+Distance: 4.453301 - Hydrophobic, 
+32 - E TYR 489 CE1  VS B TYR 33 CE1 
+Distance: 3.968925 - Hydrophobic, 
+33 - E TYR 489 CE1  VS B TYR 33 CE2 
+Distance: 3.927925 - Hydrophobic, 
+34 - E TYR 489 CB   VS B TYR 53 CD1 
+Distance: 4.011811 - Hydrophobic, 
+35 - E TYR 489 CB   VS B TYR 53 CE1 
+Distance: 3.756800 - Hydrophobic, 
+36 - E TYR 489 CG   VS B TYR 53 CG  
+Distance: 4.089294 - Hydrophobic, 
+37 - E TYR 489 CG   VS B TYR 53 CG  
+Distance: 3.678853 - Aromatic Stacking, 
+38 - E TYR 489 CG   VS B TYR 53 CD1 
+Distance: 3.250300 - Hydrophobic, 
+39 - E TYR 489 CG   VS B TYR 53 CE1 
+Distance: 3.393669 - Hydrophobic, 
+40 - E TYR 489 CD1  VS B TYR 53 CB  
+Distance: 4.133675 - Hydrophobic, 
+41 - E TYR 489 CD1  VS B TYR 53 CG  
+Distance: 3.964919 - Hydrophobic, 
+42 - E TYR 489 CD1  VS B TYR 53 CD1 
+Distance: 3.296148 - Hydrophobic, 
+43 - E TYR 489 CD1  VS B TYR 53 CE1 
+Distance: 3.937722 - Hydrophobic, 
+44 - E TYR 489 CD2  VS B TYR 53 CG  
+Distance: 3.818003 - Hydrophobic, 
+45 - E TYR 489 CD2  VS B TYR 53 CD1 
+Distance: 3.312568 - Hydrophobic, 
+46 - E TYR 489 CD2  VS B TYR 53 CD2 
+Distance: 4.230219 - Hydrophobic, 
+47 - E TYR 489 CD2  VS B TYR 53 CE1 
+Distance: 3.316875 - Hydrophobic, 
+48 - E TYR 489 CD2  VS B TYR 53 CE2 
+Distance: 4.222372 - Hydrophobic, 
+49 - E TYR 489 CE1  VS B TYR 53 CB  
+Distance: 3.382213 - Hydrophobic, 
+50 - E TYR 489 CE1  VS B TYR 53 CG  
+Distance: 3.596951 - Hydrophobic, 
+51 - E TYR 489 CE1  VS B TYR 53 CD1 
+Distance: 3.434424 - Hydrophobic, 
+52 - E TYR 489 CE1  VS B TYR 53 CE1 
+Distance: 4.371054 - Hydrophobic, 
+53 - E TYR 489 CE2  VS B TYR 53 CB  
+Distance: 3.924591 - Hydrophobic, 
+54 - E TYR 489 CE2  VS B TYR 53 CG  
+Distance: 3.436020 - Hydrophobic, 
+55 - E TYR 489 CE2  VS B TYR 53 CD1 
+Distance: 3.451859 - Hydrophobic, 
+56 - E TYR 489 CE2  VS B TYR 53 CD2 
+Distance: 3.757018 - Hydrophobic, 
+57 - E TYR 489 CE2  VS B TYR 53 CE1 
+Distance: 3.820577 - Hydrophobic, 
+58 - E TYR 489 CE2  VS B TYR 53 CE2 
+Distance: 4.084087 - Hydrophobic, 

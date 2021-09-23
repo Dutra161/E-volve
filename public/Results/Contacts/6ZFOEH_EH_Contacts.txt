@@ -1,0 +1,87 @@
+IMMUNE SYSTEM                           17-JUN-20   6ZFO             
+ASSOCIATION OF TWO COMPLEXES OF LARGELY STRUCTURALLY DISORDERED SPIKEECTODOMAIN WITH BOUND EY6A FAB:
+
+0 - E TYR 369 OH   VS H ASN 57 ND2 
+Distance: 3.674627 - Hydrogen Bonds, 
+1 - E SER 375 O    VS H LYS 65 NZ  
+Distance: 3.735697 - Hydrogen Bonds, 
+2 - E PHE 377 CG   VS H TYR 59 CG  
+Distance: 5.573178 - Aromatic Stacking, 
+3 - E PHE 377 CD1  VS H TYR 59 CE1 
+Distance: 4.109199 - Hydrophobic, 
+4 - E PHE 377 CE1  VS H TYR 59 CE1 
+Distance: 3.986731 - Hydrophobic, 
+5 - E PHE 377 CZ   VS H TYR 59 CE1 
+Distance: 4.301844 - Hydrophobic, 
+6 - E VAL 382 CB   VS H TRP 104 CE3 
+Distance: 4.410550 - Hydrophobic, 
+7 - E VAL 382 CG2  VS H TRP 104 CE3 
+Distance: 4.270908 - Hydrophobic, 
+8 - E SER 383 N    VS H TRP 104 O   
+Distance: 3.113663 - Hydrogen Bonds, 
+9 - E SER 383 OG   VS H TRP 104 O   
+Distance: 3.682581 - Hydrogen Bonds, 
+10 - E SER 383 OG   VS H TYR 106 N   
+Distance: 3.819528 - Hydrogen Bonds, 
+11 - E PRO 384 CB   VS H TYR 59 CE1 
+Distance: 4.439131 - Hydrophobic, 
+12 - E PRO 384 CB   VS H TYR 59 CE2 
+Distance: 4.149999 - Hydrophobic, 
+13 - E PRO 384 CG   VS H TYR 59 CD1 
+Distance: 4.477744 - Hydrophobic, 
+14 - E PRO 384 CG   VS H TYR 59 CD2 
+Distance: 4.188828 - Hydrophobic, 
+15 - E PRO 384 CG   VS H TYR 59 CE1 
+Distance: 3.847997 - Hydrophobic, 
+16 - E PRO 384 CG   VS H TYR 59 CE2 
+Distance: 3.507203 - Hydrophobic, 
+17 - E THR 385 OG1  VS H ASP 33 OD1 
+Distance: 3.802708 - Hydrogen Bonds, 
+18 - E THR 385 OG1  VS H ASP 33 OD2 
+Distance: 2.530795 - Hydrogen Bonds, 
+19 - E THR 385 CG2  VS H ASN 57 CB  
+Distance: 3.918427 - Hydrophobic, 
+20 - E THR 385 CG2  VS H TYR 59 CE2 
+Distance: 4.240564 - Hydrophobic, 
+21 - E THR 385 N    VS H TYR 106 OH  
+Distance: 3.789316 - Hydrogen Bonds, 
+22 - E THR 385 OG1  VS H TYR 106 OH  
+Distance: 2.396515 - Hydrogen Bonds, 
+23 - E LYS 386 NZ   VS H ASP 33 OD2 
+Distance: 5.173448 - Attractive, 
+24 - E LYS 386 NZ   VS H ASP 99 OD1 
+Distance: 4.237039 - Attractive, 
+25 - E LYS 386 NZ   VS H ASP 99 OD2 
+Distance: 2.924107 - Attractive, Hydrogen Bonds, 
+26 - E LYS 386 NZ   VS H LEU 103 O   
+Distance: 3.205316 - Hydrogen Bonds, 
+27 - E LYS 386 NZ   VS H VAL 105 O   
+Distance: 2.664802 - Hydrogen Bonds, 
+28 - E ASN 388 ND2  VS H TYR 53 OH  
+Distance: 3.254132 - Hydrogen Bonds, 
+29 - E LEU 390 CD2  VS H TRP 104 CD2 
+Distance: 4.037396 - Hydrophobic, 
+30 - E LEU 390 CD2  VS H TRP 104 CE3 
+Distance: 4.381046 - Hydrophobic, 
+31 - E LEU 390 CD2  VS H TRP 104 CZ2 
+Distance: 3.932937 - Hydrophobic, 
+32 - E LEU 390 CD2  VS H TRP 104 CZ3 
+Distance: 4.475938 - Hydrophobic, 
+33 - E LEU 390 CD2  VS H TRP 104 CH2 
+Distance: 4.262608 - Hydrophobic, 
+34 - E PHE 392 CD2  VS H TRP 104 CH2 
+Distance: 4.342841 - Hydrophobic, 
+35 - E PHE 392 CE2  VS H TRP 104 CZ2 
+Distance: 4.453104 - Hydrophobic, 
+36 - E PHE 392 CE2  VS H TRP 104 CZ3 
+Distance: 3.546992 - Hydrophobic, 
+37 - E PHE 392 CE2  VS H TRP 104 CH2 
+Distance: 3.435158 - Hydrophobic, 
+38 - E PHE 392 CZ   VS H TRP 104 CZ3 
+Distance: 4.017624 - Hydrophobic, 
+39 - E PHE 392 CZ   VS H TRP 104 CH2 
+Distance: 4.129063 - Hydrophobic, 
+40 - E LEU 517 CD1  VS H TRP 104 CZ2 
+Distance: 3.839868 - Hydrophobic, 
+41 - E LEU 517 CD1  VS H TRP 104 CH2 
+Distance: 3.790773 - Hydrophobic, 

@@ -1,0 +1,107 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             04-NOV-20   7KN6             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN COMPLEXED WITNANOBODY VHH V AND ANTIBODY FAB CC12.3:
+
+0 - A LYS 417 CG   VS H TYR 52 CE2 
+Distance: 3.835344 - Hydrophobic, 
+1 - A LYS 417 NZ   VS H GLY 97 O   
+Distance: 3.480196 - Hydrogen Bonds, 
+2 - A LYS 417 NZ   VS H ASP 98 OD1 
+Distance: 5.166936 - Attractive, 
+3 - A LYS 417 NZ   VS H ASP 98 OD2 
+Distance: 3.668581 - Attractive, Hydrogen Bonds, 
+4 - A ASP 420 OD1  VS H SER 56 OG  
+Distance: 3.555333 - Hydrogen Bonds, 
+5 - A ASP 420 OD2  VS H SER 56 OG  
+Distance: 2.505988 - Hydrogen Bonds, 
+6 - A TYR 421 CE2  VS H TYR 52 CD2 
+Distance: 4.040911 - Hydrophobic, 
+7 - A TYR 421 OH   VS H SER 53 N   
+Distance: 3.586889 - Hydrogen Bonds, 
+8 - A TYR 421 OH   VS H SER 53 OG  
+Distance: 3.297074 - Hydrogen Bonds, 
+9 - A TYR 421 OH   VS H GLY 54 N   
+Distance: 2.811444 - Hydrogen Bonds, 
+10 - A LEU 455 O    VS H TYR 33 OH  
+Distance: 2.608320 - Hydrogen Bonds, 
+11 - A LEU 455 CD2  VS H TYR 33 CE2 
+Distance: 3.842263 - Hydrophobic, 
+12 - A LEU 455 CD1  VS H PHE 96 CE2 
+Distance: 4.325417 - Hydrophobic, 
+13 - A LEU 455 CG   VS H PHE 99 CE2 
+Distance: 4.312435 - Hydrophobic, 
+14 - A LEU 455 CD1  VS H PHE 99 CD2 
+Distance: 4.486081 - Hydrophobic, 
+15 - A LEU 455 CD1  VS H PHE 99 CE2 
+Distance: 3.867881 - Hydrophobic, 
+16 - A PHE 456 CG   VS H TYR 33 CG  
+Distance: 5.864425 - Aromatic Stacking, 
+17 - A PHE 456 CD1  VS H TYR 33 CD2 
+Distance: 4.266770 - Hydrophobic, 
+18 - A PHE 456 CD1  VS H TYR 33 CE2 
+Distance: 3.800634 - Hydrophobic, 
+19 - A PHE 456 CE1  VS H TYR 33 CD2 
+Distance: 3.979705 - Hydrophobic, 
+20 - A PHE 456 CE1  VS H TYR 33 CE2 
+Distance: 3.809957 - Hydrophobic, 
+21 - A PHE 456 CG   VS H PHE 96 CG  
+Distance: 5.388244 - Aromatic Stacking, 
+22 - A PHE 456 CE2  VS H PHE 96 CE1 
+Distance: 4.072376 - Hydrophobic, 
+23 - A PHE 456 CE2  VS H PHE 96 CZ  
+Distance: 4.011983 - Hydrophobic, 
+24 - A PHE 456 CZ   VS H PHE 96 CD1 
+Distance: 4.022213 - Hydrophobic, 
+25 - A PHE 456 CZ   VS H PHE 96 CE1 
+Distance: 3.673585 - Hydrophobic, 
+26 - A PHE 456 CZ   VS H PHE 96 CE2 
+Distance: 4.489875 - Hydrophobic, 
+27 - A PHE 456 CZ   VS H PHE 96 CZ  
+Distance: 3.933181 - Hydrophobic, 
+28 - A ARG 457 O    VS H SER 53 OG  
+Distance: 2.931772 - Hydrogen Bonds, 
+29 - A ASN 460 ND2  VS H GLY 54 O   
+Distance: 3.894134 - Hydrogen Bonds, 
+30 - A TYR 473 OH   VS H SER 31 O   
+Distance: 2.498027 - Hydrogen Bonds, 
+31 - A ALA 475 O    VS H THR 28 N   
+Distance: 2.968257 - Hydrogen Bonds, 
+32 - A ALA 475 O    VS H THR 28 OG1 
+Distance: 3.724976 - Hydrogen Bonds, 
+33 - A ALA 475 O    VS H ASN 32 ND2 
+Distance: 3.115908 - Hydrogen Bonds, 
+34 - A GLY 476 O    VS H THR 28 OG1 
+Distance: 3.794513 - Hydrogen Bonds, 
+35 - A PHE 486 CE1  VS H VAL 2 CG2 
+Distance: 3.824831 - Hydrophobic, 
+36 - A PHE 486 CE2  VS H VAL 2 CG2 
+Distance: 4.486451 - Hydrophobic, 
+37 - A PHE 486 CZ   VS H VAL 2 CG2 
+Distance: 3.345986 - Hydrophobic, 
+38 - A PHE 486 CE1  VS H TYR 102 CE2 
+Distance: 3.999345 - Hydrophobic, 
+39 - A ASN 487 ND2  VS H GLY 26 O   
+Distance: 2.631157 - Hydrogen Bonds, 
+40 - A ASN 487 OD1  VS H ARG 94 NH1 
+Distance: 3.539467 - Hydrogen Bonds, 
+41 - A ASN 487 OD1  VS H ARG 94 NH2 
+Distance: 2.693468 - Hydrogen Bonds, 
+42 - A TYR 489 OH   VS H ARG 94 NH1 
+Distance: 2.776822 - Hydrogen Bonds, 
+43 - A TYR 489 OH   VS H ARG 94 NH2 
+Distance: 2.539740 - Hydrogen Bonds, 
+44 - A TYR 489 CG   VS H PHE 96 CG  
+Distance: 5.086955 - Aromatic Stacking, 
+45 - A TYR 489 CG   VS H PHE 96 CE1 
+Distance: 3.909487 - Hydrophobic, 
+46 - A TYR 489 CD1  VS H PHE 96 CE1 
+Distance: 3.849827 - Hydrophobic, 
+47 - A TYR 489 CD2  VS H PHE 96 CE1 
+Distance: 4.027705 - Hydrophobic, 
+48 - A TYR 489 CE1  VS H PHE 96 CD1 
+Distance: 4.474116 - Hydrophobic, 
+49 - A TYR 489 CE1  VS H PHE 96 CE1 
+Distance: 3.935176 - Hydrophobic, 
+50 - A TYR 489 CE2  VS H PHE 96 CD1 
+Distance: 4.338799 - Hydrophobic, 
+51 - A TYR 489 CE2  VS H PHE 96 CE1 
+Distance: 4.106965 - Hydrophobic, 

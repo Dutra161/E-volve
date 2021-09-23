@@ -1,0 +1,7 @@
+VIRAL PROTEIN                           14-JUN-20   6ZDH             
+SARS-COV-2 SPIKE GLYCOPROTEIN IN COMPLEX WITH A NEUTRALIZING ANTIBODYEY6A FAB:
+
+0 - B SER 477 OG   VS G SER 196 OG  
+Distance: 3.766207 - Hydrogen Bonds, 
+1 - B THR 478 CG2  VS G THR 199 CG2 
+Distance: 3.931806 - Hydrophobic, 

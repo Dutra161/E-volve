@@ -1,0 +1,43 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             27-SEP-20   7K8S             
+STRUCTURE OF THE SARS-COV-2 S 2P TRIMER IN COMPLEX WITH THE HUMANNEUTRALIZING ANTIBODY FAB FRAGMENT, C002 (STATE 1):
+
+0 - B GLU 484 OE1  VS P THR 94 OG1 
+Distance: 2.625440 - Hydrogen Bonds, 
+1 - B GLU 484 O    VS P ARG 96 NH2 
+Distance: 3.746920 - Hydrogen Bonds, 
+2 - B GLU 484 OE1  VS P ARG 96 NE  
+Distance: 4.796728 - Attractive, 
+3 - B GLU 484 OE1  VS P ARG 96 CZ  
+Distance: 4.130258 - Attractive, 
+4 - B GLU 484 OE1  VS P ARG 96 NH1 
+Distance: 3.687586 - Attractive, Hydrogen Bonds, 
+5 - B GLU 484 OE1  VS P ARG 96 NH2 
+Distance: 4.456907 - Attractive, 
+6 - B GLU 484 OE2  VS P ARG 96 NE  
+Distance: 3.263373 - Attractive, Hydrogen Bonds, 
+7 - B GLU 484 OE2  VS P ARG 96 CZ  
+Distance: 3.016983 - Attractive, 
+8 - B GLU 484 OE2  VS P ARG 96 NH1 
+Distance: 3.304029 - Attractive, Hydrogen Bonds, 
+9 - B GLU 484 OE2  VS P ARG 96 NH2 
+Distance: 3.313858 - Attractive, Hydrogen Bonds, 
+10 - B GLY 485 O    VS P TYR 32 OH  
+Distance: 2.528075 - Hydrogen Bonds, 
+11 - B PHE 486 N    VS P TYR 32 OH  
+Distance: 3.777592 - Hydrogen Bonds, 
+12 - B PHE 486 CD2  VS P TYR 32 CE2 
+Distance: 3.646396 - Hydrophobic, 
+13 - B PHE 486 CE2  VS P TYR 32 CE2 
+Distance: 4.316158 - Hydrophobic, 
+14 - B PHE 486 CG   VS P TYR 92 CG  
+Distance: 5.042508 - Aromatic Stacking, 
+15 - B PHE 486 CD2  VS P TYR 92 CD1 
+Distance: 4.115157 - Hydrophobic, 
+16 - B PHE 486 CD2  VS P TYR 92 CE1 
+Distance: 3.523735 - Hydrophobic, 
+17 - B PHE 486 CE2  VS P TYR 92 CD1 
+Distance: 4.314601 - Hydrophobic, 
+18 - B PHE 486 CE2  VS P TYR 92 CE1 
+Distance: 3.377185 - Hydrophobic, 
+19 - B PHE 486 CZ   VS P TYR 92 CE1 
+Distance: 4.410526 - Hydrophobic, 

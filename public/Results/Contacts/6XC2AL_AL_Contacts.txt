@@ -1,0 +1,75 @@
+IMMUNE SYSTEM/VIRAL PROTEIN             08-JUN-20   6XC2             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN IN COMPLEX WITH NEUTRALIZING ANTIBODY CC12.1:
+
+0 - A ARG 403 NH1  VS L ASN 92 O   
+Distance: 3.719591 - Hydrogen Bonds, 
+1 - A ARG 403 NH2  VS L ASN 92 O   
+Distance: 2.781953 - Hydrogen Bonds, 
+2 - A ASP 405 CB   VS L TYR 94 CB  
+Distance: 3.278140 - Hydrophobic, 
+3 - A ASP 405 CB   VS L TYR 94 CG  
+Distance: 3.770579 - Hydrophobic, 
+4 - A ASP 405 CB   VS L TYR 94 CD1 
+Distance: 4.147160 - Hydrophobic, 
+5 - A ASP 405 CB   VS L TYR 94 CD2 
+Distance: 4.483365 - Hydrophobic, 
+6 - A ARG 408 NE   VS L TYR 94 OH  
+Distance: 3.454796 - Hydrogen Bonds, 
+7 - A ARG 408 NH2  VS L TYR 94 OH  
+Distance: 3.391063 - Hydrogen Bonds, 
+8 - A LYS 417 NZ   VS L LYS 97 NZ  
+Distance: 5.520824 - Repulsive, 
+9 - A TYR 453 OH   VS L ASN 92 ND2 
+Distance: 3.279151 - Hydrogen Bonds, 
+10 - A SER 494 O    VS L TYR 32 OH  
+Distance: 3.613560 - Hydrogen Bonds, 
+11 - A GLY 496 O    VS L SER 30 OG  
+Distance: 2.733254 - Hydrogen Bonds, 
+12 - A GLY 496 N    VS L TYR 32 OH  
+Distance: 2.833893 - Hydrogen Bonds, 
+13 - A GLN 498 N    VS L SER 30 OG  
+Distance: 3.794444 - Hydrogen Bonds, 
+14 - A GLN 498 NE2  VS L SER 30 OG  
+Distance: 3.604283 - Hydrogen Bonds, 
+15 - A GLN 498 NE2  VS L SER 67 OG  
+Distance: 2.678192 - Hydrogen Bonds, 
+16 - A THR 500 O    VS L GLY 28 N   
+Distance: 3.792161 - Hydrogen Bonds, 
+17 - A ASN 501 OD1  VS L SER 30 N   
+Distance: 3.083317 - Hydrogen Bonds, 
+18 - A ASN 501 OD1  VS L SER 30 OG  
+Distance: 2.128983 - Hydrogen Bonds, 
+19 - A ASN 501 ND2  VS L SER 30 OG  
+Distance: 2.863298 - Hydrogen Bonds, 
+20 - A GLY 502 N    VS L GLY 28 O   
+Distance: 2.988367 - Hydrogen Bonds, 
+21 - A TYR 505 CE2  VS L ILE 2 CD1 
+Distance: 4.361346 - Hydrophobic, 
+22 - A TYR 505 CD2  VS L ILE 29 CG2 
+Distance: 4.415809 - Hydrophobic, 
+23 - A TYR 505 CE2  VS L ILE 29 CB  
+Distance: 4.204246 - Hydrophobic, 
+24 - A TYR 505 CE2  VS L ILE 29 CG2 
+Distance: 3.937233 - Hydrophobic, 
+25 - A TYR 505 CG   VS L TYR 32 CG  
+Distance: 5.423387 - Aromatic Stacking, 
+26 - A TYR 505 CD1  VS L TYR 32 CD2 
+Distance: 3.910272 - Hydrophobic, 
+27 - A TYR 505 CD1  VS L TYR 32 CE2 
+Distance: 4.154840 - Hydrophobic, 
+28 - A TYR 505 CE1  VS L TYR 32 CB  
+Distance: 4.122968 - Hydrophobic, 
+29 - A TYR 505 CE1  VS L TYR 32 CG  
+Distance: 3.900032 - Hydrophobic, 
+30 - A TYR 505 CE1  VS L TYR 32 CD2 
+Distance: 3.638957 - Hydrophobic, 
+31 - A TYR 505 CE1  VS L TYR 32 CE2 
+Distance: 4.195229 - Hydrophobic, 
+32 - A TYR 505 OH   VS L GLN 90 NE2 
+Distance: 2.994112 - Hydrogen Bonds, 
+33 - A TYR 505 OH   VS L LEU 91 O   
+Distance: 2.420275 - Hydrogen Bonds, 
+34 - A TYR 505 OH   VS L ASN 92 O   
+Distance: 2.562214 - Hydrogen Bonds, 
+35 - A TYR 505 OH   VS L SER 93 N   
+Distance: 3.565437 - Hydrogen Bonds, 

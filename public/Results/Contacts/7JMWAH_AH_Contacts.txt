@@ -1,0 +1,69 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             03-AUG-20   7JMW             
+CRYSTAL STRUCTURE OF SARS-COV-2 SPIKE PROTEIN RECEPTOR-BINDING DOMAININ COMPLEX WITH CROSS-NEUTRALIZING ANTIBODY COVA1-16 FAB:
+
+0 - A LYS 378 CB   VS H TYR 99 CB  
+Distance: 3.966661 - Hydrophobic, 
+1 - A LYS 378 CB   VS H TYR 99 CG  
+Distance: 3.905103 - Hydrophobic, 
+2 - A LYS 378 CB   VS H TYR 99 CD2 
+Distance: 3.633192 - Hydrophobic, 
+3 - A LYS 378 CB   VS H TYR 99 CE2 
+Distance: 4.340446 - Hydrophobic, 
+4 - A LYS 378 CG   VS H TYR 99 CD2 
+Distance: 4.104996 - Hydrophobic, 
+5 - A LYS 378 CG   VS H TYR 99 CE2 
+Distance: 4.344215 - Hydrophobic, 
+6 - A LYS 378 CD   VS H TYR 99 CG  
+Distance: 3.865297 - Hydrophobic, 
+7 - A LYS 378 CD   VS H TYR 99 CD1 
+Distance: 4.074207 - Hydrophobic, 
+8 - A LYS 378 CD   VS H TYR 99 CD2 
+Distance: 3.550971 - Hydrophobic, 
+9 - A LYS 378 CD   VS H TYR 99 CE1 
+Distance: 4.016751 - Hydrophobic, 
+10 - A LYS 378 CD   VS H TYR 99 CE2 
+Distance: 3.481137 - Hydrophobic, 
+11 - A CYS 379 N    VS H TYR 100 O   
+Distance: 2.900496 - Hydrogen Bonds, 
+12 - A CYS 379 O    VS H TYR 100 N   
+Distance: 2.573359 - Hydrogen Bonds, 
+13 - A CYS 379 CB   VS H TYR 100 CB  
+Distance: 4.099499 - Hydrophobic, 
+14 - A TYR 380 CD2  VS H ARG 97 CB  
+Distance: 4.121338 - Hydrophobic, 
+15 - A TYR 380 CE2  VS H ARG 97 CB  
+Distance: 3.849703 - Hydrophobic, 
+16 - A TYR 380 CD2  VS H TYR 99 CB  
+Distance: 4.404624 - Hydrophobic, 
+17 - A TYR 380 CE2  VS H TYR 99 CB  
+Distance: 4.149236 - Hydrophobic, 
+18 - A PRO 412 O    VS H TYR 32 OH  
+Distance: 3.189408 - Hydrogen Bonds, 
+19 - A PRO 412 CB   VS H ARG 97 CG  
+Distance: 4.359994 - Hydrophobic, 
+20 - A GLY 413 N    VS H TYR 32 OH  
+Distance: 3.203609 - Hydrogen Bonds, 
+21 - A GLN 414 OE1  VS H GLN 101 NE2 
+Distance: 3.106936 - Hydrogen Bonds, 
+22 - A GLN 414 NE2  VS H GLN 101 OE1 
+Distance: 3.769543 - Hydrogen Bonds, 
+23 - A ASP 427 CB   VS H THR 28 CG2 
+Distance: 3.852109 - Hydrophobic, 
+24 - A ASP 427 OD2  VS H THR 28 N   
+Distance: 3.194549 - Hydrogen Bonds, 
+25 - A ASP 427 O    VS H SER 31 OG  
+Distance: 3.889638 - Hydrogen Bonds, 
+26 - A ASP 427 CB   VS H TYR 32 CE2 
+Distance: 3.848213 - Hydrophobic, 
+27 - A ASP 427 OD1  VS H TYR 32 OH  
+Distance: 3.129571 - Hydrogen Bonds, 
+28 - A ASP 427 O    VS H ARG 97 NE  
+Distance: 3.775409 - Hydrogen Bonds, 
+29 - A ASP 427 O    VS H ARG 97 NH1 
+Distance: 2.534341 - Hydrogen Bonds, 
+30 - A ASP 428 N    VS H SER 31 OG  
+Distance: 3.746859 - Hydrogen Bonds, 
+31 - A PHE 429 O    VS H ARG 97 NH1 
+Distance: 2.950826 - Hydrogen Bonds, 
+32 - A PHE 429 O    VS H ARG 97 NH2 
+Distance: 3.356449 - Hydrogen Bonds, 

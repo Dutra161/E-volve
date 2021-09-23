@@ -1,0 +1,51 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             27-SEP-20   7K8S             
+STRUCTURE OF THE SARS-COV-2 S 2P TRIMER IN COMPLEX WITH THE HUMANNEUTRALIZING ANTIBODY FAB FRAGMENT, C002 (STATE 1):
+
+0 - B ARG 403 NE   VS O ASP 100 OD1 
+Distance: 5.737778 - Attractive, 
+1 - B ARG 403 NE   VS O ASP 100 OD2 
+Distance: 5.583174 - Attractive, 
+2 - B ARG 403 CZ   VS O ASP 100 OD2 
+Distance: 5.744213 - Attractive, 
+3 - B ARG 403 NH2  VS O ASP 100 OD1 
+Distance: 5.716634 - Attractive, 
+4 - B ARG 403 NH2  VS O ASP 100 OD2 
+Distance: 5.562181 - Attractive, 
+5 - B TYR 449 CB   VS O PHE 27 CB  
+Distance: 3.812930 - Hydrophobic, 
+6 - B THR 470 CG2  VS O ILE 31 CD1 
+Distance: 4.467466 - Hydrophobic, 
+7 - B GLU 484 OE1  VS O HIS 35 ND1 
+Distance: 5.896455 - Attractive, 
+8 - B GLU 484 OE1  VS O HIS 35 NE2 
+Distance: 4.983920 - Attractive, 
+9 - B GLU 484 OE2  VS O HIS 35 ND1 
+Distance: 5.601013 - Attractive, 
+10 - B GLU 484 OE2  VS O HIS 35 NE2 
+Distance: 3.983189 - Attractive, 
+11 - B GLU 484 OE1  VS O GLU 95 OE2 
+Distance: 5.302023 - Repulsive, 
+12 - B GLU 484 OE2  VS O GLU 95 OE1 
+Distance: 5.057942 - Repulsive, 
+13 - B GLU 484 OE2  VS O GLU 95 OE2 
+Distance: 3.737069 - Repulsive, 
+14 - B PHE 490 CE1  VS O ILE 31 CD1 
+Distance: 4.413432 - Hydrophobic, 
+15 - B PHE 490 CE2  VS O ILE 31 CG1 
+Distance: 3.871203 - Hydrophobic, 
+16 - B PHE 490 CE2  VS O ILE 31 CD1 
+Distance: 4.267483 - Hydrophobic, 
+17 - B PHE 490 CZ   VS O ILE 31 CG1 
+Distance: 3.611339 - Hydrophobic, 
+18 - B PHE 490 CZ   VS O ILE 31 CD1 
+Distance: 3.511034 - Hydrophobic, 
+19 - B GLN 493 OE1  VS O ARG 97 NH1 
+Distance: 3.322795 - Hydrogen Bonds, 
+20 - B GLN 493 OE1  VS O ARG 97 NH2 
+Distance: 3.479318 - Hydrogen Bonds, 
+21 - B GLN 493 NE2  VS O ARG 97 O   
+Distance: 3.815477 - Hydrogen Bonds, 
+22 - B GLN 493 NE2  VS O PRO 98 O   
+Distance: 3.686662 - Hydrogen Bonds, 
+23 - B GLN 493 NE2  VS O SER 99 O   
+Distance: 3.122993 - Hydrogen Bonds, 

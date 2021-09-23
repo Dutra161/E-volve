@@ -1,0 +1,89 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             30-OCT-20   7KLH             
+SARS-COV-2 RBD IN COMPLEX WITH FAB 15033-7:
+
+0 - M SER 37 N    VS B TYR 421 OH  
+Distance: 3.528845 - Hydrogen Bonds, 
+1 - M SER 37 OG   VS B TYR 421 OH  
+Distance: 3.017637 - Hydrogen Bonds, 
+2 - M TYR 55 OH   VS B TYR 505 OH  
+Distance: 3.564009 - Hydrogen Bonds, 
+3 - M ASP 66 OD1  VS B ARG 403 NE  
+Distance: 5.451781 - Attractive, 
+4 - M ASP 66 OD1  VS B ARG 403 CZ  
+Distance: 4.808862 - Attractive, 
+5 - M ASP 66 OD1  VS B ARG 403 NH1 
+Distance: 5.663808 - Attractive, 
+6 - M ASP 66 OD1  VS B ARG 403 NH2 
+Distance: 3.563675 - Attractive, Hydrogen Bonds, 
+7 - M ASP 66 OD2  VS B ARG 403 NE  
+Distance: 4.389764 - Attractive, 
+8 - M ASP 66 OD2  VS B ARG 403 CZ  
+Distance: 4.025653 - Attractive, 
+9 - M ASP 66 OD2  VS B ARG 403 NH1 
+Distance: 4.919113 - Attractive, 
+10 - M ASP 66 OD2  VS B ARG 403 NH2 
+Distance: 3.212142 - Attractive, Hydrogen Bonds, 
+11 - M ASP 66 OD1  VS B GLU 406 OE2 
+Distance: 4.636610 - Repulsive, 
+12 - M ASP 66 OD2  VS B GLU 406 OE2 
+Distance: 4.290311 - Repulsive, 
+13 - M ASP 66 OD1  VS B LYS 417 NZ  
+Distance: 3.456561 - Attractive, Hydrogen Bonds, 
+14 - M ASP 66 OD2  VS B LYS 417 NZ  
+Distance: 2.702917 - Attractive, Hydrogen Bonds, 
+15 - M LEU 67 O    VS B TYR 505 OH  
+Distance: 2.502938 - Hydrogen Bonds, 
+16 - M ARG 80 NE   VS B ASP 420 OD1 
+Distance: 5.136556 - Attractive, 
+17 - M ARG 80 CZ   VS B ASP 420 OD1 
+Distance: 4.215456 - Attractive, 
+18 - M ARG 80 CZ   VS B ASP 420 OD2 
+Distance: 5.614346 - Attractive, 
+19 - M ARG 80 NH1  VS B ASP 420 OD1 
+Distance: 4.871939 - Attractive, 
+20 - M ARG 80 NH1  VS B ASP 420 OD2 
+Distance: 5.886128 - Attractive, 
+21 - M ARG 80 NH2  VS B ASP 420 OD1 
+Distance: 2.917490 - Attractive, Hydrogen Bonds, 
+22 - M ARG 80 NH2  VS B ASP 420 OD2 
+Distance: 4.438089 - Attractive, 
+23 - M ARG 80 NH1  VS B TYR 421 OH  
+Distance: 3.721582 - Hydrogen Bonds, 
+24 - M ARG 80 NH1  VS B ASN 460 OD1 
+Distance: 3.151707 - Hydrogen Bonds, 
+25 - M ARG 80 NH2  VS B ASN 460 OD1 
+Distance: 3.721180 - Hydrogen Bonds, 
+26 - M SER 107 O    VS B TYR 489 OH  
+Distance: 3.670459 - Hydrogen Bonds, 
+27 - M HIS 108 CG   VS B TYR 473 CG  
+Distance: 5.474796 - Aromatic Stacking, 
+28 - M HIS 108 NE2  VS B TYR 473 OH  
+Distance: 3.016972 - Hydrogen Bonds, 
+29 - M HIS 108 O    VS B TYR 489 OH  
+Distance: 2.551295 - Hydrogen Bonds, 
+30 - M THR 109 OG1  VS B ALA 475 O   
+Distance: 3.574495 - Hydrogen Bonds, 
+31 - M TYR 114 CG   VS B PHE 486 CG  
+Distance: 4.691638 - Aromatic Stacking, 
+32 - M TYR 114 CG   VS B PHE 486 CD2 
+Distance: 4.270433 - Hydrophobic, 
+33 - M TYR 114 CD1  VS B PHE 486 CD2 
+Distance: 4.077654 - Hydrophobic, 
+34 - M TYR 114 CD1  VS B PHE 486 CE2 
+Distance: 4.477246 - Hydrophobic, 
+35 - M TYR 114 CD2  VS B PHE 486 CB  
+Distance: 4.423276 - Hydrophobic, 
+36 - M TYR 114 CD2  VS B PHE 486 CD2 
+Distance: 4.032984 - Hydrophobic, 
+37 - M TYR 114 CE1  VS B PHE 486 CD2 
+Distance: 3.653104 - Hydrophobic, 
+38 - M TYR 114 CE1  VS B PHE 486 CE2 
+Distance: 3.729897 - Hydrophobic, 
+39 - M TYR 114 CE2  VS B PHE 486 CD2 
+Distance: 3.602122 - Hydrophobic, 
+40 - M TYR 114 CE2  VS B PHE 486 CE2 
+Distance: 4.239702 - Hydrophobic, 
+41 - M TYR 114 N    VS B ASN 487 OD1 
+Distance: 2.710499 - Hydrogen Bonds, 
+42 - M TYR 114 O    VS B ASN 487 ND2 
+Distance: 3.887065 - Hydrogen Bonds, 

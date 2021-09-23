@@ -1,0 +1,55 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             27-SEP-20   7K8S             
+STRUCTURE OF THE SARS-COV-2 S 2P TRIMER IN COMPLEX WITH THE HUMANNEUTRALIZING ANTIBODY FAB FRAGMENT, C002 (STATE 1):
+
+0 - C GLU 484 OE1  VS N THR 94 N   
+Distance: 3.629147 - Hydrogen Bonds, 
+1 - C GLU 484 OE1  VS N ARG 96 NE  
+Distance: 5.625757 - Attractive, 
+2 - C GLU 484 OE1  VS N ARG 96 CZ  
+Distance: 5.047948 - Attractive, 
+3 - C GLU 484 OE1  VS N ARG 96 NH1 
+Distance: 5.679340 - Attractive, 
+4 - C GLU 484 OE1  VS N ARG 96 NH2 
+Distance: 4.194308 - Attractive, 
+5 - C GLU 484 OE2  VS N ARG 96 NE  
+Distance: 3.598720 - Attractive, Hydrogen Bonds, 
+6 - C GLU 484 OE2  VS N ARG 96 CZ  
+Distance: 3.014144 - Attractive, 
+7 - C GLU 484 OE2  VS N ARG 96 NH1 
+Distance: 3.891225 - Attractive, Hydrogen Bonds, 
+8 - C GLU 484 OE2  VS N ARG 96 NH2 
+Distance: 2.088596 - Attractive, Hydrogen Bonds, 
+9 - C PHE 486 CG   VS N TYR 32 CG  
+Distance: 5.413011 - Aromatic Stacking, 
+10 - C PHE 486 CD2  VS N TYR 32 CE1 
+Distance: 4.460925 - Hydrophobic, 
+11 - C PHE 486 CD2  VS N TYR 32 CE2 
+Distance: 4.430658 - Hydrophobic, 
+12 - C PHE 486 CE2  VS N TYR 32 CE2 
+Distance: 3.857247 - Hydrophobic, 
+13 - C PHE 486 CG   VS N TYR 92 CG  
+Distance: 4.488568 - Aromatic Stacking, 
+14 - C PHE 486 CD2  VS N TYR 92 CG  
+Distance: 4.013886 - Hydrophobic, 
+15 - C PHE 486 CD2  VS N TYR 92 CD1 
+Distance: 3.947686 - Hydrophobic, 
+16 - C PHE 486 CD2  VS N TYR 92 CD2 
+Distance: 4.018232 - Hydrophobic, 
+17 - C PHE 486 CD2  VS N TYR 92 CE1 
+Distance: 3.900955 - Hydrophobic, 
+18 - C PHE 486 CD2  VS N TYR 92 CE2 
+Distance: 3.977613 - Hydrophobic, 
+19 - C PHE 486 CE2  VS N TYR 92 CG  
+Distance: 3.991239 - Hydrophobic, 
+20 - C PHE 486 CE2  VS N TYR 92 CD1 
+Distance: 4.123107 - Hydrophobic, 
+21 - C PHE 486 CE2  VS N TYR 92 CD2 
+Distance: 3.524213 - Hydrophobic, 
+22 - C PHE 486 CE2  VS N TYR 92 CE1 
+Distance: 3.842084 - Hydrophobic, 
+23 - C PHE 486 CE2  VS N TYR 92 CE2 
+Distance: 3.194456 - Hydrophobic, 
+24 - C PHE 486 CZ   VS N TYR 92 CE2 
+Distance: 3.984986 - Hydrophobic, 
+25 - C TYR 489 OH   VS N TYR 32 OH  
+Distance: 3.133964 - Hydrogen Bonds, 

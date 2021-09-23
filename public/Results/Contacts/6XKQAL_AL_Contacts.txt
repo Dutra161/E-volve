@@ -1,0 +1,67 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             26-JUN-20   6XKQ             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN IN COMPLEX WITH NEUTRALIZING ANTIBODY CV07-250:
+
+0 - A GLY 446 O    VS L SER 67 OG  
+Distance: 3.327581 - Hydrogen Bonds, 
+1 - A GLY 446 O    VS L GLY 68 N   
+Distance: 2.989171 - Hydrogen Bonds, 
+2 - A TYR 449 CG   VS L HIS 31 CG  
+Distance: 5.887593 - Aromatic Stacking, 
+3 - A TYR 449 OH   VS L GLY 68 N   
+Distance: 2.999362 - Hydrogen Bonds, 
+4 - A LEU 455 CD1  VS L TYR 30 CD1 
+Distance: 4.380922 - Hydrophobic, 
+5 - A LEU 455 CD1  VS L PHE 32 CE2 
+Distance: 3.778537 - Hydrophobic, 
+6 - A LEU 455 CD1  VS L PHE 32 CZ  
+Distance: 4.167616 - Hydrophobic, 
+7 - A PHE 456 CE2  VS L PHE 32 CZ  
+Distance: 3.933417 - Hydrophobic, 
+8 - A PHE 456 CZ   VS L PHE 32 CE2 
+Distance: 4.363197 - Hydrophobic, 
+9 - A PHE 456 CZ   VS L PHE 32 CZ  
+Distance: 3.822036 - Hydrophobic, 
+10 - A PHE 486 CE2  VS L VAL 46 CG1 
+Distance: 4.054121 - Hydrophobic, 
+11 - A PHE 486 CE2  VS L VAL 46 CG2 
+Distance: 4.123675 - Hydrophobic, 
+12 - A PHE 486 CZ   VS L VAL 46 CG2 
+Distance: 4.261445 - Hydrophobic, 
+13 - A PHE 486 N    VS L TYR 49 OH  
+Distance: 3.510119 - Hydrogen Bonds, 
+14 - A PHE 486 CG   VS L TYR 49 CG  
+Distance: 5.209651 - Aromatic Stacking, 
+15 - A PHE 486 CD2  VS L TYR 49 CB  
+Distance: 4.050930 - Hydrophobic, 
+16 - A PHE 486 CD2  VS L TYR 49 CG  
+Distance: 3.704363 - Hydrophobic, 
+17 - A PHE 486 CD2  VS L TYR 49 CD1 
+Distance: 3.810951 - Hydrophobic, 
+18 - A PHE 486 CD2  VS L TYR 49 CD2 
+Distance: 4.031754 - Hydrophobic, 
+19 - A PHE 486 CD2  VS L TYR 49 CE1 
+Distance: 4.240640 - Hydrophobic, 
+20 - A PHE 486 CD2  VS L TYR 49 CE2 
+Distance: 4.436862 - Hydrophobic, 
+21 - A PHE 486 CE2  VS L TYR 49 CB  
+Distance: 3.923178 - Hydrophobic, 
+22 - A PHE 486 CE2  VS L TYR 49 CG  
+Distance: 4.099006 - Hydrophobic, 
+23 - A PHE 486 CE2  VS L TYR 49 CD1 
+Distance: 4.353384 - Hydrophobic, 
+24 - A TYR 489 CG   VS L PHE 32 CG  
+Distance: 5.810844 - Aromatic Stacking, 
+25 - A TYR 489 CD1  VS L PHE 32 CE1 
+Distance: 4.211637 - Hydrophobic, 
+26 - A TYR 489 CE1  VS L PHE 32 CE1 
+Distance: 4.275184 - Hydrophobic, 
+27 - A GLN 493 NE2  VS L ALA 29 O   
+Distance: 3.569846 - Hydrogen Bonds, 
+28 - A GLN 493 OE1  VS L HIS 31 N   
+Distance: 3.134878 - Hydrogen Bonds, 
+29 - A GLN 493 NE2  VS L HIS 31 ND1 
+Distance: 3.236356 - Hydrogen Bonds, 
+30 - A GLN 498 OE1  VS L ASN 69 N   
+Distance: 3.826542 - Hydrogen Bonds, 
+31 - A GLN 498 OE1  VS L ASN 69 ND2 
+Distance: 3.866352 - Hydrogen Bonds, 

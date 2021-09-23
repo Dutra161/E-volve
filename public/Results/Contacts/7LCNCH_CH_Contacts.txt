@@ -1,0 +1,97 @@
+IMMUNE SYSTEM                           11-JAN-21   7LCN             
+STRUCTURE OF SARS-COV-2 S PROTEIN IN COMPLEX WITH N-TERMINAL DOMAINANTIBODY DH1050.1:
+
+0 - C PHE 140 CD1  VS H VAL 104 CG1 
+Distance: 4.484154 - Hydrophobic, 
+1 - C PHE 140 CD1  VS H VAL 104 CG2 
+Distance: 4.473860 - Hydrophobic, 
+2 - C PHE 140 CE1  VS H VAL 104 CG2 
+Distance: 3.993037 - Hydrophobic, 
+3 - C VAL 143 CB   VS H VAL 104 CG1 
+Distance: 4.320090 - Hydrophobic, 
+4 - C VAL 143 CG1  VS H VAL 104 CG1 
+Distance: 3.881888 - Hydrophobic, 
+5 - C TYR 145 CB   VS H GLU 31 CG  
+Distance: 3.938212 - Hydrophobic, 
+6 - C TYR 145 CG   VS H GLU 31 CB  
+Distance: 4.414309 - Hydrophobic, 
+7 - C TYR 145 CG   VS H GLU 31 CG  
+Distance: 3.384701 - Hydrophobic, 
+8 - C TYR 145 CD1  VS H GLU 31 CG  
+Distance: 3.522152 - Hydrophobic, 
+9 - C TYR 145 CD2  VS H GLU 31 CG  
+Distance: 3.693923 - Hydrophobic, 
+10 - C TYR 145 CE1  VS H GLU 31 CG  
+Distance: 3.961679 - Hydrophobic, 
+11 - C TYR 145 CE2  VS H GLU 31 CG  
+Distance: 4.144091 - Hydrophobic, 
+12 - C TYR 145 CG   VS H PHE 102 CG  
+Distance: 5.360146 - Aromatic Stacking, 
+13 - C TYR 145 CD1  VS H PHE 102 CD2 
+Distance: 4.244570 - Hydrophobic, 
+14 - C TYR 145 CD1  VS H PHE 102 CE2 
+Distance: 3.998601 - Hydrophobic, 
+15 - C TYR 145 CD1  VS H PHE 102 CZ  
+Distance: 4.479292 - Hydrophobic, 
+16 - C TYR 145 CE1  VS H PHE 102 CD2 
+Distance: 4.369969 - Hydrophobic, 
+17 - C TYR 145 CE1  VS H PHE 102 CE2 
+Distance: 3.713789 - Hydrophobic, 
+18 - C TYR 145 CE1  VS H PHE 102 CZ  
+Distance: 4.163298 - Hydrophobic, 
+19 - C HIS 146 CG   VS H TRP 108 CG  
+Distance: 5.553157 - Aromatic Stacking, 
+20 - C ASN 148 CB   VS H PHE 51 CE1 
+Distance: 4.488808 - Hydrophobic, 
+21 - C ASN 148 CB   VS H PHE 51 CZ  
+Distance: 4.357877 - Hydrophobic, 
+22 - C ASN 148 ND2  VS H PRO 53 O   
+Distance: 2.967605 - Hydrogen Bonds, 
+23 - C ASN 149 CB   VS H PRO 30 CB  
+Distance: 3.994413 - Hydrophobic, 
+24 - C ASN 149 ND2  VS H PRO 30 O   
+Distance: 3.402506 - Hydrogen Bonds, 
+25 - C ASN 149 OD1  VS H GLU 31 N   
+Distance: 3.537813 - Hydrogen Bonds, 
+26 - C ASN 149 CB   VS H PHE 51 CZ  
+Distance: 4.129520 - Hydrophobic, 
+27 - C PHE 157 CG   VS H TYR 27 CG  
+Distance: 5.521001 - Aromatic Stacking, 
+28 - C PHE 157 CD2  VS H TYR 27 CD1 
+Distance: 4.298257 - Hydrophobic, 
+29 - C PHE 157 CE2  VS H TYR 27 CD1 
+Distance: 3.897984 - Hydrophobic, 
+30 - C PHE 157 CZ   VS H TYR 27 CD1 
+Distance: 4.050741 - Hydrophobic, 
+31 - C PHE 157 CE2  VS H THR 28 CG2 
+Distance: 4.240162 - Hydrophobic, 
+32 - C PHE 157 CZ   VS H THR 28 CG2 
+Distance: 3.777490 - Hydrophobic, 
+33 - C PHE 157 CE1  VS H PHE 102 CE2 
+Distance: 4.448825 - Hydrophobic, 
+34 - C PHE 157 CE1  VS H PHE 102 CZ  
+Distance: 4.274682 - Hydrophobic, 
+35 - C PHE 157 CZ   VS H PHE 102 CZ  
+Distance: 4.131456 - Hydrophobic, 
+36 - C PHE 157 CD1  VS H VAL 104 CG2 
+Distance: 4.381331 - Hydrophobic, 
+37 - C LEU 244 CB   VS H VAL 104 CB  
+Distance: 4.158687 - Hydrophobic, 
+38 - C LEU 244 CB   VS H VAL 104 CG1 
+Distance: 3.728502 - Hydrophobic, 
+39 - C LEU 244 CD1  VS H VAL 104 CB  
+Distance: 3.998003 - Hydrophobic, 
+40 - C LEU 244 CD1  VS H VAL 104 CG1 
+Distance: 4.371618 - Hydrophobic, 
+41 - C LEU 244 CD1  VS H VAL 104 CG2 
+Distance: 4.156953 - Hydrophobic, 
+42 - C LEU 244 O    VS H VAL 105 N   
+Distance: 3.715209 - Hydrogen Bonds, 
+43 - C LEU 244 CD2  VS H VAL 105 CB  
+Distance: 4.430858 - Hydrophobic, 
+44 - C LEU 244 CD2  VS H VAL 105 CG1 
+Distance: 3.696006 - Hydrophobic, 
+45 - C HIS 245 CB   VS H VAL 105 CB  
+Distance: 4.429553 - Hydrophobic, 
+46 - C HIS 245 ND1  VS H THR 106 N   
+Distance: 3.767219 - Hydrogen Bonds, 

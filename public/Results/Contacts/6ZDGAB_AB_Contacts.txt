@@ -1,0 +1,65 @@
+VIRAL PROTEIN                           14-JUN-20   6ZDG             
+ASSOCIATION OF THREE COMPLEXES OF LARGELY STRUCTURALLY DISORDEREDSPIKE ECTODOMAIN WITH BOUND EY6A FAB:
+
+0 - A TYR 369 OH   VS B ASN 57 ND2 
+Distance: 3.751998 - Hydrogen Bonds, 
+1 - A SER 375 O    VS B LYS 65 NZ  
+Distance: 3.830418 - Hydrogen Bonds, 
+2 - A PHE 377 CG   VS B TYR 59 CG  
+Distance: 5.837538 - Aromatic Stacking, 
+3 - A PHE 377 CD1  VS B TYR 59 CE1 
+Distance: 3.842908 - Hydrophobic, 
+4 - A PHE 377 CE1  VS B TYR 59 CE1 
+Distance: 3.789937 - Hydrophobic, 
+5 - A LYS 378 NZ   VS B ASP 62 OD2 
+Distance: 5.778662 - Attractive, 
+6 - A VAL 382 CB   VS B TRP 104 CB  
+Distance: 3.944269 - Hydrophobic, 
+7 - A VAL 382 CG2  VS B TRP 104 CB  
+Distance: 3.951518 - Hydrophobic, 
+8 - A SER 383 N    VS B TRP 104 O   
+Distance: 3.002243 - Hydrogen Bonds, 
+9 - A SER 383 OG   VS B TRP 104 O   
+Distance: 3.522707 - Hydrogen Bonds, 
+10 - A PRO 384 CB   VS B TYR 59 CE2 
+Distance: 4.306212 - Hydrophobic, 
+11 - A PRO 384 CG   VS B TYR 59 CD2 
+Distance: 4.322859 - Hydrophobic, 
+12 - A PRO 384 CG   VS B TYR 59 CE1 
+Distance: 3.969487 - Hydrophobic, 
+13 - A PRO 384 CG   VS B TYR 59 CE2 
+Distance: 3.586658 - Hydrophobic, 
+14 - A THR 385 OG1  VS B ASP 33 OD2 
+Distance: 3.470111 - Hydrogen Bonds, 
+15 - A THR 385 O    VS B ASN 57 ND2 
+Distance: 3.842790 - Hydrogen Bonds, 
+16 - A THR 385 CG2  VS B ASN 57 CB  
+Distance: 3.940528 - Hydrophobic, 
+17 - A THR 385 CG2  VS B TYR 59 CD2 
+Distance: 3.870006 - Hydrophobic, 
+18 - A THR 385 CG2  VS B TYR 59 CE2 
+Distance: 3.418539 - Hydrophobic, 
+19 - A THR 385 OG1  VS B TYR 106 OH  
+Distance: 2.168271 - Hydrogen Bonds, 
+20 - A LYS 386 NZ   VS B ASP 99 OD2 
+Distance: 5.334880 - Attractive, 
+21 - A LYS 386 NZ   VS B GLY 101 O   
+Distance: 3.167000 - Hydrogen Bonds, 
+22 - A LYS 386 NZ   VS B LEU 103 O   
+Distance: 2.235268 - Hydrogen Bonds, 
+23 - A LEU 390 CG   VS B TRP 104 CZ2 
+Distance: 4.457595 - Hydrophobic, 
+24 - A LEU 390 CD1  VS B TRP 104 CZ2 
+Distance: 3.825742 - Hydrophobic, 
+25 - A LEU 390 CD2  VS B TRP 104 CG  
+Distance: 3.889822 - Hydrophobic, 
+26 - A LEU 390 CD2  VS B TRP 104 CD2 
+Distance: 3.791033 - Hydrophobic, 
+27 - A LEU 390 CD2  VS B TRP 104 CE3 
+Distance: 4.408408 - Hydrophobic, 
+28 - A LEU 390 CD2  VS B TRP 104 CZ2 
+Distance: 4.264921 - Hydrophobic, 
+29 - A PHE 392 CE2  VS B TRP 104 CZ3 
+Distance: 4.479998 - Hydrophobic, 
+30 - A LEU 517 CD1  VS B TRP 104 CH2 
+Distance: 4.270170 - Hydrophobic, 

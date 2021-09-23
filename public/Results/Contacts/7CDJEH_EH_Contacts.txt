@@ -1,0 +1,117 @@
+VIRAL PROTEIN                           19-JUN-20   7CDJ             
+CRYSTAL STRUCTURE OF SARS-COV-2 ANTIBODY P2C-1A3 WITH RBD:
+
+0 - E TYR 449 OH   VS H ARG 72 O   
+Distance: 2.402670 - Hydrogen Bonds, 
+1 - E TYR 449 OH   VS H ASP 73 N   
+Distance: 3.882182 - Hydrogen Bonds, 
+2 - E TYR 449 OH   VS H ASN 74 N   
+Distance: 3.748658 - Hydrogen Bonds, 
+3 - E PHE 456 CG   VS H HIS 102 CG  
+Distance: 5.421481 - Aromatic Stacking, 
+4 - E GLU 484 OE1  VS H TYR 33 OH  
+Distance: 2.538081 - Hydrogen Bonds, 
+5 - E GLU 484 OE2  VS H TYR 50 OH  
+Distance: 2.813975 - Hydrogen Bonds, 
+6 - E GLU 484 OE2  VS H THR 57 OG1 
+Distance: 3.833634 - Hydrogen Bonds, 
+7 - E PHE 486 CB   VS H PHE 100 CG  
+Distance: 4.457727 - Hydrophobic, 
+8 - E PHE 486 CB   VS H PHE 100 CD2 
+Distance: 4.163943 - Hydrophobic, 
+9 - E PHE 486 CB   VS H PHE 100 CE2 
+Distance: 4.106609 - Hydrophobic, 
+10 - E PHE 486 CB   VS H PHE 100 CZ  
+Distance: 4.333717 - Hydrophobic, 
+11 - E PHE 486 CG   VS H PHE 100 CG  
+Distance: 5.451910 - Aromatic Stacking, 
+12 - E PHE 486 CG   VS H PHE 100 CD2 
+Distance: 4.221243 - Hydrophobic, 
+13 - E PHE 486 CD1  VS H PHE 100 CB  
+Distance: 4.018833 - Hydrophobic, 
+14 - E PHE 486 CD1  VS H PHE 100 CG  
+Distance: 3.809883 - Hydrophobic, 
+15 - E PHE 486 CD1  VS H PHE 100 CD2 
+Distance: 3.334188 - Hydrophobic, 
+16 - E PHE 486 CD1  VS H PHE 100 CE2 
+Distance: 3.943923 - Hydrophobic, 
+17 - E PHE 486 CE1  VS H PHE 100 CB  
+Distance: 4.476058 - Hydrophobic, 
+18 - E PHE 486 CE1  VS H PHE 100 CD2 
+Distance: 4.164061 - Hydrophobic, 
+19 - E PHE 486 CB   VS H LEU 105 CD1 
+Distance: 3.973583 - Hydrophobic, 
+20 - E PHE 486 CB   VS H LEU 105 CD2 
+Distance: 4.415988 - Hydrophobic, 
+21 - E PHE 486 CG   VS H LEU 105 CB  
+Distance: 4.436278 - Hydrophobic, 
+22 - E PHE 486 CG   VS H LEU 105 CG  
+Distance: 4.204774 - Hydrophobic, 
+23 - E PHE 486 CG   VS H LEU 105 CD1 
+Distance: 3.760870 - Hydrophobic, 
+24 - E PHE 486 CG   VS H LEU 105 CD2 
+Distance: 3.797226 - Hydrophobic, 
+25 - E PHE 486 CD1  VS H LEU 105 CB  
+Distance: 4.159907 - Hydrophobic, 
+26 - E PHE 486 CD1  VS H LEU 105 CG  
+Distance: 4.346297 - Hydrophobic, 
+27 - E PHE 486 CD1  VS H LEU 105 CD1 
+Distance: 3.881165 - Hydrophobic, 
+28 - E PHE 486 CD1  VS H LEU 105 CD2 
+Distance: 4.332244 - Hydrophobic, 
+29 - E PHE 486 CD2  VS H LEU 105 CB  
+Distance: 4.465701 - Hydrophobic, 
+30 - E PHE 486 CD2  VS H LEU 105 CG  
+Distance: 4.257710 - Hydrophobic, 
+31 - E PHE 486 CD2  VS H LEU 105 CD1 
+Distance: 4.260029 - Hydrophobic, 
+32 - E PHE 486 CD2  VS H LEU 105 CD2 
+Distance: 3.432881 - Hydrophobic, 
+33 - E PHE 486 CE1  VS H LEU 105 CB  
+Distance: 3.877627 - Hydrophobic, 
+34 - E PHE 486 CE1  VS H LEU 105 CD1 
+Distance: 4.436464 - Hydrophobic, 
+35 - E PHE 486 CE2  VS H LEU 105 CB  
+Distance: 4.200341 - Hydrophobic, 
+36 - E PHE 486 CE2  VS H LEU 105 CG  
+Distance: 4.414240 - Hydrophobic, 
+37 - E PHE 486 CE2  VS H LEU 105 CD2 
+Distance: 3.640888 - Hydrophobic, 
+38 - E PHE 486 CZ   VS H LEU 105 CB  
+Distance: 3.899183 - Hydrophobic, 
+39 - E PHE 486 CZ   VS H LEU 105 CD2 
+Distance: 4.180550 - Hydrophobic, 
+40 - E TYR 489 CD1  VS H TYR 33 CE1 
+Distance: 4.216528 - Hydrophobic, 
+41 - E TYR 489 CD1  VS H PHE 100 CE2 
+Distance: 4.000041 - Hydrophobic, 
+42 - E TYR 489 CE1  VS H PHE 100 CD2 
+Distance: 3.937448 - Hydrophobic, 
+43 - E TYR 489 CE1  VS H PHE 100 CE2 
+Distance: 3.413571 - Hydrophobic, 
+44 - E TYR 489 CG   VS H HIS 102 CG  
+Distance: 4.714211 - Aromatic Stacking, 
+45 - E TYR 489 OH   VS H HIS 102 O   
+Distance: 2.801617 - Hydrogen Bonds, 
+46 - E PHE 490 CB   VS H THR 57 CG2 
+Distance: 4.382519 - Hydrophobic, 
+47 - E PHE 490 CG   VS H THR 57 CG2 
+Distance: 4.086726 - Hydrophobic, 
+48 - E PHE 490 CD1  VS H THR 57 CG2 
+Distance: 4.134746 - Hydrophobic, 
+49 - E PHE 490 CD2  VS H THR 57 CG2 
+Distance: 4.452498 - Hydrophobic, 
+50 - E LEU 492 O    VS H SER 56 OG  
+Distance: 2.914690 - Hydrogen Bonds, 
+51 - E GLN 493 OE1  VS H SER 53 OG  
+Distance: 3.667307 - Hydrogen Bonds, 
+52 - E GLN 493 OE1  VS H HIS 102 NE2 
+Distance: 3.843810 - Hydrogen Bonds, 
+53 - E SER 494 N    VS H SER 54 OG  
+Distance: 3.318236 - Hydrogen Bonds, 
+54 - E SER 494 OG   VS H SER 54 O   
+Distance: 3.462651 - Hydrogen Bonds, 
+55 - E GLN 498 NE2  VS H ASP 73 OD1 
+Distance: 3.665952 - Hydrogen Bonds, 
+56 - E GLN 498 NE2  VS H ASP 73 OD2 
+Distance: 3.720759 - Hydrogen Bonds, 

@@ -1,0 +1,5 @@
+public/projects/*
+public/evolve/vtr/tmalign
+
+!public/projects/Gamma
+!public/projects/Beta

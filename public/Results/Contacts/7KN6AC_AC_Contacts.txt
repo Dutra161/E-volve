@@ -1,0 +1,75 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             04-NOV-20   7KN6             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN COMPLEXED WITNANOBODY VHH V AND ANTIBODY FAB CC12.3:
+
+0 - A TYR 369 OH   VS C TYR 52 OH  
+Distance: 3.513668 - Hydrogen Bonds, 
+1 - A TYR 369 OH   VS C GLU 58 OE1 
+Distance: 3.759981 - Hydrogen Bonds, 
+2 - A TYR 369 OH   VS C GLU 58 OE2 
+Distance: 2.725768 - Hydrogen Bonds, 
+3 - A SER 371 O    VS C TRP 47 NE1 
+Distance: 2.872137 - Hydrogen Bonds, 
+4 - A ALA 372 CB   VS C GLU 46 CB  
+Distance: 4.163283 - Hydrophobic, 
+5 - A ALA 372 CB   VS C GLU 46 CG  
+Distance: 3.531413 - Hydrophobic, 
+6 - A ALA 372 O    VS C TRP 47 N   
+Distance: 3.159114 - Hydrogen Bonds, 
+7 - A ALA 372 O    VS C TRP 47 NE1 
+Distance: 3.899062 - Hydrogen Bonds, 
+8 - A ALA 372 CB   VS C GLN 60 CG  
+Distance: 4.002303 - Hydrophobic, 
+9 - A PHE 374 O    VS C TRP 47 NE1 
+Distance: 3.624351 - Hydrogen Bonds, 
+10 - A LYS 378 NZ   VS C GLU 95 OE1 
+Distance: 4.656495 - Attractive, 
+11 - A LYS 378 NZ   VS C GLU 95 OE2 
+Distance: 2.786989 - Attractive, Hydrogen Bonds, 
+12 - A LYS 378 NZ   VS C SER 97 O   
+Distance: 3.138813 - Hydrogen Bonds, 
+13 - A LYS 378 NZ   VS C GLY 99 O   
+Distance: 2.795240 - Hydrogen Bonds, 
+14 - A TYR 380 OH   VS C GLY 99 O   
+Distance: 3.521845 - Hydrogen Bonds, 
+15 - A ARG 408 NH2  VS C GLY 101 O   
+Distance: 2.484448 - Hydrogen Bonds, 
+16 - A ARG 408 NH2  VS C SER 102 OG  
+Distance: 3.403600 - Hydrogen Bonds, 
+17 - A GLN 414 NE2  VS C SER 97 OG  
+Distance: 3.578691 - Hydrogen Bonds, 
+18 - A ASN 437 CB   VS C LEU 45 CB  
+Distance: 3.514662 - Hydrophobic, 
+19 - A ASN 437 CB   VS C LEU 45 CD2 
+Distance: 4.472611 - Hydrophobic, 
+20 - A VAL 503 CG1  VS C LEU 45 CD2 
+Distance: 4.443983 - Hydrophobic, 
+21 - A VAL 503 CG2  VS C LEU 45 CD1 
+Distance: 4.311129 - Hydrophobic, 
+22 - A VAL 503 CG2  VS C TYR 91 CD1 
+Distance: 4.304403 - Hydrophobic, 
+23 - A VAL 503 CG2  VS C TYR 91 CD2 
+Distance: 4.264789 - Hydrophobic, 
+24 - A VAL 503 CG2  VS C TYR 91 CE1 
+Distance: 3.846991 - Hydrophobic, 
+25 - A VAL 503 CG2  VS C TYR 91 CE2 
+Distance: 3.801626 - Hydrophobic, 
+26 - A VAL 503 CB   VS C TRP 103 CG  
+Distance: 4.446448 - Hydrophobic, 
+27 - A VAL 503 CG1  VS C TRP 103 CB  
+Distance: 4.148742 - Hydrophobic, 
+28 - A VAL 503 CG1  VS C TRP 103 CG  
+Distance: 3.550734 - Hydrophobic, 
+29 - A VAL 503 CG1  VS C TRP 103 CD2 
+Distance: 3.441116 - Hydrophobic, 
+30 - A VAL 503 CG1  VS C TRP 103 CE3 
+Distance: 3.903808 - Hydrophobic, 
+31 - A VAL 503 CG1  VS C TRP 103 CZ2 
+Distance: 4.293326 - Hydrophobic, 
+32 - A VAL 503 CG1  VS C TRP 103 CZ3 
+Distance: 4.471017 - Hydrophobic, 
+33 - A GLN 506 OE1  VS C GLN 39 NE2 
+Distance: 3.427563 - Hydrogen Bonds, 
+34 - A GLN 506 NE2  VS C GLN 39 OE1 
+Distance: 3.318921 - Hydrogen Bonds, 
+35 - A TYR 508 CE2  VS C TRP 103 CZ2 
+Distance: 4.207166 - Hydrophobic, 

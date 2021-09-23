@@ -1,0 +1,85 @@
+
+:
+
+0 - B VAL 445 O    VS F GLN 1 NE2 
+Distance: 2.849539 - Hydrogen Bonds, 
+1 - B TYR 449 CG   VS F PHE 106 CG  
+Distance: 5.234136 - Aromatic Stacking, 
+2 - B TYR 449 CG   VS F PHE 106 CZ  
+Distance: 4.305827 - Hydrophobic, 
+3 - B TYR 449 CD1  VS F PHE 106 CZ  
+Distance: 4.469221 - Hydrophobic, 
+4 - B TYR 449 CD2  VS F PHE 106 CE1 
+Distance: 4.351038 - Hydrophobic, 
+5 - B TYR 449 CD2  VS F PHE 106 CZ  
+Distance: 3.902646 - Hydrophobic, 
+6 - B TYR 449 CE1  VS F PHE 106 CZ  
+Distance: 4.285545 - Hydrophobic, 
+7 - B TYR 449 CE2  VS F PHE 106 CE1 
+Distance: 4.341181 - Hydrophobic, 
+8 - B TYR 449 CE2  VS F PHE 106 CZ  
+Distance: 3.688182 - Hydrophobic, 
+9 - B VAL 483 CG2  VS F TRP 52 CB  
+Distance: 3.967652 - Hydrophobic, 
+10 - B VAL 483 CG2  VS F TRP 52 CD2 
+Distance: 4.247669 - Hydrophobic, 
+11 - B VAL 483 CG2  VS F TRP 52 CE3 
+Distance: 3.444375 - Hydrophobic, 
+12 - B VAL 483 CG2  VS F TRP 52 CZ3 
+Distance: 4.276492 - Hydrophobic, 
+13 - B VAL 483 CB   VS F ARG 53 CB  
+Distance: 4.087370 - Hydrophobic, 
+14 - B GLU 484 O    VS F ARG 53 N   
+Distance: 3.671888 - Hydrogen Bonds, 
+15 - B GLU 484 CB   VS F ARG 53 CG  
+Distance: 4.058264 - Hydrophobic, 
+16 - B GLU 484 OE1  VS F ARG 53 NE  
+Distance: 5.055278 - Attractive, 
+17 - B GLU 484 OE1  VS F ARG 53 CZ  
+Distance: 5.663960 - Attractive, 
+18 - B GLU 484 OE1  VS F ARG 53 NH1 
+Distance: 5.324828 - Attractive, 
+19 - B GLU 484 OE1  VS F ASN 98 ND2 
+Distance: 3.223339 - Hydrogen Bonds, 
+20 - B GLU 484 OE2  VS F ASN 98 ND2 
+Distance: 2.906929 - Hydrogen Bonds, 
+21 - B GLU 484 OE1  VS F HIS 102 ND1 
+Distance: 5.396652 - Attractive, 
+22 - B GLU 484 OE2  VS F HIS 102 ND1 
+Distance: 3.521589 - Attractive, Hydrogen Bonds, 
+23 - B GLU 484 OE2  VS F HIS 102 NE2 
+Distance: 5.053215 - Attractive, 
+24 - B PHE 486 CB   VS F TRP 52 CZ2 
+Distance: 3.532497 - Hydrophobic, 
+25 - B PHE 486 CB   VS F TRP 52 CH2 
+Distance: 4.357649 - Hydrophobic, 
+26 - B PHE 486 CG   VS F TRP 52 CZ2 
+Distance: 4.468782 - Hydrophobic, 
+27 - B PHE 486 N    VS F ASP 58 OD2 
+Distance: 3.273504 - Hydrogen Bonds, 
+28 - B ASN 487 N    VS F HIS 102 NE2 
+Distance: 3.458215 - Hydrogen Bonds, 
+29 - B CYS 488 N    VS F HIS 102 NE2 
+Distance: 3.451419 - Hydrogen Bonds, 
+30 - B CYS 488 O    VS F HIS 102 NE2 
+Distance: 3.642579 - Hydrogen Bonds, 
+31 - B TYR 489 CG   VS F ALA 101 CB  
+Distance: 3.788993 - Hydrophobic, 
+32 - B TYR 489 CD1  VS F ALA 101 CB  
+Distance: 4.008605 - Hydrophobic, 
+33 - B TYR 489 CD2  VS F ALA 101 CB  
+Distance: 3.521858 - Hydrophobic, 
+34 - B TYR 489 CE1  VS F ALA 101 CB  
+Distance: 4.010811 - Hydrophobic, 
+35 - B TYR 489 CE2  VS F ALA 101 CB  
+Distance: 3.526048 - Hydrophobic, 
+36 - B TYR 489 CG   VS F HIS 102 CG  
+Distance: 5.102169 - Aromatic Stacking, 
+37 - B PHE 490 N    VS F GLY 100 O   
+Distance: 3.051909 - Hydrogen Bonds, 
+38 - B GLN 493 OE1  VS F GLY 100 N   
+Distance: 2.751770 - Hydrogen Bonds, 
+39 - B GLN 493 NE2  VS F ASP 105 OD2 
+Distance: 3.116131 - Hydrogen Bonds, 
+40 - B SER 494 OG   VS F ASP 105 OD2 
+Distance: 2.792133 - Hydrogen Bonds, 

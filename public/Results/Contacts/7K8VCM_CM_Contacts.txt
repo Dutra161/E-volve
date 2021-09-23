@@ -1,0 +1,19 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             27-SEP-20   7K8V             
+STRUCTURE OF THE SARS-COV-2 S 2P TRIMER IN COMPLEX WITH THE HUMANNEUTRALIZING ANTIBODY FAB FRAGMENT, C110:
+
+0 - C TYR 449 CD2  VS M TRP 33 CZ3 
+Distance: 4.499101 - Hydrophobic, 
+1 - C TYR 449 CE2  VS M TRP 33 CE3 
+Distance: 4.050634 - Hydrophobic, 
+2 - C TYR 449 CE2  VS M TRP 33 CZ3 
+Distance: 3.447475 - Hydrophobic, 
+3 - C TYR 449 CE2  VS M TRP 33 CH2 
+Distance: 4.450433 - Hydrophobic, 
+4 - C TYR 449 CD2  VS M PRO 100 CB  
+Distance: 4.003945 - Hydrophobic, 
+5 - C TYR 449 CE2  VS M PRO 100 CB  
+Distance: 4.152340 - Hydrophobic, 
+6 - C LEU 452 CD1  VS M PRO 100 CB  
+Distance: 4.314792 - Hydrophobic, 
+7 - C LEU 452 CD2  VS M PRO 100 CB  
+Distance: 4.203027 - Hydrophobic, 

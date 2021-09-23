@@ -1,0 +1,43 @@
+VIRAL PROTEIN                           21-AUG-20   7A5S             
+COMPLEX OF SARS-COV-2 SPIKE AND CR3022 FAB (HOMOGENEOUS REFINEMENT):
+
+0 - M LEU 15 CB   VS B PHE 43 CD1 
+Distance: 4.135721 - Hydrophobic, 
+1 - M LEU 15 CB   VS B PHE 43 CE1 
+Distance: 4.004590 - Hydrophobic, 
+2 - M GLY 16 O    VS B SER 45 N   
+Distance: 3.619041 - Hydrogen Bonds, 
+3 - M TYR 31 CE1  VS B ASP 428 CB  
+Distance: 3.773939 - Hydrophobic, 
+4 - M TYR 31 OH   VS B PHE 429 N   
+Distance: 3.461715 - Hydrogen Bonds, 
+5 - M TYR 31 OH   VS B PHE 429 O   
+Distance: 3.579041 - Hydrogen Bonds, 
+6 - M TYR 31 CD1  VS B THR 430 CG2 
+Distance: 4.055657 - Hydrophobic, 
+7 - M TYR 31 CE1  VS B THR 430 CG2 
+Distance: 3.563345 - Hydrophobic, 
+8 - M SER 33 OG   VS B THR 430 OG1 
+Distance: 3.827002 - Hydrogen Bonds, 
+9 - M ILE 34 CG1  VS B THR 430 CG2 
+Distance: 4.371150 - Hydrophobic, 
+10 - M ILE 34 CD1  VS B THR 430 CG2 
+Distance: 3.854747 - Hydrophobic, 
+11 - M TYR 38 OH   VS B GLY 381 O   
+Distance: 3.214635 - Hydrogen Bonds, 
+12 - M TRP 56 CZ3  VS B LEU 390 CD1 
+Distance: 3.763630 - Hydrophobic, 
+13 - M TRP 56 CH2  VS B LEU 390 CD1 
+Distance: 3.762892 - Hydrophobic, 
+14 - M GLU 61 OE1  VS B LYS 386 NZ  
+Distance: 5.307802 - Attractive, 
+15 - M GLU 61 OE2  VS B LYS 386 NZ  
+Distance: 5.032167 - Attractive, 
+16 - M ARG 67 CG   VS B VAL 42 CG1 
+Distance: 4.319786 - Hydrophobic, 
+17 - M ARG 67 CG   VS B VAL 42 CG2 
+Distance: 4.329908 - Hydrophobic, 
+18 - M SER 83 OG   VS B ARG 44 NH1 
+Distance: 3.719869 - Hydrogen Bonds, 
+19 - M GLN 85 CG   VS B VAL 42 CG1 
+Distance: 4.108265 - Hydrophobic, 

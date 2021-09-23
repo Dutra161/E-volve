@@ -1,0 +1,141 @@
+IMMUNE SYSTEM/VIRAL PROTEIN             16-DEC-20   7L2C             
+CRYSTALLOGRAPHIC STRUCTURE OF NEUTRALIZING ANTIBODY 2-51 IN COMPLEXWITH SARS-COV-2 SPIKE N-TERMINAL DOMAIN (NTD):
+
+0 - A TYR 144 CB   VS H GLU 31 CG  
+Distance: 4.368026 - Hydrophobic, 
+1 - A TYR 144 CD2  VS H GLU 31 CG  
+Distance: 4.497605 - Hydrophobic, 
+2 - A TYR 145 CD2  VS H ALA 97 CB  
+Distance: 3.874592 - Hydrophobic, 
+3 - A TYR 145 CE2  VS H ALA 97 CB  
+Distance: 3.558512 - Hydrophobic, 
+4 - A HIS 146 CB   VS H ILE 30 CG2 
+Distance: 4.465663 - Hydrophobic, 
+5 - A LYS 147 NZ   VS H LEU 29 O   
+Distance: 3.041190 - Hydrogen Bonds, 
+6 - A LYS 147 N    VS H ILE 30 O   
+Distance: 3.432727 - Hydrogen Bonds, 
+7 - A LYS 147 NZ   VS H LEU 32 O   
+Distance: 3.013762 - Hydrogen Bonds, 
+8 - A LYS 147 CB   VS H PHE 51 CE2 
+Distance: 4.092729 - Hydrophobic, 
+9 - A LYS 147 CB   VS H PHE 51 CZ  
+Distance: 4.337004 - Hydrophobic, 
+10 - A LYS 147 CD   VS H PHE 51 CE2 
+Distance: 4.245750 - Hydrophobic, 
+11 - A LYS 147 NZ   VS H GLU 71 OE1 
+Distance: 2.919285 - Attractive, Hydrogen Bonds, 
+12 - A LYS 147 NZ   VS H GLU 71 OE2 
+Distance: 3.865396 - Attractive, Hydrogen Bonds, 
+13 - A LYS 150 NZ   VS H GLU 53 O   
+Distance: 3.206410 - Hydrogen Bonds, 
+14 - A LYS 150 NZ   VS H GLU 53 OE1 
+Distance: 4.372208 - Attractive, 
+15 - A LYS 150 NZ   VS H GLU 53 OE2 
+Distance: 3.140499 - Attractive, Hydrogen Bonds, 
+16 - A LYS 150 NZ   VS H ASP 54 OD1 
+Distance: 5.448210 - Attractive, 
+17 - A ARG 158 NH2  VS H GLU 31 OE1 
+Distance: 5.436435 - Attractive, 
+18 - A ARG 246 NH2  VS H GLY 26 O   
+Distance: 3.083400 - Hydrogen Bonds, 
+19 - A ARG 246 CG   VS H TYR 27 CE2 
+Distance: 4.166669 - Hydrophobic, 
+20 - A ARG 246 NE   VS H GLU 31 OE1 
+Distance: 3.832483 - Attractive, Hydrogen Bonds, 
+21 - A ARG 246 NE   VS H GLU 31 OE2 
+Distance: 3.167975 - Attractive, Hydrogen Bonds, 
+22 - A ARG 246 CZ   VS H GLU 31 OE1 
+Distance: 4.262177 - Attractive, 
+23 - A ARG 246 CZ   VS H GLU 31 OE2 
+Distance: 4.203443 - Attractive, 
+24 - A ARG 246 NH1  VS H GLU 31 OE1 
+Distance: 5.586810 - Attractive, 
+25 - A ARG 246 NH1  VS H GLU 31 OE2 
+Distance: 5.416040 - Attractive, 
+26 - A ARG 246 NH2  VS H GLU 31 OE1 
+Distance: 3.725922 - Attractive, Hydrogen Bonds, 
+27 - A ARG 246 NH2  VS H GLU 31 OE2 
+Distance: 4.351041 - Attractive, 
+28 - A SER 247 O    VS H TYR 27 OH  
+Distance: 2.705321 - Hydrogen Bonds, 
+29 - A TYR 248 CG   VS H TYR 27 CG  
+Distance: 5.793513 - Aromatic Stacking, 
+30 - A TYR 248 CD1  VS H TYR 27 CD2 
+Distance: 3.870786 - Hydrophobic, 
+31 - A TYR 248 CD1  VS H TYR 27 CE2 
+Distance: 3.531952 - Hydrophobic, 
+32 - A TYR 248 CE1  VS H TYR 27 CD2 
+Distance: 3.923728 - Hydrophobic, 
+33 - A TYR 248 CE1  VS H TYR 27 CE2 
+Distance: 3.931612 - Hydrophobic, 
+34 - A TYR 248 CE1  VS H GLU 31 CB  
+Distance: 3.670150 - Hydrophobic, 
+35 - A TYR 248 CE1  VS H GLU 31 CG  
+Distance: 4.286623 - Hydrophobic, 
+36 - A TYR 248 OH   VS H GLU 31 OE2 
+Distance: 3.105479 - Hydrogen Bonds, 
+37 - A TYR 248 CB   VS H TRP 96 CG  
+Distance: 4.331481 - Hydrophobic, 
+38 - A TYR 248 CB   VS H TRP 96 CD2 
+Distance: 4.020051 - Hydrophobic, 
+39 - A TYR 248 CB   VS H TRP 96 CE3 
+Distance: 4.323156 - Hydrophobic, 
+40 - A TYR 248 CB   VS H TRP 96 CZ2 
+Distance: 4.458329 - Hydrophobic, 
+41 - A TYR 248 CG   VS H TRP 96 CG  
+Distance: 5.306066 - Aromatic Stacking, 
+42 - A TYR 248 CG   VS H TRP 96 CD2 
+Distance: 4.331765 - Hydrophobic, 
+43 - A TYR 248 CG   VS H TRP 96 CE3 
+Distance: 4.172535 - Hydrophobic, 
+44 - A TYR 248 CG   VS H TRP 96 CZ3 
+Distance: 4.454401 - Hydrophobic, 
+45 - A TYR 248 CD1  VS H TRP 96 CD2 
+Distance: 4.081233 - Hydrophobic, 
+46 - A TYR 248 CD1  VS H TRP 96 CE3 
+Distance: 3.515400 - Hydrophobic, 
+47 - A TYR 248 CD1  VS H TRP 96 CZ3 
+Distance: 3.504449 - Hydrophobic, 
+48 - A TYR 248 CD1  VS H TRP 96 CH2 
+Distance: 4.057173 - Hydrophobic, 
+49 - A TYR 248 CE1  VS H TRP 96 CE3 
+Distance: 4.136508 - Hydrophobic, 
+50 - A TYR 248 CE1  VS H TRP 96 CZ3 
+Distance: 4.066960 - Hydrophobic, 
+51 - A TYR 248 O    VS H TYR 98 OH A
+Distance: 3.710718 - Hydrogen Bonds, 
+52 - A TYR 248 CB   VS H TYR 98 CD1A
+Distance: 4.181015 - Hydrophobic, 
+53 - A TYR 248 CB   VS H TYR 98 CE1A
+Distance: 3.496041 - Hydrophobic, 
+54 - A TYR 248 CG   VS H TYR 98 CG A
+Distance: 5.139243 - Aromatic Stacking, 
+55 - A TYR 248 CG   VS H TYR 98 CD1A
+Distance: 4.073938 - Hydrophobic, 
+56 - A TYR 248 CG   VS H TYR 98 CE1A
+Distance: 3.894668 - Hydrophobic, 
+57 - A TYR 248 CD2  VS H TYR 98 CG A
+Distance: 4.197857 - Hydrophobic, 
+58 - A TYR 248 CD2  VS H TYR 98 CD1A
+Distance: 3.719031 - Hydrophobic, 
+59 - A TYR 248 CD2  VS H TYR 98 CE1A
+Distance: 3.882568 - Hydrophobic, 
+60 - A TYR 248 CE2  VS H TYR 98 CD1A
+Distance: 4.374928 - Hydrophobic, 
+61 - A LEU 249 N    VS H TYR 27 OH  
+Distance: 3.216746 - Hydrogen Bonds, 
+62 - A LEU 249 O    VS H TRP 96 NE1 
+Distance: 3.228243 - Hydrogen Bonds, 
+63 - A LEU 249 O    VS H TYR 102 OH  
+Distance: 2.555169 - Hydrogen Bonds, 
+64 - A THR 250 O    VS H GLN 1 NE2 
+Distance: 2.701587 - Hydrogen Bonds, 
+65 - A THR 250 O    VS H TYR 102 OH  
+Distance: 3.006051 - Hydrogen Bonds, 
+66 - A PRO 251 O    VS H GLN 1 NE2 
+Distance: 2.749407 - Hydrogen Bonds, 
+67 - A PRO 251 CB   VS H TYR 102 CE1 
+Distance: 4.217890 - Hydrophobic, 
+68 - A PRO 251 CG   VS H TYR 102 CE1 
+Distance: 4.328738 - Hydrophobic, 

@@ -1,0 +1,63 @@
+VIRAL PROTEIN                           14-JUN-20   6ZDH             
+SARS-COV-2 SPIKE GLYCOPROTEIN IN COMPLEX WITH A NEUTRALIZING ANTIBODYEY6A FAB:
+
+0 - B PHE 374 O    VS D LYS 65 NZ  
+Distance: 3.695271 - Hydrogen Bonds, 
+1 - B PHE 377 CG   VS D TYR 59 CG  
+Distance: 5.679142 - Aromatic Stacking, 
+2 - B PHE 377 CD1  VS D TYR 59 CE1 
+Distance: 4.053739 - Hydrophobic, 
+3 - B PHE 377 CE1  VS D TYR 59 CE1 
+Distance: 4.018912 - Hydrophobic, 
+4 - B SER 383 N    VS D TRP 104 O   
+Distance: 2.853364 - Hydrogen Bonds, 
+5 - B SER 383 OG   VS D TRP 104 O   
+Distance: 3.021777 - Hydrogen Bonds, 
+6 - B SER 383 OG   VS D TYR 106 N   
+Distance: 3.187600 - Hydrogen Bonds, 
+7 - B PRO 384 CB   VS D TYR 59 CE1 
+Distance: 4.381084 - Hydrophobic, 
+8 - B PRO 384 CB   VS D TYR 59 CE2 
+Distance: 3.652948 - Hydrophobic, 
+9 - B PRO 384 CG   VS D TYR 59 CG  
+Distance: 4.437778 - Hydrophobic, 
+10 - B PRO 384 CG   VS D TYR 59 CD2 
+Distance: 3.823537 - Hydrophobic, 
+11 - B PRO 384 CG   VS D TYR 59 CE1 
+Distance: 4.033920 - Hydrophobic, 
+12 - B PRO 384 CG   VS D TYR 59 CE2 
+Distance: 3.242097 - Hydrophobic, 
+13 - B THR 385 OG1  VS D ASP 33 OD2 
+Distance: 2.574621 - Hydrogen Bonds, 
+14 - B THR 385 CG2  VS D ASN 57 CB  
+Distance: 4.266826 - Hydrophobic, 
+15 - B THR 385 N    VS D TYR 106 OH  
+Distance: 3.808959 - Hydrogen Bonds, 
+16 - B THR 385 OG1  VS D TYR 106 OH  
+Distance: 2.728053 - Hydrogen Bonds, 
+17 - B LYS 386 NZ   VS D ASP 99 OD1 
+Distance: 4.389386 - Attractive, 
+18 - B LYS 386 NZ   VS D ASP 99 OD2 
+Distance: 3.405729 - Attractive, Hydrogen Bonds, 
+19 - B LYS 386 NZ   VS D LEU 103 O   
+Distance: 2.177367 - Hydrogen Bonds, 
+20 - B LYS 386 NZ   VS D VAL 105 O   
+Distance: 3.415075 - Hydrogen Bonds, 
+21 - B ASN 388 ND2  VS D TYR 53 OH  
+Distance: 3.509650 - Hydrogen Bonds, 
+22 - B LEU 390 CD2  VS D TRP 104 CD2 
+Distance: 4.309347 - Hydrophobic, 
+23 - B LEU 390 CD2  VS D TRP 104 CZ2 
+Distance: 3.648045 - Hydrophobic, 
+24 - B LEU 390 CD2  VS D TRP 104 CH2 
+Distance: 4.209745 - Hydrophobic, 
+25 - B PHE 392 CD2  VS D TRP 104 CH2 
+Distance: 4.226704 - Hydrophobic, 
+26 - B PHE 392 CE2  VS D TRP 104 CZ3 
+Distance: 3.869748 - Hydrophobic, 
+27 - B PHE 392 CE2  VS D TRP 104 CH2 
+Distance: 3.795284 - Hydrophobic, 
+28 - B LEU 517 CD1  VS D TRP 104 CZ2 
+Distance: 4.295957 - Hydrophobic, 
+29 - B LEU 517 CD1  VS D TRP 104 CH2 
+Distance: 4.226660 - Hydrophobic, 

@@ -1,0 +1,139 @@
+VIRAL PROTEIN/HYDROLASE                 11-DEC-20   7L0N             
+CIRCULATING SARS-COV-2 SPIKE N439K VARIANTS MAINTAIN FITNESS WHILE EVADING ANTIBODY-MEDIATED IMMUNITY:
+
+0 - E SER 19 OG   VS R ALA 475 O   
+Distance: 2.661628 - Hydrogen Bonds, 
+1 - E GLN 24 NE2  VS R ALA 475 O   
+Distance: 3.888059 - Hydrogen Bonds, 
+2 - E GLN 24 OE1  VS R ASN 487 ND2 
+Distance: 3.333129 - Hydrogen Bonds, 
+3 - E THR 27 CG2  VS R TYR 473 CE2 
+Distance: 4.196513 - Hydrophobic, 
+4 - E THR 27 O    VS R TYR 489 OH  
+Distance: 3.895880 - Hydrogen Bonds, 
+5 - E PHE 28 N    VS R TYR 489 OH  
+Distance: 3.733888 - Hydrogen Bonds, 
+6 - E ASP 30 OD1  VS R LYS 417 NZ  
+Distance: 5.818059 - Attractive, 
+7 - E ASP 30 OD2  VS R LYS 417 NZ  
+Distance: 3.776520 - Attractive, Hydrogen Bonds, 
+8 - E LYS 31 CB   VS R PHE 456 CE2 
+Distance: 4.080387 - Hydrophobic, 
+9 - E LYS 31 CB   VS R PHE 456 CZ  
+Distance: 3.558178 - Hydrophobic, 
+10 - E LYS 31 CG   VS R PHE 456 CE2 
+Distance: 3.831331 - Hydrophobic, 
+11 - E LYS 31 CG   VS R PHE 456 CZ  
+Distance: 3.847883 - Hydrophobic, 
+12 - E LYS 31 NZ   VS R GLU 484 OE2 
+Distance: 5.010495 - Attractive, 
+13 - E LYS 31 CB   VS R TYR 489 CD1 
+Distance: 4.300954 - Hydrophobic, 
+14 - E LYS 31 CB   VS R TYR 489 CE1 
+Distance: 4.403344 - Hydrophobic, 
+15 - E LYS 31 CG   VS R TYR 489 CB  
+Distance: 4.455445 - Hydrophobic, 
+16 - E LYS 31 CG   VS R TYR 489 CG  
+Distance: 4.233931 - Hydrophobic, 
+17 - E LYS 31 CG   VS R TYR 489 CD1 
+Distance: 3.713769 - Hydrophobic, 
+18 - E LYS 31 CG   VS R TYR 489 CE1 
+Distance: 4.244954 - Hydrophobic, 
+19 - E LYS 31 CD   VS R TYR 489 CD1 
+Distance: 4.093341 - Hydrophobic, 
+20 - E HIS 34 CG   VS R TYR 453 CG  
+Distance: 5.879320 - Aromatic Stacking, 
+21 - E HIS 34 ND1  VS R TYR 453 OH  
+Distance: 3.071851 - Hydrogen Bonds, 
+22 - E HIS 34 CB   VS R LEU 455 CD2 
+Distance: 4.331699 - Hydrophobic, 
+23 - E HIS 34 NE2  VS R GLN 493 OE1 
+Distance: 3.540384 - Hydrogen Bonds, 
+24 - E HIS 34 NE2  VS R GLN 493 NE2 
+Distance: 3.443183 - Hydrogen Bonds, 
+25 - E GLU 35 OE1  VS R GLN 493 NE2 
+Distance: 3.009705 - Hydrogen Bonds, 
+26 - E GLU 37 CG   VS R TYR 505 CE1 
+Distance: 3.917483 - Hydrophobic, 
+27 - E GLU 37 OE1  VS R TYR 505 OH  
+Distance: 3.234945 - Hydrogen Bonds, 
+28 - E ASP 38 OD1  VS R TYR 449 OH  
+Distance: 2.854968 - Hydrogen Bonds, 
+29 - E ASP 38 OD2  VS R TYR 449 OH  
+Distance: 3.267390 - Hydrogen Bonds, 
+30 - E ASP 38 OD1  VS R GLN 498 NE2 
+Distance: 3.210272 - Hydrogen Bonds, 
+31 - E TYR 41 CD2  VS R GLN 498 CG  
+Distance: 4.257353 - Hydrophobic, 
+32 - E TYR 41 CE2  VS R GLN 498 CB  
+Distance: 3.712246 - Hydrophobic, 
+33 - E TYR 41 CE2  VS R GLN 498 CG  
+Distance: 3.759796 - Hydrophobic, 
+34 - E TYR 41 OH   VS R THR 500 O   
+Distance: 2.905165 - Hydrogen Bonds, 
+35 - E TYR 41 OH   VS R THR 500 OG1 
+Distance: 2.705143 - Hydrogen Bonds, 
+36 - E TYR 41 OH   VS R ASN 501 N   
+Distance: 3.670189 - Hydrogen Bonds, 
+37 - E GLN 42 NE2  VS R GLY 446 O   
+Distance: 3.433695 - Hydrogen Bonds, 
+38 - E GLN 42 NE2  VS R TYR 449 OH  
+Distance: 3.524916 - Hydrogen Bonds, 
+39 - E GLN 42 OE1  VS R GLN 498 NE2 
+Distance: 3.330129 - Hydrogen Bonds, 
+40 - E MET 82 CB   VS R PHE 486 CE1 
+Distance: 3.771146 - Hydrophobic, 
+41 - E MET 82 CB   VS R PHE 486 CZ  
+Distance: 3.636336 - Hydrophobic, 
+42 - E MET 82 CG   VS R PHE 486 CE1 
+Distance: 4.202302 - Hydrophobic, 
+43 - E MET 82 CG   VS R PHE 486 CZ  
+Distance: 4.317437 - Hydrophobic, 
+44 - E TYR 83 CG   VS R PHE 486 CG  
+Distance: 5.543192 - Aromatic Stacking, 
+45 - E TYR 83 CE1  VS R PHE 486 CE1 
+Distance: 4.404327 - Hydrophobic, 
+46 - E TYR 83 CE1  VS R PHE 486 CZ  
+Distance: 4.088901 - Hydrophobic, 
+47 - E TYR 83 CE2  VS R PHE 486 CE1 
+Distance: 4.054117 - Hydrophobic, 
+48 - E TYR 83 CE2  VS R PHE 486 CZ  
+Distance: 4.465133 - Hydrophobic, 
+49 - E TYR 83 OH   VS R ASN 487 OD1 
+Distance: 2.412494 - Hydrogen Bonds, 
+50 - E TYR 83 OH   VS R TYR 489 OH  
+Distance: 3.735608 - Hydrogen Bonds, 
+51 - E GLN 325 OE1  VS R LYS 439 NZ  
+Distance: 3.047473 - Hydrogen Bonds, 
+52 - E GLU 329 OE1  VS R LYS 439 NZ  
+Distance: 3.620444 - Attractive, Hydrogen Bonds, 
+53 - E GLU 329 OE2  VS R LYS 439 NZ  
+Distance: 3.988522 - Attractive, 
+54 - E LYS 353 NZ   VS R GLY 496 O   
+Distance: 2.913394 - Hydrogen Bonds, 
+55 - E LYS 353 NZ   VS R GLN 498 OE1 
+Distance: 3.120782 - Hydrogen Bonds, 
+56 - E LYS 353 O    VS R GLY 502 N   
+Distance: 2.697239 - Hydrogen Bonds, 
+57 - E LYS 353 CB   VS R TYR 505 CB  
+Distance: 4.128608 - Hydrophobic, 
+58 - E LYS 353 CB   VS R TYR 505 CG  
+Distance: 3.896121 - Hydrophobic, 
+59 - E LYS 353 CB   VS R TYR 505 CD1 
+Distance: 4.015944 - Hydrophobic, 
+60 - E LYS 353 CB   VS R TYR 505 CD2 
+Distance: 4.298180 - Hydrophobic, 
+61 - E LYS 353 CG   VS R TYR 505 CG  
+Distance: 4.136868 - Hydrophobic, 
+62 - E LYS 353 CG   VS R TYR 505 CD1 
+Distance: 3.730623 - Hydrophobic, 
+63 - E LYS 353 CG   VS R TYR 505 CE1 
+Distance: 4.068033 - Hydrophobic, 
+64 - E LYS 353 CD   VS R TYR 505 CD1 
+Distance: 4.459480 - Hydrophobic, 
+65 - E GLY 354 O    VS R GLY 502 N   
+Distance: 3.862763 - Hydrogen Bonds, 
+66 - E ARG 357 NH1  VS R THR 500 OG1 
+Distance: 3.602611 - Hydrogen Bonds, 
+67 - E ARG 393 NH1  VS R TYR 505 OH  
+Distance: 3.687135 - Hydrogen Bonds, 

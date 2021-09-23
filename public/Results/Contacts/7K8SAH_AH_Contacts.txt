@@ -1,0 +1,55 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             27-SEP-20   7K8S             
+STRUCTURE OF THE SARS-COV-2 S 2P TRIMER IN COMPLEX WITH THE HUMANNEUTRALIZING ANTIBODY FAB FRAGMENT, C002 (STATE 1):
+
+0 - A ARG 403 NH1  VS H ASP 100 OD2 
+Distance: 5.740501 - Attractive, 
+1 - A TYR 449 CD2  VS H VAL 2 CG2 
+Distance: 4.163998 - Hydrophobic, 
+2 - A TYR 449 CE2  VS H VAL 2 CG2 
+Distance: 4.370759 - Hydrophobic, 
+3 - A TYR 449 CB   VS H PHE 27 CB  
+Distance: 3.886542 - Hydrophobic, 
+4 - A TYR 449 CD2  VS H PHE 27 CB  
+Distance: 4.317473 - Hydrophobic, 
+5 - A THR 470 CG2  VS H ILE 31 CD1 
+Distance: 4.291442 - Hydrophobic, 
+6 - A ASN 481 O    VS H ASN 56 ND2 
+Distance: 2.819326 - Hydrogen Bonds, 
+7 - A ASN 481 O    VS H TYR 58 OH  
+Distance: 3.800385 - Hydrogen Bonds, 
+8 - A GLU 484 OE1  VS H HIS 35 ND1 
+Distance: 5.100847 - Attractive, 
+9 - A GLU 484 OE1  VS H HIS 35 NE2 
+Distance: 4.687617 - Attractive, 
+10 - A GLU 484 OE2  VS H HIS 35 ND1 
+Distance: 4.347073 - Attractive, 
+11 - A GLU 484 OE2  VS H HIS 35 NE2 
+Distance: 3.097908 - Attractive, Hydrogen Bonds, 
+12 - A GLU 484 OE1  VS H GLU 95 OE1 
+Distance: 5.840549 - Repulsive, 
+13 - A GLU 484 OE1  VS H GLU 95 OE2 
+Distance: 5.302853 - Repulsive, 
+14 - A GLU 484 OE2  VS H GLU 95 OE1 
+Distance: 4.230148 - Repulsive, 
+15 - A GLU 484 OE2  VS H GLU 95 OE2 
+Distance: 3.360188 - Repulsive, 
+16 - A PHE 490 CE1  VS H ILE 31 CG1 
+Distance: 4.403091 - Hydrophobic, 
+17 - A PHE 490 CE1  VS H ILE 31 CD1 
+Distance: 4.165215 - Hydrophobic, 
+18 - A PHE 490 CE2  VS H ILE 31 CG1 
+Distance: 3.548659 - Hydrophobic, 
+19 - A PHE 490 CE2  VS H ILE 31 CD1 
+Distance: 4.098599 - Hydrophobic, 
+20 - A PHE 490 CZ   VS H ILE 31 CG1 
+Distance: 3.272222 - Hydrophobic, 
+21 - A PHE 490 CZ   VS H ILE 31 CD1 
+Distance: 3.309908 - Hydrophobic, 
+22 - A GLN 493 OE1  VS H ARG 97 NE  
+Distance: 2.605619 - Hydrogen Bonds, 
+23 - A GLN 493 OE1  VS H ARG 97 NH2 
+Distance: 2.260592 - Hydrogen Bonds, 
+24 - A GLN 493 NE2  VS H PRO 98 O   
+Distance: 3.176846 - Hydrogen Bonds, 
+25 - A GLN 493 NE2  VS H SER 99 O   
+Distance: 3.364541 - Hydrogen Bonds, 

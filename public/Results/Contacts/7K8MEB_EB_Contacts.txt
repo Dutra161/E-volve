@@ -1,0 +1,15 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             27-SEP-20   7K8M             
+STRUCTURE OF THE SARS-COV-2 RECEPTOR BINDING DOMAIN IN COMPLEX WITHTHE HUMAN NEUTRALIZING ANTIBODY FAB FRAGMENT, C102:
+
+0 - B SER 29 OG   VS E GLY 502 N   
+Distance: 3.379078 - Hydrogen Bonds, 
+1 - B SER 30 N    VS E ASN 501 OD1 
+Distance: 3.150165 - Hydrogen Bonds, 
+2 - B TYR 32 CG   VS E TYR 505 CG  
+Distance: 5.465619 - Aromatic Stacking, 
+3 - B TYR 32 CE1  VS E TYR 505 CE1 
+Distance: 4.127533 - Hydrophobic, 
+4 - B TYR 32 OH   VS E TYR 505 OH  
+Distance: 2.962143 - Hydrogen Bonds, 
+5 - B GLY 92 O    VS E ARG 403 NH2 
+Distance: 3.774786 - Hydrogen Bonds, 

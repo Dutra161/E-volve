@@ -1,0 +1,39 @@
+IMMUNE SYSTEM/VIRAL PROTEIN             02-NOV-20   7KMI             
+LY-COV481 NEUTRALIZING ANTIBODY AGAINST SARS-COV-2:
+
+0 - B ILE 2 CG1  VS C TYR 505 CE1 
+Distance: 3.954553 - Hydrophobic, 
+1 - B ILE 2 CD1  VS C TYR 505 CE1 
+Distance: 4.172077 - Hydrophobic, 
+2 - B GLY 28 N    VS C THR 500 O   
+Distance: 3.426155 - Hydrogen Bonds, 
+3 - B GLY 28 O    VS C GLY 502 N   
+Distance: 2.890704 - Hydrogen Bonds, 
+4 - B ILE 29 CG2  VS C TYR 505 CD1 
+Distance: 4.337385 - Hydrophobic, 
+5 - B ILE 29 CG2  VS C TYR 505 CE1 
+Distance: 3.993040 - Hydrophobic, 
+6 - B SER 30 OG   VS C GLY 496 O   
+Distance: 3.096317 - Hydrogen Bonds, 
+7 - B SER 30 OG   VS C GLN 498 N   
+Distance: 3.862211 - Hydrogen Bonds, 
+8 - B SER 30 OG   VS C GLN 498 NE2 
+Distance: 3.381429 - Hydrogen Bonds, 
+9 - B SER 30 N    VS C ASN 501 OD1 
+Distance: 3.523797 - Hydrogen Bonds, 
+10 - B SER 30 OG   VS C ASN 501 OD1 
+Distance: 2.778002 - Hydrogen Bonds, 
+11 - B SER 30 OG   VS C ASN 501 ND2 
+Distance: 3.715427 - Hydrogen Bonds, 
+12 - B TRP 32 NE1  VS C TYR 495 O   
+Distance: 3.159934 - Hydrogen Bonds, 
+13 - B SER 67 OG   VS C GLN 498 OE1 
+Distance: 3.383304 - Hydrogen Bonds, 
+14 - B SER 67 OG   VS C GLN 498 NE2 
+Distance: 3.102075 - Hydrogen Bonds, 
+15 - B GLN 90 NE2  VS C TYR 505 OH  
+Distance: 2.815774 - Hydrogen Bonds, 
+16 - B ASN 92 O    VS C ARG 403 NH1 
+Distance: 2.946085 - Hydrogen Bonds, 
+17 - B ASN 92 O    VS C ARG 403 NH2 
+Distance: 2.759978 - Hydrogen Bonds, 

@@ -1,0 +1,11 @@
+VIRAL PROTEIN                           19-JUN-20   7CDI             
+CRYSTAL STRUCTURE OF SARS-COV-2 ANTIBODY P2C-1F11 WITH RBD:
+
+0 - E ARG 403 NH2  VS L TYR 33 OH  
+Distance: 3.213311 - Hydrogen Bonds, 
+1 - E TYR 453 OH   VS L TYR 33 OH  
+Distance: 3.338142 - Hydrogen Bonds, 
+2 - E TYR 505 CE2  VS L VAL 29 CG2 
+Distance: 4.461872 - Hydrophobic, 
+3 - E TYR 505 OH   VS L TYR 92 O   
+Distance: 3.502586 - Hydrogen Bonds, 

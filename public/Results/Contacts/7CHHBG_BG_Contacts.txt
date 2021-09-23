@@ -1,0 +1,53 @@
+ANTIVIRAL PROTEIN/IMMUNE SYSTEM         05-JUL-20   7CHH             
+CRYO-EM STRUCTURE OF THE SARS-COV-2 S-6P IN COMPLEX WITH BD-368-2 FAB:
+
+0 - B ARG 346 NH2  VS G LYS 76 NZ  
+Distance: 5.378906 - Repulsive, 
+1 - B TYR 449 OH   VS G GLY 26 O   
+Distance: 2.917200 - Hydrogen Bonds, 
+2 - B TYR 449 CB   VS G ALA 28 CB  
+Distance: 4.355833 - Hydrophobic, 
+3 - B TYR 449 CD2  VS G ALA 28 CB  
+Distance: 4.398504 - Hydrophobic, 
+4 - B ASN 450 OD1  VS G THR 30 OG1 
+Distance: 3.603234 - Hydrogen Bonds, 
+5 - B GLY 482 O    VS G LEU 104 N   
+Distance: 2.808354 - Hydrogen Bonds, 
+6 - B GLY 482 O    VS G TYR 105 N   
+Distance: 2.860788 - Hydrogen Bonds, 
+7 - B GLY 482 O    VS G ASP 106 N   
+Distance: 3.871269 - Hydrogen Bonds, 
+8 - B VAL 483 CG2  VS G TYR 105 CB  
+Distance: 4.355289 - Hydrophobic, 
+9 - B GLU 484 O    VS G ARG 100 NH1 
+Distance: 3.074166 - Hydrogen Bonds, 
+10 - B GLU 484 O    VS G ARG 100 NH2 
+Distance: 3.289806 - Hydrogen Bonds, 
+11 - B GLU 484 OE1  VS G ARG 100 NE  
+Distance: 5.528790 - Attractive, 
+12 - B GLU 484 OE1  VS G ARG 102 NE  
+Distance: 2.782539 - Attractive, Hydrogen Bonds, 
+13 - B GLU 484 OE1  VS G ARG 102 CZ  
+Distance: 3.459888 - Attractive, 
+14 - B GLU 484 OE1  VS G ARG 102 NH1 
+Distance: 4.768791 - Attractive, 
+15 - B GLU 484 OE1  VS G ARG 102 NH2 
+Distance: 3.282510 - Attractive, Hydrogen Bonds, 
+16 - B GLU 484 OE2  VS G ARG 102 NE  
+Distance: 3.447687 - Attractive, Hydrogen Bonds, 
+17 - B GLU 484 OE2  VS G ARG 102 CZ  
+Distance: 3.273111 - Attractive, 
+18 - B GLU 484 OE2  VS G ARG 102 NH1 
+Distance: 4.485009 - Attractive, 
+19 - B GLU 484 OE2  VS G ARG 102 NH2 
+Distance: 2.325840 - Attractive, Hydrogen Bonds, 
+20 - B GLU 484 OE1  VS G ASP 106 OD2 
+Distance: 5.081651 - Repulsive, 
+21 - B PHE 490 CE2  VS G THR 31 CG2 
+Distance: 4.125573 - Hydrophobic, 
+22 - B PHE 490 CD1  VS G ARG 102 CB  
+Distance: 4.021356 - Hydrophobic, 
+23 - B PHE 490 CE1  VS G ARG 102 CB  
+Distance: 3.948815 - Hydrophobic, 
+24 - B PHE 490 CE1  VS G ARG 102 CG  
+Distance: 4.396054 - Hydrophobic, 

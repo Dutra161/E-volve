@@ -1,0 +1,107 @@
+IMMUNE SYSTEM/VIRAL PROTEIN             15-OCT-20   7KFW             
+STRUCTURAL BASIS FOR A GERMLINE-BIASED ANTIBODY RESPONSE TO SARS-COV-(RBD:C1A-B3 FAB):
+
+0 - A ARG 408 NH1  VS H TYR 58 OH  
+Distance: 2.883762 - Hydrogen Bonds, 
+1 - A THR 415 O    VS H TYR 58 OH  
+Distance: 3.175235 - Hydrogen Bonds, 
+2 - A GLY 416 N    VS H TYR 58 OH  
+Distance: 3.461344 - Hydrogen Bonds, 
+3 - A LYS 417 CG   VS H TYR 52 CE2 
+Distance: 3.738336 - Hydrophobic, 
+4 - A LYS 417 NZ   VS H TYR 52 OH  
+Distance: 2.909075 - Hydrogen Bonds, 
+5 - A LYS 417 NZ   VS H ASP 96 OD1 
+Distance: 4.590825 - Attractive, 
+6 - A LYS 417 NZ   VS H ASP 96 OD2 
+Distance: 2.690466 - Attractive, Hydrogen Bonds, 
+7 - A LYS 417 NZ   VS H SER 98 O   
+Distance: 2.793622 - Hydrogen Bonds, 
+8 - A ASP 420 OD1  VS H THR 56 OG1 
+Distance: 3.650786 - Hydrogen Bonds, 
+9 - A ASP 420 OD2  VS H THR 56 OG1 
+Distance: 2.628794 - Hydrogen Bonds, 
+10 - A TYR 421 CE2  VS H TYR 52 CD2 
+Distance: 3.857827 - Hydrophobic, 
+11 - A TYR 421 CE2  VS H TYR 52 CE2 
+Distance: 4.423577 - Hydrophobic, 
+12 - A TYR 421 OH   VS H SER 53 N  A
+Distance: 3.410373 - Hydrogen Bonds, 
+13 - A TYR 421 OH   VS H SER 53 OG A
+Distance: 3.622887 - Hydrogen Bonds, 
+14 - A TYR 421 OH   VS H GLY 54 N   
+Distance: 2.916586 - Hydrogen Bonds, 
+15 - A TYR 453 OH   VS H GLY 99 O   
+Distance: 2.526348 - Hydrogen Bonds, 
+16 - A LEU 455 O    VS H TYR 33 OH  
+Distance: 2.623403 - Hydrogen Bonds, 
+17 - A LEU 455 CG   VS H TYR 33 CE1 
+Distance: 4.439210 - Hydrophobic, 
+18 - A LEU 455 CD1  VS H TYR 33 CE1 
+Distance: 4.485851 - Hydrophobic, 
+19 - A LEU 455 CG   VS H TYR 100 CD1 
+Distance: 4.279154 - Hydrophobic, 
+20 - A LEU 455 CD1  VS H TYR 100 CD1 
+Distance: 4.065778 - Hydrophobic, 
+21 - A LEU 455 CD2  VS H TYR 100 CD1 
+Distance: 3.915942 - Hydrophobic, 
+22 - A LEU 455 CD2  VS H TYR 100 CE1 
+Distance: 4.215582 - Hydrophobic, 
+23 - A LEU 455 CD2  VS H TYR 100 CD2 
+Distance: 4.287684 - Hydrophobic, 
+24 - A LEU 455 CD2  VS H TYR 100 CE2 
+Distance: 3.995427 - Hydrophobic, 
+25 - A PHE 456 CD1  VS H TYR 33 CD1 
+Distance: 4.412423 - Hydrophobic, 
+26 - A PHE 456 CD1  VS H TYR 33 CE1 
+Distance: 4.062969 - Hydrophobic, 
+27 - A PHE 456 CE1  VS H TYR 33 CD1 
+Distance: 4.077809 - Hydrophobic, 
+28 - A PHE 456 CE1  VS H TYR 33 CE1 
+Distance: 4.031226 - Hydrophobic, 
+29 - A PHE 456 CE1  VS H TYR 100 CE1 
+Distance: 3.820005 - Hydrophobic, 
+30 - A PHE 456 CE2  VS H TYR 100 CE2 
+Distance: 4.283287 - Hydrophobic, 
+31 - A PHE 456 CZ   VS H TYR 100 CE1 
+Distance: 3.722898 - Hydrophobic, 
+32 - A ARG 457 O    VS H SER 53 OG A
+Distance: 3.378221 - Hydrogen Bonds, 
+33 - A TYR 473 OH   VS H SER 31 O   
+Distance: 2.853739 - Hydrogen Bonds, 
+34 - A TYR 473 OH   VS H SER 53 OG A
+Distance: 3.846437 - Hydrogen Bonds, 
+35 - A ALA 475 O    VS H THR 28 N   
+Distance: 2.876430 - Hydrogen Bonds, 
+36 - A ALA 475 O    VS H ASN 32 ND2 
+Distance: 2.998801 - Hydrogen Bonds, 
+37 - A GLY 476 O    VS H THR 28 OG1 
+Distance: 3.659012 - Hydrogen Bonds, 
+38 - A PHE 486 CE1  VS H VAL 2 CG2 
+Distance: 4.205244 - Hydrophobic, 
+39 - A PHE 486 CE2  VS H VAL 2 CG2 
+Distance: 4.158686 - Hydrophobic, 
+40 - A PHE 486 CZ   VS H VAL 2 CG2 
+Distance: 3.352832 - Hydrophobic, 
+41 - A PHE 486 CE1  VS H TYR 102 CE1 
+Distance: 3.737770 - Hydrophobic, 
+42 - A PHE 486 CZ   VS H TYR 102 CE1 
+Distance: 4.396891 - Hydrophobic, 
+43 - A ASN 487 ND2  VS H GLY 26 O   
+Distance: 2.877405 - Hydrogen Bonds, 
+44 - A ASN 487 OD1  VS H ARG 94 NH1 
+Distance: 2.957631 - Hydrogen Bonds, 
+45 - A ASN 487 OD1  VS H ARG 94 NH2 
+Distance: 3.292642 - Hydrogen Bonds, 
+46 - A TYR 489 OH   VS H ARG 94 NE  
+Distance: 3.554218 - Hydrogen Bonds, 
+47 - A TYR 489 OH   VS H ARG 94 NH1 
+Distance: 3.291328 - Hydrogen Bonds, 
+48 - A TYR 489 OH   VS H ARG 94 NH2 
+Distance: 3.429322 - Hydrogen Bonds, 
+49 - A TYR 489 CG   VS H TYR 100 CE1 
+Distance: 5.801054 - Aromatic Stacking, 
+50 - A GLN 493 OE1  VS H TYR 100 OH  
+Distance: 3.265064 - Hydrogen Bonds, 
+51 - A GLN 493 NE2  VS H TYR 100 OH  
+Distance: 2.822718 - Hydrogen Bonds, 

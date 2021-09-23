@@ -1,0 +1,123 @@
+VIRAL PROTEIN                           29-APR-20   7C01             
+MOLECULAR BASIS FOR A POTENT HUMAN NEUTRALIZING ANTIBODY TARGETING SARS-COV-2 RBD:
+
+0 - B LYS 417 CG   VS C TYR 52 CD2 
+Distance: 4.346292 - Hydrophobic, 
+1 - B LYS 417 CG   VS C TYR 52 CE2 
+Distance: 3.554083 - Hydrophobic, 
+2 - B LYS 417 NZ   VS C TYR 52 OH  
+Distance: 3.495647 - Hydrogen Bonds, 
+3 - B LYS 417 NZ   VS C ASP 104 OD1 
+Distance: 3.615318 - Attractive, Hydrogen Bonds, 
+4 - B LYS 417 NZ   VS C ASP 104 OD2 
+Distance: 2.968631 - Attractive, Hydrogen Bonds, 
+5 - B ASP 420 OD1  VS C SER 56 OG  
+Distance: 3.634862 - Hydrogen Bonds, 
+6 - B ASP 420 OD2  VS C SER 56 OG  
+Distance: 2.355256 - Hydrogen Bonds, 
+7 - B TYR 421 CE2  VS C TYR 52 CD2 
+Distance: 3.953725 - Hydrophobic, 
+8 - B TYR 421 OH   VS C SER 53 N   
+Distance: 3.369653 - Hydrogen Bonds, 
+9 - B TYR 421 OH   VS C SER 53 OG  
+Distance: 3.175459 - Hydrogen Bonds, 
+10 - B TYR 421 OH   VS C GLY 54 N   
+Distance: 2.640747 - Hydrogen Bonds, 
+11 - B LEU 455 O    VS C TYR 33 OH  
+Distance: 2.497666 - Hydrogen Bonds, 
+12 - B LEU 455 CB   VS C PRO 100 CG  
+Distance: 4.315677 - Hydrophobic, 
+13 - B LEU 455 CD1  VS C PRO 100 CG  
+Distance: 4.374000 - Hydrophobic, 
+14 - B LEU 455 CD2  VS C PRO 100 CB  
+Distance: 4.168817 - Hydrophobic, 
+15 - B LEU 455 CD1  VS C MET 101 CB  
+Distance: 4.065650 - Hydrophobic, 
+16 - B LEU 455 CD1  VS C MET 101 CG  
+Distance: 3.434958 - Hydrophobic, 
+17 - B PHE 456 CG   VS C TYR 33 CG  
+Distance: 5.740743 - Aromatic Stacking, 
+18 - B PHE 456 CD1  VS C TYR 33 CD2 
+Distance: 4.393155 - Hydrophobic, 
+19 - B PHE 456 CD1  VS C TYR 33 CE2 
+Distance: 3.875352 - Hydrophobic, 
+20 - B PHE 456 CE1  VS C TYR 33 CD2 
+Distance: 3.823370 - Hydrophobic, 
+21 - B PHE 456 CE1  VS C TYR 33 CE2 
+Distance: 3.727573 - Hydrophobic, 
+22 - B PHE 456 CZ   VS C LEU 99 CD2 
+Distance: 4.393213 - Hydrophobic, 
+23 - B PHE 456 CG   VS C PRO 100 CG  
+Distance: 4.483085 - Hydrophobic, 
+24 - B PHE 456 CD1  VS C PRO 100 CG  
+Distance: 4.321319 - Hydrophobic, 
+25 - B PHE 456 CD2  VS C PRO 100 CG  
+Distance: 4.223894 - Hydrophobic, 
+26 - B PHE 456 CE1  VS C PRO 100 CG  
+Distance: 3.885398 - Hydrophobic, 
+27 - B PHE 456 CE2  VS C PRO 100 CG  
+Distance: 3.777712 - Hydrophobic, 
+28 - B PHE 456 CZ   VS C PRO 100 CG  
+Distance: 3.596152 - Hydrophobic, 
+29 - B PHE 456 CE2  VS C MET 101 CE  
+Distance: 3.850461 - Hydrophobic, 
+30 - B ARG 457 N    VS C SER 53 OG  
+Distance: 3.689749 - Hydrogen Bonds, 
+31 - B ARG 457 O    VS C SER 53 OG  
+Distance: 2.870457 - Hydrogen Bonds, 
+32 - B ARG 457 O    VS C GLY 54 N   
+Distance: 3.500406 - Hydrogen Bonds, 
+33 - B ASN 460 ND2  VS C SER 56 OG  
+Distance: 3.693461 - Hydrogen Bonds, 
+34 - B TYR 473 OH   VS C SER 31 O   
+Distance: 2.821126 - Hydrogen Bonds, 
+35 - B ALA 475 O    VS C THR 28 N   
+Distance: 3.229162 - Hydrogen Bonds, 
+36 - B ALA 475 O    VS C THR 28 OG1 
+Distance: 3.394658 - Hydrogen Bonds, 
+37 - B ALA 475 O    VS C ASN 32 ND2 
+Distance: 2.754618 - Hydrogen Bonds, 
+38 - B PHE 486 CE1  VS C VAL 2 CG2 
+Distance: 4.198651 - Hydrophobic, 
+39 - B PHE 486 CE2  VS C VAL 2 CG2 
+Distance: 4.062518 - Hydrophobic, 
+40 - B PHE 486 CZ   VS C VAL 2 CG2 
+Distance: 3.332993 - Hydrophobic, 
+41 - B PHE 486 CG   VS C TYR 108 CG  
+Distance: 5.846158 - Aromatic Stacking, 
+42 - B PHE 486 CE1  VS C TYR 108 CE2 
+Distance: 3.560607 - Hydrophobic, 
+43 - B PHE 486 CZ   VS C TYR 108 CE2 
+Distance: 4.075987 - Hydrophobic, 
+44 - B ASN 487 ND2  VS C GLY 26 O   
+Distance: 2.805659 - Hydrogen Bonds, 
+45 - B ASN 487 OD1  VS C ARG 97 NH1 
+Distance: 2.886616 - Hydrogen Bonds, 
+46 - B ASN 487 OD1  VS C ARG 97 NH2 
+Distance: 3.550581 - Hydrogen Bonds, 
+47 - B TYR 489 OH   VS C ARG 97 NH1 
+Distance: 3.815352 - Hydrogen Bonds, 
+48 - B TYR 489 OH   VS C ARG 97 NH2 
+Distance: 3.141162 - Hydrogen Bonds, 
+49 - B TYR 489 CD2  VS C LEU 99 CD2 
+Distance: 4.163934 - Hydrophobic, 
+50 - B TYR 489 CE1  VS C LEU 99 CD1 
+Distance: 4.206632 - Hydrophobic, 
+51 - B TYR 489 CE1  VS C LEU 99 CD2 
+Distance: 4.277222 - Hydrophobic, 
+52 - B TYR 489 CE2  VS C LEU 99 CD2 
+Distance: 3.525778 - Hydrophobic, 
+53 - B TYR 489 CB   VS C MET 101 CE  
+Distance: 3.637818 - Hydrophobic, 
+54 - B TYR 489 CG   VS C MET 101 CE  
+Distance: 3.435612 - Hydrophobic, 
+55 - B TYR 489 CD1  VS C MET 101 CE  
+Distance: 3.590313 - Hydrophobic, 
+56 - B TYR 489 CD2  VS C MET 101 CE  
+Distance: 3.949256 - Hydrophobic, 
+57 - B TYR 489 CE1  VS C MET 101 CE  
+Distance: 4.203886 - Hydrophobic, 
+58 - B GLN 493 OE1  VS C TYR 102 N   
+Distance: 2.976201 - Hydrogen Bonds, 
+59 - B GLN 493 NE2  VS C TYR 102 OH  
+Distance: 3.894999 - Hydrogen Bonds, 

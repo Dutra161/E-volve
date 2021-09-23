@@ -1,0 +1,23 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             04-NOV-20   7KN5             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN COMPLEXED WITNANOBODIES VHH E AND U:
+
+0 - A VAL 382 CG1  VS D PRO 41 CB  
+Distance: 4.035795 - Hydrophobic, 
+1 - A LYS 386 NZ   VS D GLU 85 OE1 
+Distance: 5.828367 - Attractive, 
+2 - A ASP 389 OD2  VS D LYS 43 NZ  
+Distance: 5.054553 - Attractive, 
+3 - A LEU 390 CD2  VS D LYS 43 CG  
+Distance: 3.849216 - Hydrophobic, 
+4 - A LEU 390 CD2  VS D LYS 43 CD  
+Distance: 4.330513 - Hydrophobic, 
+5 - A CYS 391 N    VS D GLY 42 O   
+Distance: 2.919111 - Hydrogen Bonds, 
+6 - A PHE 392 CE1  VS D PRO 41 CB  
+Distance: 4.488267 - Hydrophobic, 
+7 - A THR 430 CG2  VS D PRO 41 CB  
+Distance: 3.809307 - Hydrophobic, 
+8 - A THR 430 CG2  VS D PRO 41 CG  
+Distance: 3.995293 - Hydrophobic, 
+9 - A LEU 517 CD2  VS D PRO 41 CB  
+Distance: 3.776512 - Hydrophobic, 

@@ -1,0 +1,91 @@
+VIRAL PROTEIN                           29-AUG-20   7CWL             
+SARS-COV-2 SPIKE PROTEIN AND P17 FAB COMPLEX WITH ONE RBD IN CLOSE STATE:
+
+0 - A LEU 455 CB   VS H MET 103 CE  
+Distance: 4.474513 - Hydrophobic, 
+1 - A LEU 455 CD2  VS H MET 103 CE  
+Distance: 3.650237 - Hydrophobic, 
+2 - A PHE 456 CD2  VS H MET 103 CE  
+Distance: 4.380343 - Hydrophobic, 
+3 - A THR 470 OG1  VS H SER 31 O   
+Distance: 3.323289 - Hydrogen Bonds, 
+4 - A THR 470 OG1  VS H SER 31 OG  
+Distance: 3.184547 - Hydrogen Bonds, 
+5 - A THR 470 CG2  VS H ASP 54 CB  
+Distance: 4.329466 - Hydrophobic, 
+6 - A GLU 471 CB   VS H ASP 54 CB  
+Distance: 4.199244 - Hydrophobic, 
+7 - A ASN 481 O    VS H ASN 57 ND2 
+Distance: 3.201593 - Hydrogen Bonds, 
+8 - A VAL 483 CG2  VS H VAL 50 CB  
+Distance: 4.025776 - Hydrophobic, 
+9 - A VAL 483 CG2  VS H VAL 50 CG1 
+Distance: 3.887076 - Hydrophobic, 
+10 - A VAL 483 CG2  VS H VAL 50 CG2 
+Distance: 4.104636 - Hydrophobic, 
+11 - A VAL 483 CG1  VS H TYR 59 CD2 
+Distance: 3.891500 - Hydrophobic, 
+12 - A VAL 483 CG1  VS H TYR 59 CE2 
+Distance: 3.696346 - Hydrophobic, 
+13 - A GLU 484 OE1  VS H HIS 35 ND1 
+Distance: 5.933935 - Attractive, 
+14 - A GLU 484 OE1  VS H HIS 35 NE2 
+Distance: 4.271439 - Attractive, 
+15 - A GLU 484 OE2  VS H HIS 35 ND1 
+Distance: 4.536626 - Attractive, 
+16 - A GLU 484 OE2  VS H HIS 35 NE2 
+Distance: 3.523801 - Attractive, Hydrogen Bonds, 
+17 - A GLU 484 OE1  VS H ARG 98 CZ  
+Distance: 5.176011 - Attractive, 
+18 - A GLU 484 OE1  VS H ARG 98 NH1 
+Distance: 5.503248 - Attractive, 
+19 - A GLU 484 OE1  VS H ARG 98 NH2 
+Distance: 4.096760 - Attractive, 
+20 - A GLU 484 OE2  VS H ARG 98 CZ  
+Distance: 5.424212 - Attractive, 
+21 - A GLU 484 OE2  VS H ARG 98 NH1 
+Distance: 5.975386 - Attractive, 
+22 - A GLU 484 OE2  VS H ARG 98 NH2 
+Distance: 4.512403 - Attractive, 
+23 - A GLU 484 OE2  VS H HIS 99 ND1 
+Distance: 4.025532 - Attractive, 
+24 - A GLU 484 OE2  VS H HIS 99 NE2 
+Distance: 5.794778 - Attractive, 
+25 - A GLU 484 CB   VS H THR 101 CG2 
+Distance: 3.724530 - Hydrophobic, 
+26 - A GLU 484 CG   VS H THR 101 CG2 
+Distance: 3.671744 - Hydrophobic, 
+27 - A TYR 489 CD2  VS H LEU 102 CD2 
+Distance: 4.440956 - Hydrophobic, 
+28 - A TYR 489 CE1  VS H LEU 102 CD2 
+Distance: 4.227670 - Hydrophobic, 
+29 - A TYR 489 CE2  VS H LEU 102 CD2 
+Distance: 4.033911 - Hydrophobic, 
+30 - A TYR 489 CB   VS H MET 103 CG  
+Distance: 3.728659 - Hydrophobic, 
+31 - A TYR 489 CB   VS H MET 103 CE  
+Distance: 4.234292 - Hydrophobic, 
+32 - A TYR 489 CG   VS H MET 103 CG  
+Distance: 4.226477 - Hydrophobic, 
+33 - A TYR 489 CD2  VS H MET 103 CE  
+Distance: 4.296284 - Hydrophobic, 
+34 - A PHE 490 CG   VS H TYR 32 CG  
+Distance: 5.429874 - Aromatic Stacking, 
+35 - A PHE 490 CE1  VS H TYR 32 CD1 
+Distance: 3.824312 - Hydrophobic, 
+36 - A PHE 490 CE1  VS H TYR 32 CE1 
+Distance: 4.209158 - Hydrophobic, 
+37 - A PHE 490 CE2  VS H TYR 32 CD1 
+Distance: 4.356177 - Hydrophobic, 
+38 - A PHE 490 CE2  VS H TYR 32 CE1 
+Distance: 3.962531 - Hydrophobic, 
+39 - A PHE 490 CZ   VS H TYR 32 CD1 
+Distance: 3.504437 - Hydrophobic, 
+40 - A PHE 490 CZ   VS H TYR 32 CE1 
+Distance: 3.532110 - Hydrophobic, 
+41 - A PHE 490 CB   VS H MET 103 CB  
+Distance: 3.735472 - Hydrophobic, 
+42 - A PHE 490 CB   VS H MET 103 CG  
+Distance: 3.843206 - Hydrophobic, 
+43 - A LEU 492 O    VS H ASN 104 ND2 
+Distance: 3.310418 - Hydrogen Bonds, 

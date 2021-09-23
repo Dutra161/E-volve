@@ -1,0 +1,117 @@
+VIRAL PROTEIN/HYDROLASE                 11-DEC-20   7L0N             
+CIRCULATING SARS-COV-2 SPIKE N439K VARIANTS MAINTAIN FITNESS WHILE EVADING ANTIBODY-MEDIATED IMMUNITY:
+
+0 - A GLY 26 N    VS R ASN 331 OD1 
+Distance: 2.988428 - Hydrogen Bonds, 
+1 - A TYR 27 N    VS R ASN 331 OD1 
+Distance: 2.922110 - Hydrogen Bonds, 
+2 - A PRO 28 CB   VS R LEU 335 CG  
+Distance: 4.452172 - Hydrophobic, 
+3 - A PRO 28 CB   VS R LEU 335 CD1 
+Distance: 3.832268 - Hydrophobic, 
+4 - A PRO 28 CB   VS R LEU 335 CD2 
+Distance: 4.348150 - Hydrophobic, 
+5 - A PRO 28 CG   VS R LEU 335 CD1 
+Distance: 4.334865 - Hydrophobic, 
+6 - A PRO 28 CG   VS R LEU 335 CD2 
+Distance: 4.004267 - Hydrophobic, 
+7 - A PHE 29 N    VS R ASN 331 O   
+Distance: 2.767124 - Hydrogen Bonds, 
+8 - A THR 30 OG1  VS R THR 333 O   
+Distance: 3.374765 - Hydrogen Bonds, 
+9 - A THR 77 CG2  VS R ASN 331 CB  
+Distance: 4.061156 - Hydrophobic, 
+10 - A TYR 100 OH   VS R GLY 339 O   
+Distance: 3.201719 - Hydrogen Bonds, 
+11 - A TYR 100 CE2  VS R ASN 343 CB  
+Distance: 4.018341 - Hydrophobic, 
+12 - A TYR 100 OH   VS R ASN 343 ND2 
+Distance: 3.063085 - Hydrogen Bonds, 
+13 - A ALA 104 N    VS R GLU 340 OE1 
+Distance: 2.896679 - Hydrogen Bonds, 
+14 - A ALA 104 N    VS R GLU 340 OE2 
+Distance: 3.628248 - Hydrogen Bonds, 
+15 - A TRP 105 NE1  VS R LEU 335 O   
+Distance: 3.898643 - Hydrogen Bonds, 
+16 - A TRP 105 CB   VS R PRO 337 CB  
+Distance: 3.834142 - Hydrophobic, 
+17 - A TRP 105 CB   VS R PRO 337 CG  
+Distance: 3.937513 - Hydrophobic, 
+18 - A TRP 105 CG   VS R PRO 337 CB  
+Distance: 3.516734 - Hydrophobic, 
+19 - A TRP 105 CG   VS R PRO 337 CG  
+Distance: 3.598466 - Hydrophobic, 
+20 - A TRP 105 CD2  VS R PRO 337 CB  
+Distance: 3.835920 - Hydrophobic, 
+21 - A TRP 105 CD2  VS R PRO 337 CG  
+Distance: 3.422060 - Hydrophobic, 
+22 - A TRP 105 CE3  VS R PRO 337 CB  
+Distance: 4.477079 - Hydrophobic, 
+23 - A TRP 105 CE3  VS R PRO 337 CG  
+Distance: 3.594364 - Hydrophobic, 
+24 - A TRP 105 CZ3  VS R PRO 337 CG  
+Distance: 4.240647 - Hydrophobic, 
+25 - A TRP 105 N    VS R GLU 340 OE1 
+Distance: 2.750066 - Hydrogen Bonds, 
+26 - A TRP 105 N    VS R GLU 340 OE2 
+Distance: 3.116717 - Hydrogen Bonds, 
+27 - A TRP 105 CZ2  VS R CYS 361 CB  
+Distance: 4.095704 - Hydrophobic, 
+28 - A TRP 105 CH2  VS R CYS 361 CB  
+Distance: 3.702952 - Hydrophobic, 
+29 - A PHE 106 CE2  VS R PRO 337 CB  
+Distance: 4.045647 - Hydrophobic, 
+30 - A PHE 106 CE2  VS R PRO 337 CG  
+Distance: 3.632689 - Hydrophobic, 
+31 - A PHE 106 CZ   VS R PRO 337 CG  
+Distance: 3.895921 - Hydrophobic, 
+32 - A PHE 106 N    VS R GLU 340 OE2 
+Distance: 2.975529 - Hydrogen Bonds, 
+33 - A PHE 106 CD2  VS R GLU 340 CB  
+Distance: 4.293360 - Hydrophobic, 
+34 - A PHE 106 CE2  VS R VAL 341 CG2 
+Distance: 4.196743 - Hydrophobic, 
+35 - A PHE 106 CG   VS R LYS 356 CG  
+Distance: 4.092396 - Hydrophobic, 
+36 - A PHE 106 CG   VS R LYS 356 CD  
+Distance: 4.072098 - Hydrophobic, 
+37 - A PHE 106 CD1  VS R LYS 356 CG  
+Distance: 4.164193 - Hydrophobic, 
+38 - A PHE 106 CD2  VS R LYS 356 CB  
+Distance: 4.463723 - Hydrophobic, 
+39 - A PHE 106 CD2  VS R LYS 356 CG  
+Distance: 3.998177 - Hydrophobic, 
+40 - A PHE 106 CD2  VS R LYS 356 CD  
+Distance: 3.658641 - Hydrophobic, 
+41 - A PHE 106 CE1  VS R LYS 356 CB  
+Distance: 4.120365 - Hydrophobic, 
+42 - A PHE 106 CE1  VS R LYS 356 CG  
+Distance: 4.165022 - Hydrophobic, 
+43 - A PHE 106 CE2  VS R LYS 356 CB  
+Distance: 3.960117 - Hydrophobic, 
+44 - A PHE 106 CE2  VS R LYS 356 CG  
+Distance: 3.995273 - Hydrophobic, 
+45 - A PHE 106 CE2  VS R LYS 356 CD  
+Distance: 3.874691 - Hydrophobic, 
+46 - A PHE 106 CZ   VS R LYS 356 CB  
+Distance: 3.774706 - Hydrophobic, 
+47 - A PHE 106 CZ   VS R LYS 356 CG  
+Distance: 4.083288 - Hydrophobic, 
+48 - A PHE 106 CZ   VS R LYS 356 CD  
+Distance: 4.452297 - Hydrophobic, 
+49 - A PHE 106 CZ   VS R ILE 358 CG1 
+Distance: 4.432756 - Hydrophobic, 
+50 - A GLU 108 OE1  VS R LYS 356 NZ  
+Distance: 3.054017 - Attractive, Hydrogen Bonds, 
+51 - A GLU 108 OE2  VS R LYS 356 NZ  
+Distance: 2.826513 - Attractive, Hydrogen Bonds, 
+52 - A SER 109 O    VS R THR 345 N   
+Distance: 2.871498 - Hydrogen Bonds, 
+53 - A LEU 110 CD2  VS R GLU 340 CB  
+Distance: 4.205206 - Hydrophobic, 
+54 - A LEU 110 CD2  VS R GLU 340 CG  
+Distance: 4.391984 - Hydrophobic, 
+55 - A ILE 111 N    VS R ASN 343 O   
+Distance: 2.898066 - Hydrogen Bonds, 
+56 - A ILE 111 CD1  VS R LEU 441 CD2 
+Distance: 4.150614 - Hydrophobic, 

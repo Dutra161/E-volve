@@ -1,0 +1,39 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             21-DEC-20   7L5B             
+CRYSTALLOGRAPHIC STRUCTURE OF NEUTRALIZING ANTIBODY 2-15 IN COMPLEXWITH SARS-COV-2 SPIKE RECEPTOR-BINDING DOMAIN (RBD).:
+
+0 - A GLU 484 O    VS L SER 97 OG  
+Distance: 3.657628 - Hydrogen Bonds, 
+1 - A PHE 486 CG   VS L TYR 32 CG  
+Distance: 5.448272 - Aromatic Stacking, 
+2 - A PHE 486 CE2  VS L TYR 32 CE1 
+Distance: 4.165222 - Hydrophobic, 
+3 - A PHE 486 CZ   VS L TYR 32 CD1 
+Distance: 4.456419 - Hydrophobic, 
+4 - A PHE 486 CZ   VS L TYR 32 CE1 
+Distance: 3.718026 - Hydrophobic, 
+5 - A PHE 486 CB   VS L TYR 93 CD2 
+Distance: 3.613560 - Hydrophobic, 
+6 - A PHE 486 CB   VS L TYR 93 CE2 
+Distance: 3.589786 - Hydrophobic, 
+7 - A PHE 486 CG   VS L TYR 93 CG  
+Distance: 4.544850 - Aromatic Stacking, 
+8 - A PHE 486 CG   VS L TYR 93 CD2 
+Distance: 3.712496 - Hydrophobic, 
+9 - A PHE 486 CG   VS L TYR 93 CE2 
+Distance: 3.144693 - Hydrophobic, 
+10 - A PHE 486 CD1  VS L TYR 93 CD2 
+Distance: 4.091960 - Hydrophobic, 
+11 - A PHE 486 CD1  VS L TYR 93 CE2 
+Distance: 3.207840 - Hydrophobic, 
+12 - A PHE 486 CD2  VS L TYR 93 CD2 
+Distance: 4.081779 - Hydrophobic, 
+13 - A PHE 486 CD2  VS L TYR 93 CE2 
+Distance: 3.454424 - Hydrophobic, 
+14 - A PHE 486 CE1  VS L TYR 93 CE2 
+Distance: 3.615556 - Hydrophobic, 
+15 - A PHE 486 CE2  VS L TYR 93 CE2 
+Distance: 3.839208 - Hydrophobic, 
+16 - A PHE 486 CZ   VS L TYR 93 CE2 
+Distance: 3.914246 - Hydrophobic, 
+17 - A PHE 486 N    VS L SER 97 O   
+Distance: 3.212350 - Hydrogen Bonds, 

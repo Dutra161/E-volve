@@ -1,0 +1,109 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             04-DEC-20   7KXJ             
+SARS-COV-2 SPIKE PROTEIN IN COMPLEX WITH FAB 15033-7, 3-"UP",ASYMMETRIC:
+
+0 - C LEU 455 CB   VS J PHE 113 CE1 
+Distance: 4.281218 - Hydrophobic, 
+1 - C LEU 455 CB   VS J PHE 113 CE2 
+Distance: 4.365795 - Hydrophobic, 
+2 - C LEU 455 CB   VS J PHE 113 CZ  
+Distance: 3.782021 - Hydrophobic, 
+3 - C LEU 455 CG   VS J PHE 113 CE1 
+Distance: 4.475745 - Hydrophobic, 
+4 - C LEU 455 CG   VS J PHE 113 CE2 
+Distance: 4.365262 - Hydrophobic, 
+5 - C LEU 455 CG   VS J PHE 113 CZ  
+Distance: 4.122040 - Hydrophobic, 
+6 - C LEU 455 CD1  VS J PHE 113 CE2 
+Distance: 4.205210 - Hydrophobic, 
+7 - C LEU 455 CD1  VS J PHE 113 CZ  
+Distance: 4.428461 - Hydrophobic, 
+8 - C LEU 455 CD2  VS J PHE 113 CG  
+Distance: 4.219094 - Hydrophobic, 
+9 - C LEU 455 CD2  VS J PHE 113 CD1 
+Distance: 3.903473 - Hydrophobic, 
+10 - C LEU 455 CD2  VS J PHE 113 CD2 
+Distance: 4.245048 - Hydrophobic, 
+11 - C LEU 455 CD2  VS J PHE 113 CE1 
+Distance: 3.634835 - Hydrophobic, 
+12 - C LEU 455 CD2  VS J PHE 113 CE2 
+Distance: 3.985276 - Hydrophobic, 
+13 - C LEU 455 CD2  VS J PHE 113 CZ  
+Distance: 3.677030 - Hydrophobic, 
+14 - C GLU 484 CB   VS J TYR 110 CE1 
+Distance: 3.802335 - Hydrophobic, 
+15 - C GLU 484 CG   VS J TYR 110 CE1 
+Distance: 4.233727 - Hydrophobic, 
+16 - C GLU 484 OE1  VS J TYR 110 OH  
+Distance: 2.933038 - Hydrogen Bonds, 
+17 - C PHE 486 CB   VS J ALA 66 CB  
+Distance: 3.953897 - Hydrophobic, 
+18 - C PHE 486 CG   VS J ALA 66 CB  
+Distance: 3.500551 - Hydrophobic, 
+19 - C PHE 486 CD1  VS J ALA 66 CB  
+Distance: 4.073046 - Hydrophobic, 
+20 - C PHE 486 CD2  VS J ALA 66 CB  
+Distance: 3.301436 - Hydrophobic, 
+21 - C PHE 486 CE1  VS J ALA 66 CB  
+Distance: 4.432403 - Hydrophobic, 
+22 - C PHE 486 CE2  VS J ALA 66 CB  
+Distance: 3.696867 - Hydrophobic, 
+23 - C PHE 486 CZ   VS J ALA 66 CB  
+Distance: 4.261140 - Hydrophobic, 
+24 - C PHE 486 CD1  VS J TYR 110 CB  
+Distance: 4.276282 - Hydrophobic, 
+25 - C TYR 489 CB   VS J TYR 109 CB  
+Distance: 4.089956 - Hydrophobic, 
+26 - C TYR 489 CB   VS J TYR 109 CG  
+Distance: 4.206681 - Hydrophobic, 
+27 - C TYR 489 CB   VS J TYR 109 CD2 
+Distance: 3.798657 - Hydrophobic, 
+28 - C TYR 489 CG   VS J TYR 109 CB  
+Distance: 3.954656 - Hydrophobic, 
+29 - C TYR 489 CG   VS J TYR 109 CG  
+Distance: 4.086748 - Hydrophobic, 
+30 - C TYR 489 CG   VS J TYR 109 CG  
+Distance: 4.834559 - Aromatic Stacking, 
+31 - C TYR 489 CG   VS J TYR 109 CD2 
+Distance: 4.097367 - Hydrophobic, 
+32 - C TYR 489 CD1  VS J TYR 109 CB  
+Distance: 3.750689 - Hydrophobic, 
+33 - C TYR 489 CD1  VS J TYR 109 CG  
+Distance: 3.495082 - Hydrophobic, 
+34 - C TYR 489 CD1  VS J TYR 109 CD1 
+Distance: 3.877322 - Hydrophobic, 
+35 - C TYR 489 CD1  VS J TYR 109 CD2 
+Distance: 3.598690 - Hydrophobic, 
+36 - C TYR 489 CD1  VS J TYR 109 CE1 
+Distance: 4.298073 - Hydrophobic, 
+37 - C TYR 489 CD1  VS J TYR 109 CE2 
+Distance: 4.057960 - Hydrophobic, 
+38 - C TYR 489 CE1  VS J TYR 109 CB  
+Distance: 4.269339 - Hydrophobic, 
+39 - C TYR 489 CE1  VS J TYR 109 CG  
+Distance: 4.033620 - Hydrophobic, 
+40 - C TYR 489 CE1  VS J TYR 109 CD1 
+Distance: 4.019823 - Hydrophobic, 
+41 - C TYR 489 CE1  VS J TYR 109 CD2 
+Distance: 4.470987 - Hydrophobic, 
+42 - C TYR 489 CE1  VS J TYR 109 CE1 
+Distance: 4.408577 - Hydrophobic, 
+43 - C TYR 489 CB   VS J TYR 110 CG  
+Distance: 4.449500 - Hydrophobic, 
+44 - C TYR 489 CB   VS J TYR 110 CD1 
+Distance: 3.556765 - Hydrophobic, 
+45 - C TYR 489 CB   VS J TYR 110 CE1 
+Distance: 4.090674 - Hydrophobic, 
+46 - C TYR 489 OH   VS J GLY 111 O   
+Distance: 3.889335 - Hydrogen Bonds, 
+47 - C PHE 490 O    VS J TYR 109 OH  
+Distance: 3.403497 - Hydrogen Bonds, 
+48 - C PHE 490 CB   VS J TYR 109 CE2 
+Distance: 4.337818 - Hydrophobic, 
+49 - C LEU 492 O    VS J TYR 109 OH  
+Distance: 3.485723 - Hydrogen Bonds, 
+50 - C GLN 493 N    VS J TYR 109 OH  
+Distance: 3.820408 - Hydrogen Bonds, 
+51 - C GLN 493 CB   VS J TYR 109 CE1 
+Distance: 3.518402 - Hydrophobic, 
+52 - C GLN 493 CG   VS J PHE 113 CZ  
+Distance: 4.467418 - Hydrophobic, 

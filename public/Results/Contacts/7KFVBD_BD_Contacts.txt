@@ -1,0 +1,67 @@
+IMMUNE SYSTEM/VIRAL PROTEIN             15-OCT-20   7KFV             
+STRUCTURAL BASIS FOR A GERMLINE-BIASED ANTIBODY RESPONSE TO SARS-COV-(RBD:C1A-B12 FAB):
+
+0 - B ARG 403 NH1  VS D ILE 92 O   
+Distance: 2.795764 - Hydrogen Bonds, 
+1 - B ARG 403 NH2  VS D ILE 92 O   
+Distance: 2.872536 - Hydrogen Bonds, 
+2 - B LYS 417 NZ   VS D TYR 94 OH  
+Distance: 3.823515 - Hydrogen Bonds, 
+3 - B TYR 453 OH   VS D TYR 32 OH  
+Distance: 3.611123 - Hydrogen Bonds, 
+4 - B SER 494 O    VS D TYR 32 OH  
+Distance: 3.705447 - Hydrogen Bonds, 
+5 - B TYR 495 O    VS D TYR 32 OH  
+Distance: 3.449083 - Hydrogen Bonds, 
+6 - B GLY 496 O    VS D SER 30 OG A
+Distance: 2.941165 - Hydrogen Bonds, 
+7 - B GLN 498 NE2  VS D SER 30 OG A
+Distance: 2.884301 - Hydrogen Bonds, 
+8 - B GLN 498 OE1  VS D SER 67 OG  
+Distance: 3.494163 - Hydrogen Bonds, 
+9 - B GLN 498 NE2  VS D SER 67 OG  
+Distance: 2.759581 - Hydrogen Bonds, 
+10 - B GLN 498 OE1  VS D GLY 68 N   
+Distance: 3.888716 - Hydrogen Bonds, 
+11 - B THR 500 O    VS D GLY 28 N   
+Distance: 3.589310 - Hydrogen Bonds, 
+12 - B ASN 501 OD1  VS D SER 30 N  A
+Distance: 3.547183 - Hydrogen Bonds, 
+13 - B GLY 502 N    VS D GLY 28 O   
+Distance: 2.884845 - Hydrogen Bonds, 
+14 - B TYR 505 CE2  VS D ILE 2 CG1 
+Distance: 4.234120 - Hydrophobic, 
+15 - B TYR 505 CE2  VS D ILE 2 CD1 
+Distance: 3.947271 - Hydrophobic, 
+16 - B TYR 505 CE2  VS D ILE 29 CG2 
+Distance: 4.486630 - Hydrophobic, 
+17 - B TYR 505 CB   VS D ILE 92 CG1 
+Distance: 4.407871 - Hydrophobic, 
+18 - B TYR 505 CB   VS D ILE 92 CD1 
+Distance: 3.731790 - Hydrophobic, 
+19 - B TYR 505 CG   VS D ILE 92 CG1 
+Distance: 3.951797 - Hydrophobic, 
+20 - B TYR 505 CG   VS D ILE 92 CD1 
+Distance: 3.567638 - Hydrophobic, 
+21 - B TYR 505 CD1  VS D ILE 92 CG1 
+Distance: 3.828270 - Hydrophobic, 
+22 - B TYR 505 CD1  VS D ILE 92 CG2 
+Distance: 4.441837 - Hydrophobic, 
+23 - B TYR 505 CD1  VS D ILE 92 CD1 
+Distance: 3.984262 - Hydrophobic, 
+24 - B TYR 505 CD2  VS D ILE 92 CG1 
+Distance: 4.425072 - Hydrophobic, 
+25 - B TYR 505 CD2  VS D ILE 92 CG2 
+Distance: 4.416472 - Hydrophobic, 
+26 - B TYR 505 CD2  VS D ILE 92 CD1 
+Distance: 3.875400 - Hydrophobic, 
+27 - B TYR 505 CE1  VS D ILE 92 CG1 
+Distance: 4.200574 - Hydrophobic, 
+28 - B TYR 505 CE1  VS D ILE 92 CG2 
+Distance: 4.042877 - Hydrophobic, 
+29 - B TYR 505 CE2  VS D ILE 92 CG2 
+Distance: 3.979958 - Hydrophobic, 
+30 - B TYR 505 CE2  VS D ILE 92 CD1 
+Distance: 4.485032 - Hydrophobic, 
+31 - B TYR 505 OH   VS D SER 93 OG  
+Distance: 3.078612 - Hydrogen Bonds, 

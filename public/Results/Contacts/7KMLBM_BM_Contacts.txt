@@ -1,0 +1,61 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             03-NOV-20   7KML             
+CRYO-EM STRUCTURE OF SARS-COV-2 SPIKE IN COMPLEX WITH FAB 15033-7, THREE RBDS BOUND:
+
+0 - B ARG 403 NE   VS M ASP 66 OD1 
+Distance: 5.204860 - Attractive, 
+1 - B ARG 403 NE   VS M ASP 66 OD2 
+Distance: 4.730613 - Attractive, 
+2 - B ARG 403 CZ   VS M ASP 66 OD1 
+Distance: 4.133846 - Attractive, 
+3 - B ARG 403 CZ   VS M ASP 66 OD2 
+Distance: 3.404532 - Attractive, 
+4 - B ARG 403 NH1  VS M ASP 66 OD1 
+Distance: 4.045950 - Attractive, 
+5 - B ARG 403 NH1  VS M ASP 66 OD2 
+Distance: 3.031992 - Attractive, Hydrogen Bonds, 
+6 - B ARG 403 NH2  VS M ASP 66 OD1 
+Distance: 3.563797 - Attractive, Hydrogen Bonds, 
+7 - B ARG 403 NH2  VS M ASP 66 OD2 
+Distance: 2.870499 - Attractive, Hydrogen Bonds, 
+8 - B ASP 405 OD2  VS M ASP 66 OD1 
+Distance: 5.426102 - Repulsive, 
+9 - B GLU 406 OE2  VS M ASP 66 OD1 
+Distance: 5.249344 - Repulsive, 
+10 - B GLU 406 OE2  VS M ASP 66 OD2 
+Distance: 5.349385 - Repulsive, 
+11 - B LYS 417 NZ   VS M SER 56 O   
+Distance: 3.062371 - Hydrogen Bonds, 
+12 - B LYS 417 NZ   VS M ASP 66 OD1 
+Distance: 4.230852 - Attractive, 
+13 - B LYS 417 NZ   VS M ASP 66 OD2 
+Distance: 3.530286 - Attractive, Hydrogen Bonds, 
+14 - B TYR 421 OH   VS M ARG 80 NH1 
+Distance: 3.369256 - Hydrogen Bonds, 
+15 - B TYR 473 CG   VS M HIS 108 CG  
+Distance: 5.810143 - Aromatic Stacking, 
+16 - B TYR 473 OH   VS M HIS 108 NE2 
+Distance: 3.668171 - Hydrogen Bonds, 
+17 - B ALA 475 O    VS M THR 109 OG1 
+Distance: 2.954608 - Hydrogen Bonds, 
+18 - B PHE 486 CB   VS M TYR 114 CD1 
+Distance: 4.194114 - Hydrophobic, 
+19 - B PHE 486 CB   VS M TYR 114 CE1 
+Distance: 4.336190 - Hydrophobic, 
+20 - B PHE 486 CG   VS M TYR 114 CG  
+Distance: 4.790595 - Aromatic Stacking, 
+21 - B PHE 486 CG   VS M TYR 114 CE1 
+Distance: 4.357194 - Hydrophobic, 
+22 - B PHE 486 CD2  VS M TYR 114 CD1 
+Distance: 4.087258 - Hydrophobic, 
+23 - B PHE 486 CD2  VS M TYR 114 CD2 
+Distance: 4.432837 - Hydrophobic, 
+24 - B PHE 486 CD2  VS M TYR 114 CE1 
+Distance: 3.512540 - Hydrophobic, 
+25 - B PHE 486 CD2  VS M TYR 114 CE2 
+Distance: 3.894372 - Hydrophobic, 
+26 - B PHE 486 CE2  VS M TYR 114 CE1 
+Distance: 4.213806 - Hydrophobic, 
+27 - B PHE 486 CE2  VS M TYR 114 CE2 
+Distance: 4.077675 - Hydrophobic, 
+28 - B ASN 487 OD1  VS M TYR 114 N   
+Distance: 2.838632 - Hydrogen Bonds, 

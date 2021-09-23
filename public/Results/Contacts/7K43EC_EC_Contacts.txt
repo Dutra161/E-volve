@@ -1,0 +1,67 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             14-SEP-20   7K43             
+SARS-COV-2 SPIKE IN COMPLEX WITH THE S2M11 NEUTRALIZING ANTIBODY FAB FRAGMENT:
+
+0 - C TYR 103 CD2  VS E ALA 372 CB  
+Distance: 3.696441 - Hydrophobic, 
+1 - C TYR 103 CE2  VS E ALA 372 CB  
+Distance: 3.861360 - Hydrophobic, 
+2 - C ASP 104 OD1  VS E SER 373 OG  
+Distance: 3.455125 - Hydrogen Bonds, 
+3 - C PHE 105 CG   VS E PHE 342 CG  
+Distance: 5.731909 - Aromatic Stacking, 
+4 - C PHE 105 CE2  VS E PHE 342 CB  
+Distance: 3.632296 - Hydrophobic, 
+5 - C PHE 105 CE2  VS E PHE 342 CG  
+Distance: 4.166322 - Hydrophobic, 
+6 - C PHE 105 CZ   VS E PHE 342 CB  
+Distance: 4.107814 - Hydrophobic, 
+7 - C PHE 105 CZ   VS E PHE 342 CG  
+Distance: 4.283628 - Hydrophobic, 
+8 - C PHE 105 CE1  VS E VAL 367 CG1 
+Distance: 4.283522 - Hydrophobic, 
+9 - C PHE 105 CE1  VS E LEU 368 CD2 
+Distance: 3.723927 - Hydrophobic, 
+10 - C PHE 105 CZ   VS E LEU 368 CD2 
+Distance: 3.653629 - Hydrophobic, 
+11 - C PHE 105 N    VS E SER 373 OG  
+Distance: 3.020215 - Hydrogen Bonds, 
+12 - C PHE 105 CG   VS E PHE 374 CG  
+Distance: 5.025034 - Aromatic Stacking, 
+13 - C PHE 105 CG   VS E PHE 374 CE1 
+Distance: 4.481340 - Hydrophobic, 
+14 - C PHE 105 CG   VS E PHE 374 CZ  
+Distance: 4.052733 - Hydrophobic, 
+15 - C PHE 105 CD1  VS E PHE 374 CE1 
+Distance: 4.180064 - Hydrophobic, 
+16 - C PHE 105 CD1  VS E PHE 374 CZ  
+Distance: 4.078124 - Hydrophobic, 
+17 - C PHE 105 CD2  VS E PHE 374 CZ  
+Distance: 4.038773 - Hydrophobic, 
+18 - C PHE 105 CE1  VS E PHE 374 CE1 
+Distance: 4.261821 - Hydrophobic, 
+19 - C PHE 105 CE1  VS E PHE 374 CZ  
+Distance: 4.099436 - Hydrophobic, 
+20 - C PHE 105 CE2  VS E PHE 374 CZ  
+Distance: 4.062714 - Hydrophobic, 
+21 - C PHE 105 CZ   VS E PHE 374 CZ  
+Distance: 4.092765 - Hydrophobic, 
+22 - C TRP 106 NE1  VS E PHE 342 O   
+Distance: 3.249264 - Hydrogen Bonds, 
+23 - C TRP 106 CZ2  VS E PHE 374 CE2 
+Distance: 4.188446 - Hydrophobic, 
+24 - C TRP 106 CH2  VS E PHE 374 CE2 
+Distance: 4.005963 - Hydrophobic, 
+25 - C TRP 106 CG   VS E TRP 436 CG  
+Distance: 5.451143 - Aromatic Stacking, 
+26 - C TRP 106 CZ2  VS E TRP 436 CG  
+Distance: 4.287881 - Hydrophobic, 
+27 - C TRP 106 CZ2  VS E TRP 436 CD2 
+Distance: 4.067959 - Hydrophobic, 
+28 - C TRP 106 CZ2  VS E TRP 436 CZ2 
+Distance: 3.825125 - Hydrophobic, 
+29 - C TRP 106 CH2  VS E TRP 436 CG  
+Distance: 3.733678 - Hydrophobic, 
+30 - C TRP 106 CH2  VS E TRP 436 CD2 
+Distance: 3.939805 - Hydrophobic, 
+31 - C TRP 106 CH2  VS E TRP 436 CZ2 
+Distance: 4.468848 - Hydrophobic, 

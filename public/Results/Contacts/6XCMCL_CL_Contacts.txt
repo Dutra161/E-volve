@@ -1,0 +1,15 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             08-JUN-20   6XCM             
+STRUCTURE OF THE SARS-COV-2 SPIKE GLYCOPROTEIN IN COMPLEX WITH THE C105 NEUTRALIZING ANTIBODY FAB FRAGMENT (STATE 1):
+
+0 - C ASN 501 ND2  VS L GLY 29 O   
+Distance: 3.302447 - Hydrogen Bonds, 
+1 - C GLY 502 N    VS L GLY 28 O   
+Distance: 3.412591 - Hydrogen Bonds, 
+2 - C GLY 502 N    VS L GLY 29 O   
+Distance: 3.462266 - Hydrogen Bonds, 
+3 - C TYR 505 CD1  VS L TYR 30 CB  
+Distance: 4.038850 - Hydrophobic, 
+4 - C TYR 505 CE1  VS L TYR 30 CB  
+Distance: 3.417026 - Hydrophobic, 
+5 - C TYR 505 CE2  VS L TYR 30 CB  
+Distance: 4.061401 - Hydrophobic, 

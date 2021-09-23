@@ -1,0 +1,137 @@
+VIRAL PROTEIN                           31-AUG-20   7CWS             
+SARS-COV-2 SPIKE PROTEINS TRIMER IN COMPLEX WITH FC05 AND H014 FABSCOCKTAIL:
+
+0 - N GLU 1 O    VS O SER 256 N   
+Distance: 3.591350 - Hydrogen Bonds, 
+1 - N GLY 27 O    VS O ARG 246 NH1 
+Distance: 2.879782 - Hydrogen Bonds, 
+2 - N GLY 27 O    VS O SER 256 OG  
+Distance: 3.689153 - Hydrogen Bonds, 
+3 - N TYR 28 CE1  VS O ARG 246 CB  
+Distance: 4.420906 - Hydrophobic, 
+4 - N TYR 28 CE1  VS O ARG 246 CG  
+Distance: 4.415776 - Hydrophobic, 
+5 - N TYR 28 OH   VS O SER 247 O   
+Distance: 3.048807 - Hydrogen Bonds, 
+6 - N TYR 28 CG   VS O TYR 248 CG  
+Distance: 5.129386 - Aromatic Stacking, 
+7 - N TYR 28 CD2  VS O TYR 248 CE1 
+Distance: 4.155963 - Hydrophobic, 
+8 - N TYR 28 CE1  VS O TYR 248 CE1 
+Distance: 4.069136 - Hydrophobic, 
+9 - N TYR 28 CE2  VS O TYR 248 CD1 
+Distance: 3.936846 - Hydrophobic, 
+10 - N TYR 28 CE2  VS O TYR 248 CE1 
+Distance: 3.496756 - Hydrophobic, 
+11 - N THR 29 CG2  VS O TYR 144 CG  
+Distance: 4.467223 - Hydrophobic, 
+12 - N THR 29 CG2  VS O TYR 144 CD1 
+Distance: 4.284400 - Hydrophobic, 
+13 - N PRO 31 O    VS O LYS 147 N   
+Distance: 3.759153 - Hydrogen Bonds, 
+14 - N GLU 32 CB   VS O TYR 144 CB  
+Distance: 4.385845 - Hydrophobic, 
+15 - N GLU 32 N    VS O TYR 145 O   
+Distance: 3.782207 - Hydrogen Bonds, 
+16 - N GLU 32 OE1  VS O ARG 246 NE  
+Distance: 4.841906 - Attractive, 
+17 - N GLU 32 OE1  VS O ARG 246 CZ  
+Distance: 4.724555 - Attractive, 
+18 - N GLU 32 OE1  VS O ARG 246 NH1 
+Distance: 4.250762 - Attractive, 
+19 - N GLU 32 OE1  VS O ARG 246 NH2 
+Distance: 5.544846 - Attractive, 
+20 - N GLU 32 OE2  VS O ARG 246 NE  
+Distance: 4.896105 - Attractive, 
+21 - N GLU 32 OE2  VS O ARG 246 CZ  
+Distance: 4.255426 - Attractive, 
+22 - N GLU 32 OE2  VS O ARG 246 NH1 
+Distance: 3.305921 - Attractive, Hydrogen Bonds, 
+23 - N GLU 32 OE2  VS O ARG 246 NH2 
+Distance: 4.971432 - Attractive, 
+24 - N GLU 32 O    VS O TYR 248 OH  
+Distance: 3.170748 - Hydrogen Bonds, 
+25 - N GLU 32 OE1  VS O TYR 248 OH  
+Distance: 3.585563 - Hydrogen Bonds, 
+26 - N VAL 33 O    VS O LYS 147 NZ  
+Distance: 3.876628 - Hydrogen Bonds, 
+27 - N VAL 33 CB   VS O TYR 248 CE1 
+Distance: 4.382811 - Hydrophobic, 
+28 - N VAL 33 CG2  VS O TYR 248 CE1 
+Distance: 4.382081 - Hydrophobic, 
+29 - N PHE 52 CD2  VS O LYS 147 CD  
+Distance: 4.352833 - Hydrophobic, 
+30 - N PHE 52 CE1  VS O LYS 147 CD  
+Distance: 4.323304 - Hydrophobic, 
+31 - N PHE 52 CE2  VS O LYS 147 CG  
+Distance: 4.131562 - Hydrophobic, 
+32 - N PHE 52 CE2  VS O LYS 147 CD  
+Distance: 3.938499 - Hydrophobic, 
+33 - N PHE 52 CZ   VS O LYS 147 CG  
+Distance: 3.905411 - Hydrophobic, 
+34 - N PHE 52 CZ   VS O LYS 147 CD  
+Distance: 3.927453 - Hydrophobic, 
+35 - N GLU 55 OE1  VS O LYS 150 NZ  
+Distance: 5.847101 - Attractive, 
+36 - N GLU 55 OE2  VS O LYS 150 NZ  
+Distance: 5.973531 - Attractive, 
+37 - N GLU 73 OE1  VS O LYS 147 NZ  
+Distance: 5.500940 - Attractive, 
+38 - N GLU 73 OE2  VS O LYS 147 NZ  
+Distance: 4.672500 - Attractive, 
+39 - N THR 101 CG2  VS O TYR 248 CB  
+Distance: 4.410912 - Hydrophobic, 
+40 - N PRO 102 CB   VS O TYR 145 CE2 
+Distance: 3.925810 - Hydrophobic, 
+41 - N PRO 102 CG   VS O TYR 145 CD2 
+Distance: 3.938456 - Hydrophobic, 
+42 - N PRO 102 CG   VS O TYR 145 CE2 
+Distance: 3.670603 - Hydrophobic, 
+43 - N PRO 102 CB   VS O LYS 147 CG  
+Distance: 4.028208 - Hydrophobic, 
+44 - N PRO 102 CB   VS O LYS 147 CD  
+Distance: 4.066356 - Hydrophobic, 
+45 - N PRO 102 CG   VS O LYS 147 CB  
+Distance: 4.424342 - Hydrophobic, 
+46 - N PRO 102 CG   VS O LYS 147 CG  
+Distance: 3.992256 - Hydrophobic, 
+47 - N PRO 102 CG   VS O LYS 147 CD  
+Distance: 3.863553 - Hydrophobic, 
+48 - N PHE 103 CB   VS O TYR 145 CG  
+Distance: 4.418520 - Hydrophobic, 
+49 - N PHE 103 CB   VS O TYR 145 CD2 
+Distance: 4.067200 - Hydrophobic, 
+50 - N PHE 103 CB   VS O TYR 145 CE2 
+Distance: 4.058069 - Hydrophobic, 
+51 - N PHE 103 CG   VS O TYR 145 CG  
+Distance: 5.074098 - Aromatic Stacking, 
+52 - N PHE 103 CD2  VS O TYR 145 CG  
+Distance: 4.248254 - Hydrophobic, 
+53 - N PHE 103 CD2  VS O TYR 145 CD1 
+Distance: 3.758818 - Hydrophobic, 
+54 - N PHE 103 CD2  VS O TYR 145 CD2 
+Distance: 4.491011 - Hydrophobic, 
+55 - N PHE 103 CD2  VS O TYR 145 CE1 
+Distance: 3.573081 - Hydrophobic, 
+56 - N PHE 103 CD2  VS O TYR 145 CE2 
+Distance: 4.339904 - Hydrophobic, 
+57 - N PHE 103 CE2  VS O TYR 145 CD1 
+Distance: 4.354199 - Hydrophobic, 
+58 - N PHE 103 CE2  VS O TYR 145 CE1 
+Distance: 4.193896 - Hydrophobic, 
+59 - N PHE 103 CG   VS O TRP 152 CG  
+Distance: 5.135444 - Aromatic Stacking, 
+60 - N PHE 103 CG   VS O TRP 152 CZ2 
+Distance: 4.422042 - Hydrophobic, 
+61 - N PHE 103 CD1  VS O TRP 152 CZ2 
+Distance: 4.228938 - Hydrophobic, 
+62 - N PHE 103 CD2  VS O TRP 152 CZ2 
+Distance: 4.234261 - Hydrophobic, 
+63 - N PHE 103 CE1  VS O TRP 152 CZ2 
+Distance: 3.844983 - Hydrophobic, 
+64 - N PHE 103 CE2  VS O TRP 152 CZ2 
+Distance: 3.851016 - Hydrophobic, 
+65 - N PHE 103 CZ   VS O TRP 152 CZ2 
+Distance: 3.645662 - Hydrophobic, 
+66 - N ASP 110 CB   VS O LEU 249 CD1 
+Distance: 4.049053 - Hydrophobic, 

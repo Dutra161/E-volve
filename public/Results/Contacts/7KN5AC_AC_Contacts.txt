@@ -1,0 +1,119 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             04-NOV-20   7KN5             
+CRYSTAL STRUCTURE OF SARS-COV-2 RECEPTOR BINDING DOMAIN COMPLEXED WITNANOBODIES VHH E AND U:
+
+0 - A ARG 403 NH2  VS C ASP 101 OD1 
+Distance: 5.623778 - Attractive, 
+1 - A LYS 444 NZ   VS C ASP 30 OD1 
+Distance: 5.717669 - Attractive, 
+2 - A LYS 444 NZ   VS C ASP 30 OD2 
+Distance: 3.831950 - Attractive, Hydrogen Bonds, 
+3 - A GLY 446 O    VS C ASP 30 N   
+Distance: 2.837379 - Hydrogen Bonds, 
+4 - A TYR 449 OH   VS C ASP 30 N   
+Distance: 3.579474 - Hydrogen Bonds, 
+5 - A TYR 449 CG   VS C TYR 31 CG  
+Distance: 5.360292 - Aromatic Stacking, 
+6 - A TYR 449 CD1  VS C TYR 31 CD2 
+Distance: 4.060864 - Hydrophobic, 
+7 - A TYR 449 CE1  VS C TYR 31 CB  
+Distance: 4.410482 - Hydrophobic, 
+8 - A TYR 449 CE1  VS C TYR 31 CD2 
+Distance: 3.688197 - Hydrophobic, 
+9 - A TYR 449 CE2  VS C TYR 31 CB  
+Distance: 3.833826 - Hydrophobic, 
+10 - A TYR 449 CE2  VS C TYR 31 CD2 
+Distance: 4.402437 - Hydrophobic, 
+11 - A TYR 449 OH   VS C TYR 31 N   
+Distance: 2.878021 - Hydrogen Bonds, 
+12 - A TYR 449 OH   VS C TYR 31 O   
+Distance: 2.661609 - Hydrogen Bonds, 
+13 - A TYR 449 CD2  VS C VAL 96 CG2 
+Distance: 4.340462 - Hydrophobic, 
+14 - A TYR 449 CE2  VS C VAL 96 CG2 
+Distance: 3.507722 - Hydrophobic, 
+15 - A TYR 449 CB   VS C TYR 99 CB  
+Distance: 3.730001 - Hydrophobic, 
+16 - A LEU 452 CD2  VS C THR 98 CG2 
+Distance: 4.128164 - Hydrophobic, 
+17 - A LEU 452 CD1  VS C TYR 100 CB  
+Distance: 4.178404 - Hydrophobic, 
+18 - A LEU 452 CD1  VS C TYR 100 CG  
+Distance: 4.388782 - Hydrophobic, 
+19 - A LEU 452 CD1  VS C TYR 100 CD1 
+Distance: 3.695039 - Hydrophobic, 
+20 - A THR 470 CG2  VS C TYR 100 CE1 
+Distance: 4.388092 - Hydrophobic, 
+21 - A THR 470 CG2  VS C TYR 100 CE2 
+Distance: 3.859140 - Hydrophobic, 
+22 - A GLU 484 OE1  VS C ARG 56 NH1 
+Distance: 5.934723 - Attractive, 
+23 - A PHE 486 CE1  VS C PHE 37 CE2 
+Distance: 4.478552 - Hydrophobic, 
+24 - A PHE 486 CZ   VS C CYS 50 CB  
+Distance: 4.306260 - Hydrophobic, 
+25 - A PHE 486 CG   VS C TYR 58 CG  
+Distance: 4.899422 - Aromatic Stacking, 
+26 - A PHE 486 CG   VS C TYR 58 CD1 
+Distance: 4.383577 - Hydrophobic, 
+27 - A PHE 486 CG   VS C TYR 58 CE1 
+Distance: 3.884160 - Hydrophobic, 
+28 - A PHE 486 CD1  VS C TYR 58 CE1 
+Distance: 3.977099 - Hydrophobic, 
+29 - A PHE 486 CD2  VS C TYR 58 CD1 
+Distance: 3.749443 - Hydrophobic, 
+30 - A PHE 486 CD2  VS C TYR 58 CE1 
+Distance: 3.657221 - Hydrophobic, 
+31 - A PHE 486 CE1  VS C TYR 58 CE1 
+Distance: 3.908527 - Hydrophobic, 
+32 - A PHE 486 CE2  VS C TYR 58 CD1 
+Distance: 3.700874 - Hydrophobic, 
+33 - A PHE 486 CE2  VS C TYR 58 CE1 
+Distance: 3.631385 - Hydrophobic, 
+34 - A PHE 486 CZ   VS C TYR 58 CD1 
+Distance: 4.220008 - Hydrophobic, 
+35 - A PHE 486 CZ   VS C TYR 58 CE1 
+Distance: 3.743088 - Hydrophobic, 
+36 - A PHE 490 CE2  VS C THR 98 CG2 
+Distance: 4.321129 - Hydrophobic, 
+37 - A PHE 490 CE1  VS C TYR 100 CD2 
+Distance: 4.394945 - Hydrophobic, 
+38 - A PHE 490 CE2  VS C TYR 100 CB  
+Distance: 4.187006 - Hydrophobic, 
+39 - A PHE 490 CE2  VS C TYR 100 CG  
+Distance: 4.435371 - Hydrophobic, 
+40 - A PHE 490 CZ   VS C TYR 100 CB  
+Distance: 4.069361 - Hydrophobic, 
+41 - A PHE 490 CZ   VS C TYR 100 CG  
+Distance: 3.936013 - Hydrophobic, 
+42 - A PHE 490 CZ   VS C TYR 100 CD2 
+Distance: 3.655682 - Hydrophobic, 
+43 - A PHE 490 CZ   VS C TYR 100 CE2 
+Distance: 4.307999 - Hydrophobic, 
+44 - A LEU 492 O    VS C THR 98 OG1 
+Distance: 3.788607 - Hydrogen Bonds, 
+45 - A LEU 492 CD1  VS C TYR 100 CD1 
+Distance: 3.933349 - Hydrophobic, 
+46 - A LEU 492 CD1  VS C TYR 100 CE1 
+Distance: 3.924259 - Hydrophobic, 
+47 - A GLN 493 NE2  VS C VAL 96 O   
+Distance: 2.986592 - Hydrogen Bonds, 
+48 - A GLN 493 NE2  VS C GLY 97 O   
+Distance: 3.362522 - Hydrogen Bonds, 
+49 - A GLN 493 OE1  VS C THR 98 OG1 
+Distance: 3.594600 - Hydrogen Bonds, 
+50 - A GLN 493 NE2  VS C THR 98 OG1 
+Distance: 3.240668 - Hydrogen Bonds, 
+51 - A SER 494 N    VS C THR 98 OG1 
+Distance: 2.997501 - Hydrogen Bonds, 
+52 - A SER 494 OG   VS C TYR 99 N   
+Distance: 3.035440 - Hydrogen Bonds, 
+53 - A SER 494 OG   VS C TYR 99 O   
+Distance: 3.857013 - Hydrogen Bonds, 
+54 - A GLN 498 OE1  VS C THR 28 OG1 
+Distance: 2.715530 - Hydrogen Bonds, 
+55 - A GLN 498 NE2  VS C THR 28 OG1 
+Distance: 3.746189 - Hydrogen Bonds, 
+56 - A GLN 498 CG   VS C LEU 29 CD2 
+Distance: 4.045281 - Hydrophobic, 
+57 - A GLN 498 OE1  VS C LEU 29 N   
+Distance: 3.792984 - Hydrogen Bonds, 

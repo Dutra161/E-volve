@@ -1,0 +1,109 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             30-OCT-20   7KLG             
+SARS-COV-2 RBD IN COMPLEX WITH FAB 15033:
+
+0 - L SER 36 OG   VS A TYR 421 OH  
+Distance: 3.848074 - Hydrogen Bonds, 
+1 - L SER 37 N    VS A TYR 421 OH  
+Distance: 3.463514 - Hydrogen Bonds, 
+2 - L SER 37 OG   VS A TYR 421 OH  
+Distance: 3.126838 - Hydrogen Bonds, 
+3 - L TYR 55 OH   VS A TYR 505 OH  
+Distance: 3.470039 - Hydrogen Bonds, 
+4 - L ASP 66 OD1  VS A ARG 403 NE  
+Distance: 5.620955 - Attractive, 
+5 - L ASP 66 OD1  VS A ARG 403 CZ  
+Distance: 4.930980 - Attractive, 
+6 - L ASP 66 OD1  VS A ARG 403 NH1 
+Distance: 5.750581 - Attractive, 
+7 - L ASP 66 OD1  VS A ARG 403 NH2 
+Distance: 3.670641 - Attractive, Hydrogen Bonds, 
+8 - L ASP 66 OD2  VS A ARG 403 NE  
+Distance: 4.383819 - Attractive, 
+9 - L ASP 66 OD2  VS A ARG 403 CZ  
+Distance: 4.051919 - Attractive, 
+10 - L ASP 66 OD2  VS A ARG 403 NH1 
+Distance: 5.180612 - Attractive, 
+11 - L ASP 66 OD2  VS A ARG 403 NH2 
+Distance: 2.896363 - Attractive, Hydrogen Bonds, 
+12 - L ASP 66 OD1  VS A GLU 406 OE2 
+Distance: 4.669589 - Repulsive, 
+13 - L ASP 66 OD2  VS A GLU 406 OE2 
+Distance: 4.349687 - Repulsive, 
+14 - L ASP 66 OD1  VS A LYS 417 NZ  
+Distance: 4.262746 - Attractive, 
+15 - L ASP 66 OD2  VS A LYS 417 NZ  
+Distance: 2.766198 - Attractive, Hydrogen Bonds, 
+16 - L LEU 67 O    VS A TYR 505 OH  
+Distance: 2.289511 - Hydrogen Bonds, 
+17 - L ARG 80 NE   VS A ASP 420 OD1 
+Distance: 5.080903 - Attractive, 
+18 - L ARG 80 CZ   VS A ASP 420 OD1 
+Distance: 4.095464 - Attractive, 
+19 - L ARG 80 CZ   VS A ASP 420 OD2 
+Distance: 5.644220 - Attractive, 
+20 - L ARG 80 NH1  VS A ASP 420 OD1 
+Distance: 4.687296 - Attractive, 
+21 - L ARG 80 NH1  VS A ASP 420 OD2 
+Distance: 5.886028 - Attractive, 
+22 - L ARG 80 NH2  VS A ASP 420 OD1 
+Distance: 2.807556 - Attractive, Hydrogen Bonds, 
+23 - L ARG 80 NH2  VS A ASP 420 OD2 
+Distance: 4.495265 - Attractive, 
+24 - L ARG 80 NH1  VS A TYR 421 OH  
+Distance: 3.663653 - Hydrogen Bonds, 
+25 - L ARG 80 NH1  VS A ASN 460 OD1 
+Distance: 3.596263 - Hydrogen Bonds, 
+26 - L SER 107 O    VS A TYR 489 OH  
+Distance: 3.683628 - Hydrogen Bonds, 
+27 - L TYR 108 OH   VS A LYS 458 NZ  
+Distance: 3.305573 - Hydrogen Bonds, 
+28 - L TYR 108 CG   VS A TYR 473 CG  
+Distance: 5.976737 - Aromatic Stacking, 
+29 - L TYR 108 CE1  VS A TYR 473 CD2 
+Distance: 4.406491 - Hydrophobic, 
+30 - L TYR 108 CE1  VS A TYR 473 CE2 
+Distance: 3.450173 - Hydrophobic, 
+31 - L TYR 108 OH   VS A TYR 473 OH  
+Distance: 3.196845 - Hydrogen Bonds, 
+32 - L TYR 108 CG   VS A ALA 475 CB  
+Distance: 4.192626 - Hydrophobic, 
+33 - L TYR 108 CD1  VS A ALA 475 CB  
+Distance: 4.137435 - Hydrophobic, 
+34 - L TYR 108 CD2  VS A ALA 475 CB  
+Distance: 3.874257 - Hydrophobic, 
+35 - L TYR 108 CE1  VS A ALA 475 CB  
+Distance: 3.795785 - Hydrophobic, 
+36 - L TYR 108 CE2  VS A ALA 475 CB  
+Distance: 3.503272 - Hydrophobic, 
+37 - L TYR 108 O    VS A TYR 489 OH  
+Distance: 2.655344 - Hydrogen Bonds, 
+38 - L ARG 109 NH1  VS A SER 477 OG  
+Distance: 3.839663 - Hydrogen Bonds, 
+39 - L ARG 109 NH2  VS A SER 477 OG  
+Distance: 2.539541 - Hydrogen Bonds, 
+40 - L TYR 114 CG   VS A PHE 486 CG  
+Distance: 4.626723 - Aromatic Stacking, 
+41 - L TYR 114 CG   VS A PHE 486 CD1 
+Distance: 4.272267 - Hydrophobic, 
+42 - L TYR 114 CD1  VS A PHE 486 CB  
+Distance: 4.278582 - Hydrophobic, 
+43 - L TYR 114 CD1  VS A PHE 486 CD1 
+Distance: 3.984331 - Hydrophobic, 
+44 - L TYR 114 CD2  VS A PHE 486 CD1 
+Distance: 4.062191 - Hydrophobic, 
+45 - L TYR 114 CD2  VS A PHE 486 CE1 
+Distance: 4.472923 - Hydrophobic, 
+46 - L TYR 114 CE1  VS A PHE 486 CB  
+Distance: 4.449461 - Hydrophobic, 
+47 - L TYR 114 CE1  VS A PHE 486 CG  
+Distance: 4.393046 - Hydrophobic, 
+48 - L TYR 114 CE1  VS A PHE 486 CD1 
+Distance: 3.467313 - Hydrophobic, 
+49 - L TYR 114 CE1  VS A PHE 486 CE1 
+Distance: 4.181755 - Hydrophobic, 
+50 - L TYR 114 CE2  VS A PHE 486 CD1 
+Distance: 3.559707 - Hydrophobic, 
+51 - L TYR 114 CE2  VS A PHE 486 CE1 
+Distance: 3.669086 - Hydrophobic, 
+52 - L TYR 114 N    VS A ASN 487 OD1 
+Distance: 2.853873 - Hydrogen Bonds, 

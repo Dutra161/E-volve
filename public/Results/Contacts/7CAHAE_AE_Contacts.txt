@@ -1,0 +1,51 @@
+VIRAL PROTEIN                           08-JUN-20   7CAH             
+THE INTERFACE OF H014 FAB BINDS TO SARS-COV-2 S:
+
+0 - E TYR 33 OH   VS A LYS 378 NZ  
+Distance: 3.048135 - Hydrogen Bonds, 
+1 - E TYR 50 OH   VS A LYS 378 NZ  
+Distance: 3.575546 - Hydrogen Bonds, 
+2 - E PHE 54 CE2  VS A PRO 412 CB  
+Distance: 4.241774 - Hydrophobic, 
+3 - E ASN 55 CB   VS A TYR 380 CD1 
+Distance: 4.199958 - Hydrophobic, 
+4 - E ASN 55 CB   VS A TYR 380 CE1 
+Distance: 4.272397 - Hydrophobic, 
+5 - E ASN 55 CB   VS A PRO 412 CG  
+Distance: 4.058202 - Hydrophobic, 
+6 - E THR 58 N    VS A CYS 379 O   
+Distance: 3.715985 - Hydrogen Bonds, 
+7 - E THR 58 OG1  VS A CYS 379 O   
+Distance: 3.520468 - Hydrogen Bonds, 
+8 - E SER 59 OG   VS A PHE 377 O   
+Distance: 3.391476 - Hydrogen Bonds, 
+9 - E LEU 62 CD2  VS A PRO 384 CB  
+Distance: 4.372409 - Hydrophobic, 
+10 - E LYS 65 CG   VS A THR 385 CG2 
+Distance: 4.088898 - Hydrophobic, 
+11 - E LYS 65 CD   VS A THR 385 CG2 
+Distance: 3.583835 - Hydrophobic, 
+12 - E GLU 100 OE1  VS A ARG 408 NH2 
+Distance: 5.472995 - Attractive, 
+13 - E ASP 102 OD1  VS A LYS 378 NZ  
+Distance: 3.885628 - Attractive, Hydrogen Bonds, 
+14 - E ASP 102 OD2  VS A LYS 378 NZ  
+Distance: 4.734995 - Attractive, 
+15 - E ASP 102 CB   VS A ARG 408 CB  
+Distance: 3.879794 - Hydrophobic, 
+16 - E ASP 102 OD2  VS A ARG 408 N   
+Distance: 2.987039 - Hydrogen Bonds, 
+17 - E ASP 102 OD2  VS A ARG 408 NE  
+Distance: 5.976494 - Attractive, 
+18 - E PRO 103 CG   VS A VAL 407 CG2 
+Distance: 3.837281 - Hydrophobic, 
+19 - E TYR 104 OH   VS A ASP 405 OD1 
+Distance: 3.325053 - Hydrogen Bonds, 
+20 - E TYR 104 OH   VS A ASP 405 OD2 
+Distance: 3.411677 - Hydrogen Bonds, 
+21 - E TYR 104 CE1  VS A VAL 503 CG2 
+Distance: 3.494502 - Hydrophobic, 
+22 - E TYR 104 OH   VS A GLY 504 N   
+Distance: 3.252868 - Hydrogen Bonds, 
+23 - E TYR 105 OH   VS A THR 376 OG1 
+Distance: 3.005612 - Hydrogen Bonds, 

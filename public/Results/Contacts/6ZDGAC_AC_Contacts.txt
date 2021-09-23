@@ -1,0 +1,21 @@
+VIRAL PROTEIN                           14-JUN-20   6ZDG             
+ASSOCIATION OF THREE COMPLEXES OF LARGELY STRUCTURALLY DISORDEREDSPIKE ECTODOMAIN WITH BOUND EY6A FAB:
+
+0 - A LYS 378 NZ   VS C ASP 1 OD2 
+Distance: 5.714776 - Attractive, 
+1 - A CYS 379 CB   VS C LEU 95 CD1 
+Distance: 4.082422 - Hydrophobic, 
+2 - A TYR 380 CB   VS C TYR 92 CE2 
+Distance: 4.218087 - Hydrophobic, 
+3 - A GLY 381 N    VS C TYR 92 O   
+Distance: 3.461895 - Hydrogen Bonds, 
+4 - A SER 383 OG   VS C THR 94 OG1 
+Distance: 3.526839 - Hydrogen Bonds, 
+5 - A PRO 384 CG   VS C LEU 95 CD1 
+Distance: 4.194690 - Hydrophobic, 
+6 - A PRO 384 CG   VS C LEU 95 CD2 
+Distance: 4.110132 - Hydrophobic, 
+7 - A PHE 429 N    VS C TYR 92 OH  
+Distance: 3.532881 - Hydrogen Bonds, 
+8 - A PHE 429 O    VS C TYR 92 OH  
+Distance: 3.162354 - Hydrogen Bonds, 

@@ -1,0 +1,113 @@
+IMMUNE SYSTEM/VIRAL PROTEIN             02-NOV-20   7KMG             
+LY-COV555 NEUTRALIZING ANTIBODY AGAINST SARS-COV-2:
+
+0 - D ASN 31 CB   VS F TYR 449 CG  
+Distance: 4.415598 - Hydrophobic, 
+1 - D ASN 31 CB   VS F TYR 449 CD1 
+Distance: 4.056123 - Hydrophobic, 
+2 - D ASN 31 CB   VS F TYR 449 CE1 
+Distance: 4.349533 - Hydrophobic, 
+3 - D TRP 47 CH2  VS F VAL 483 CG1 
+Distance: 4.304985 - Hydrophobic, 
+4 - D TRP 47 CH2  VS F VAL 483 CG2 
+Distance: 4.047634 - Hydrophobic, 
+5 - D ARG 50 NH2  VS F GLY 482 O   
+Distance: 2.977832 - Hydrogen Bonds, 
+6 - D ARG 50 NE   VS F GLU 484 OE1 
+Distance: 3.191420 - Attractive, Hydrogen Bonds, 
+7 - D ARG 50 NE   VS F GLU 484 OE2 
+Distance: 2.805581 - Attractive, Hydrogen Bonds, 
+8 - D ARG 50 CZ   VS F GLU 484 OE1 
+Distance: 3.433210 - Attractive, 
+9 - D ARG 50 CZ   VS F GLU 484 OE2 
+Distance: 3.813008 - Attractive, 
+10 - D ARG 50 NH1  VS F GLU 484 OE1 
+Distance: 4.737756 - Attractive, 
+11 - D ARG 50 NH1  VS F GLU 484 OE2 
+Distance: 5.039188 - Attractive, 
+12 - D ARG 50 NH2  VS F GLU 484 OE1 
+Distance: 2.814583 - Attractive, Hydrogen Bonds, 
+13 - D ARG 50 NH2  VS F GLU 484 OE2 
+Distance: 3.944866 - Attractive, 
+14 - D ILE 52 CG1  VS F PHE 490 CE1 
+Distance: 4.492175 - Hydrophobic, 
+15 - D ILE 52 CG2  VS F PHE 490 CZ  
+Distance: 4.281294 - Hydrophobic, 
+16 - D ILE 52 CD1  VS F PHE 490 CD1 
+Distance: 3.788315 - Hydrophobic, 
+17 - D ILE 52 CD1  VS F PHE 490 CE1 
+Distance: 3.425640 - Hydrophobic, 
+18 - D ILE 52 CD1  VS F PHE 490 CZ  
+Distance: 4.030852 - Hydrophobic, 
+19 - D LEU 55 CG   VS F LEU 452 CD1 
+Distance: 4.110583 - Hydrophobic, 
+20 - D LEU 55 CD1  VS F LEU 452 CD1 
+Distance: 4.152164 - Hydrophobic, 
+21 - D LEU 55 CD2  VS F LEU 452 CD1 
+Distance: 3.979853 - Hydrophobic, 
+22 - D LEU 55 CD1  VS F PHE 490 CE2 
+Distance: 4.007163 - Hydrophobic, 
+23 - D LEU 55 CD1  VS F PHE 490 CZ  
+Distance: 3.701908 - Hydrophobic, 
+24 - D LEU 55 CD1  VS F LEU 492 CD1 
+Distance: 3.695606 - Hydrophobic, 
+25 - D ILE 57 CD1  VS F THR 470 CG2 
+Distance: 3.865671 - Hydrophobic, 
+26 - D ILE 57 CD1  VS F PHE 490 CE1 
+Distance: 3.667146 - Hydrophobic, 
+27 - D ILE 57 CD1  VS F PHE 490 CZ  
+Distance: 3.576734 - Hydrophobic, 
+28 - D ASN 59 ND2  VS F GLY 482 O   
+Distance: 3.405054 - Hydrogen Bonds, 
+29 - D ASN 59 CB   VS F VAL 483 CG2 
+Distance: 3.905002 - Hydrophobic, 
+30 - D TYR 101 CB   VS F GLU 484 CG  
+Distance: 4.336085 - Hydrophobic, 
+31 - D TYR 101 CG   VS F PHE 490 CG  
+Distance: 5.159281 - Aromatic Stacking, 
+32 - D TYR 101 CD1  VS F PHE 490 CB  
+Distance: 4.301910 - Hydrophobic, 
+33 - D TYR 101 CD1  VS F PHE 490 CG  
+Distance: 3.899206 - Hydrophobic, 
+34 - D TYR 101 CD1  VS F PHE 490 CD1 
+Distance: 4.474760 - Hydrophobic, 
+35 - D TYR 101 CD1  VS F PHE 490 CD2 
+Distance: 3.708858 - Hydrophobic, 
+36 - D TYR 101 CD1  VS F PHE 490 CE2 
+Distance: 4.118882 - Hydrophobic, 
+37 - D TYR 101 CE1  VS F PHE 490 CG  
+Distance: 4.386586 - Hydrophobic, 
+38 - D TYR 101 CE1  VS F PHE 490 CD2 
+Distance: 3.761229 - Hydrophobic, 
+39 - D TYR 101 CE1  VS F PHE 490 CE2 
+Distance: 3.801627 - Hydrophobic, 
+40 - D TYR 101 CE1  VS F PHE 490 CZ  
+Distance: 4.457952 - Hydrophobic, 
+41 - D GLU 102 CB   VS F GLN 493 CG  
+Distance: 4.410654 - Hydrophobic, 
+42 - D GLU 102 CG   VS F GLN 493 CG  
+Distance: 4.030998 - Hydrophobic, 
+43 - D GLU 102 OE1  VS F SER 494 OG  
+Distance: 3.730737 - Hydrogen Bonds, 
+44 - D GLU 102 OE2  VS F SER 494 N   
+Distance: 3.128035 - Hydrogen Bonds, 
+45 - D GLU 102 OE2  VS F SER 494 OG  
+Distance: 2.882200 - Hydrogen Bonds, 
+46 - D ALA 103 CB   VS F LEU 455 CD1 
+Distance: 3.808130 - Hydrophobic, 
+47 - D ALA 103 CB   VS F PHE 456 CE2 
+Distance: 4.471496 - Hydrophobic, 
+48 - D ALA 103 N    VS F GLN 493 OE1 
+Distance: 3.132484 - Hydrogen Bonds, 
+49 - D ARG 104 N    VS F GLN 493 OE1 
+Distance: 2.644164 - Hydrogen Bonds, 
+50 - D TYR 110 CD1  VS F GLU 484 CG  
+Distance: 3.970780 - Hydrophobic, 
+51 - D TYR 110 CE1  VS F GLU 484 CB  
+Distance: 4.149935 - Hydrophobic, 
+52 - D TYR 110 CE1  VS F GLU 484 CG  
+Distance: 3.578381 - Hydrophobic, 
+53 - D TYR 110 OH   VS F GLY 485 O   
+Distance: 3.373672 - Hydrogen Bonds, 
+54 - D TYR 110 OH   VS F CYS 488 O   
+Distance: 3.607377 - Hydrogen Bonds, 

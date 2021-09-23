@@ -1,0 +1,65 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             14-SEP-20   7K45             
+SARS-COV-2 SPIKE IN COMPLEX WITH THE S2E12 NEUTRALIZING ANTIBODY FAB FRAGMENT (LOCAL REFINEMENT OF THE RBD AND FAB VARIABLE DOMAINS):
+
+0 - H TRP 50 CZ3  VS B PHE 486 CD1 
+Distance: 4.241168 - Hydrophobic, 
+1 - H TRP 50 CZ3  VS B TYR 489 CE2 
+Distance: 4.451382 - Hydrophobic, 
+2 - H TRP 50 CH2  VS B TYR 489 CE2 
+Distance: 4.240571 - Hydrophobic, 
+3 - H VAL 52 CG1  VS B PHE 456 CZ  
+Distance: 4.231125 - Hydrophobic, 
+4 - H VAL 52 CB   VS B TYR 489 CD2 
+Distance: 4.471987 - Hydrophobic, 
+5 - H VAL 52 CB   VS B TYR 489 CE2 
+Distance: 4.152017 - Hydrophobic, 
+6 - H VAL 52 CG1  VS B TYR 489 CD2 
+Distance: 3.758976 - Hydrophobic, 
+7 - H VAL 52 CG1  VS B TYR 489 CE2 
+Distance: 3.526614 - Hydrophobic, 
+8 - H VAL 52 CG2  VS B TYR 489 CD2 
+Distance: 3.988886 - Hydrophobic, 
+9 - H VAL 52 CG2  VS B TYR 489 CE2 
+Distance: 3.549935 - Hydrophobic, 
+10 - H PRO 99 CB   VS B PHE 486 CZ  
+Distance: 4.036686 - Hydrophobic, 
+11 - H PRO 99 CG   VS B PHE 486 CE1 
+Distance: 4.114933 - Hydrophobic, 
+12 - H PRO 99 CG   VS B PHE 486 CZ  
+Distance: 3.992330 - Hydrophobic, 
+13 - H GLY 104 O    VS B TYR 473 OH  
+Distance: 2.851766 - Hydrogen Bonds, 
+14 - H CYS 106 N    VS B ALA 475 O   
+Distance: 2.890773 - Hydrogen Bonds, 
+15 - H CYS 106 CB   VS B ALA 475 CB  
+Distance: 4.156877 - Hydrophobic, 
+16 - H SER 107 O    VS B ASN 487 ND2 
+Distance: 2.932747 - Hydrogen Bonds, 
+17 - H ASP 108 OD1  VS B SER 477 N   
+Distance: 2.938168 - Hydrogen Bonds, 
+18 - H ASP 108 OD2  VS B SER 477 N   
+Distance: 3.635066 - Hydrogen Bonds, 
+19 - H ASP 108 OD1  VS B ASN 487 ND2 
+Distance: 3.823806 - Hydrogen Bonds, 
+20 - H PHE 110 CG   VS B PHE 486 CG  
+Distance: 4.694884 - Aromatic Stacking, 
+21 - H PHE 110 CD1  VS B PHE 486 CE1 
+Distance: 4.391760 - Hydrophobic, 
+22 - H PHE 110 CD1  VS B PHE 486 CZ  
+Distance: 4.306679 - Hydrophobic, 
+23 - H PHE 110 CE1  VS B PHE 486 CD1 
+Distance: 3.972349 - Hydrophobic, 
+24 - H PHE 110 CE1  VS B PHE 486 CE1 
+Distance: 3.592313 - Hydrophobic, 
+25 - H PHE 110 CE1  VS B PHE 486 CE2 
+Distance: 4.485857 - Hydrophobic, 
+26 - H PHE 110 CE1  VS B PHE 486 CZ  
+Distance: 3.879624 - Hydrophobic, 
+27 - H PHE 110 CE2  VS B PHE 486 CE1 
+Distance: 3.955041 - Hydrophobic, 
+28 - H PHE 110 CZ   VS B PHE 486 CD1 
+Distance: 3.778773 - Hydrophobic, 
+29 - H PHE 110 CZ   VS B PHE 486 CE1 
+Distance: 3.336564 - Hydrophobic, 
+30 - H PHE 110 CZ   VS B PHE 486 CZ  
+Distance: 4.001052 - Hydrophobic, 

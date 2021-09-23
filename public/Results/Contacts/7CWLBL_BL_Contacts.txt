@@ -1,0 +1,25 @@
+VIRAL PROTEIN                           29-AUG-20   7CWL             
+SARS-COV-2 SPIKE PROTEIN AND P17 FAB COMPLEX WITH ONE RBD IN CLOSE STATE:
+
+0 - B SER 375 O    VS L GLY 68 N   
+Distance: 3.580678 - Hydrogen Bonds, 
+1 - B SER 375 O    VS L THR 69 N   
+Distance: 2.677828 - Hydrogen Bonds, 
+2 - B SER 375 O    VS L THR 69 OG1 
+Distance: 3.569424 - Hydrogen Bonds, 
+3 - B SER 375 OG   VS L THR 69 OG1 
+Distance: 2.936041 - Hydrogen Bonds, 
+4 - B SER 375 O    VS L ASP 70 N   
+Distance: 3.798990 - Hydrogen Bonds, 
+5 - B SER 375 OG   VS L ASP 70 N   
+Distance: 3.661505 - Hydrogen Bonds, 
+6 - B THR 376 N    VS L SER 67 O   
+Distance: 3.854438 - Hydrogen Bonds, 
+7 - B THR 376 OG1  VS L SER 67 O   
+Distance: 3.460609 - Hydrogen Bonds, 
+8 - B PHE 377 O    VS L SER 67 OG  
+Distance: 3.570468 - Hydrogen Bonds, 
+9 - B ARG 408 CB   VS L THR 72 CG2 
+Distance: 4.337413 - Hydrophobic, 
+10 - B TYR 508 OH   VS L ARG 24 NH1 
+Distance: 3.531919 - Hydrogen Bonds, 

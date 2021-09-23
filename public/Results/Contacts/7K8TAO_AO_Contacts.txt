@@ -1,0 +1,41 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             27-SEP-20   7K8T             
+STRUCTURE OF THE SARS-COV-2 S 6P TRIMER IN COMPLEX WITH THE HUMANNEUTRALIZING ANTIBODY FAB FRAGMENT, C002 (STATE 2):
+
+0 - A TYR 449 CD1  VS O VAL 2 CG2 
+Distance: 4.385538 - Hydrophobic, 
+1 - A TYR 449 CE1  VS O VAL 2 CG2 
+Distance: 4.236702 - Hydrophobic, 
+2 - A TYR 449 CB   VS O PHE 27 CB  
+Distance: 4.187013 - Hydrophobic, 
+3 - A TYR 449 CD1  VS O PHE 27 CB  
+Distance: 4.128859 - Hydrophobic, 
+4 - A LEU 452 CD1  VS O ILE 31 CG1 
+Distance: 4.324883 - Hydrophobic, 
+5 - A LEU 452 CD1  VS O ILE 31 CG2 
+Distance: 3.989629 - Hydrophobic, 
+6 - A TYR 473 OH   VS O ASN 56 OD1 
+Distance: 2.935960 - Hydrogen Bonds, 
+7 - A CYS 480 O    VS O TYR 58 OH  
+Distance: 3.698194 - Hydrogen Bonds, 
+8 - A ASN 481 OD1  VS O ASN 56 ND2 
+Distance: 3.063721 - Hydrogen Bonds, 
+9 - A ASN 481 O    VS O TYR 58 OH  
+Distance: 3.814283 - Hydrogen Bonds, 
+10 - A ASN 481 CB   VS O TYR 58 CE2 
+Distance: 4.480073 - Hydrophobic, 
+11 - A ASN 481 OD1  VS O TYR 58 OH  
+Distance: 3.495875 - Hydrogen Bonds, 
+12 - A PHE 490 CE2  VS O ILE 31 CG2 
+Distance: 3.401760 - Hydrophobic, 
+13 - A PHE 490 CZ   VS O ILE 31 CG2 
+Distance: 3.787198 - Hydrophobic, 
+14 - A LEU 492 O    VS O ARG 97 NH2 
+Distance: 3.441722 - Hydrogen Bonds, 
+15 - A GLN 493 CG   VS O ARG 97 CG  
+Distance: 3.594237 - Hydrophobic, 
+16 - A GLN 493 NE2  VS O ARG 97 O   
+Distance: 3.284368 - Hydrogen Bonds, 
+17 - A GLN 493 NE2  VS O PRO 98 O   
+Distance: 3.869229 - Hydrogen Bonds, 
+18 - A TYR 505 OH   VS O ASP 100 OD1 
+Distance: 3.679752 - Hydrogen Bonds, 

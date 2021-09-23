@@ -1,0 +1,17 @@
+VIRAL PROTEIN/IMMUNE SYSTEM             10-DEC-20   7KZB             
+POTENT SARS-COV-2 BINDING AND NEUTRALIZATION THROUGH MATURATION OF ICONIC SARS-COV-1ANTIBODIES:
+
+0 - C PHE 486 CG   VS A TRP 33 CG  
+Distance: 5.407185 - Aromatic Stacking, 
+1 - C PHE 486 CE1  VS A TRP 33 CD2 
+Distance: 4.499755 - Hydrophobic, 
+2 - C PHE 486 CZ   VS A TRP 33 CD2 
+Distance: 4.346065 - Hydrophobic, 
+3 - C PHE 486 CZ   VS A TRP 33 CZ2 
+Distance: 4.403191 - Hydrophobic, 
+4 - C PHE 486 N    VS A ILE 102 O   
+Distance: 3.677844 - Hydrogen Bonds, 
+5 - C PHE 486 CE2  VS A PRO 105 CB  
+Distance: 4.437906 - Hydrophobic, 
+6 - C PHE 486 CZ   VS A PRO 105 CB  
+Distance: 4.301110 - Hydrophobic, 

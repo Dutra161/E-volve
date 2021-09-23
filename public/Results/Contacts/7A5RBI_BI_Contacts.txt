@@ -1,0 +1,65 @@
+VIRAL PROTEIN                           21-AUG-20   7A5R             
+COMPLEX OF SARS-COV-2 SPIKE AND CR3022 FAB (NON-UNIFORM REFINEMENT):
+
+0 - B TYR 369 CG   VS I TYR 27 CG  
+Distance: 5.931826 - Aromatic Stacking, 
+1 - B TYR 369 CE2  VS I TYR 27 CD1 
+Distance: 3.871070 - Hydrophobic, 
+2 - B TYR 369 CE2  VS I TYR 27 CE1 
+Distance: 4.230851 - Hydrophobic, 
+3 - B ASN 370 CB   VS I ILE 30 CD1 
+Distance: 4.170420 - Hydrophobic, 
+4 - B THR 376 CG2  VS I TYR 52 CE1 
+Distance: 4.438108 - Hydrophobic, 
+5 - B PHE 377 CB   VS I ILE 30 CG2 
+Distance: 4.271321 - Hydrophobic, 
+6 - B PHE 377 O    VS I THR 31 OG1 
+Distance: 2.813559 - Hydrogen Bonds, 
+7 - B PHE 377 N    VS I TYR 52 OH  
+Distance: 3.143027 - Hydrogen Bonds, 
+8 - B PHE 377 O    VS I TYR 52 OH  
+Distance: 3.041523 - Hydrogen Bonds, 
+9 - B LYS 378 O    VS I THR 31 OG1 
+Distance: 3.461441 - Hydrogen Bonds, 
+10 - B LYS 378 O    VS I TRP 33 NE1 
+Distance: 3.704564 - Hydrogen Bonds, 
+11 - B LYS 378 CD   VS I TRP 33 CZ2 
+Distance: 4.432686 - Hydrophobic, 
+12 - B LYS 378 CG   VS I TYR 52 CE1 
+Distance: 4.205022 - Hydrophobic, 
+13 - B LYS 378 NZ   VS I ASP 55 OD1 
+Distance: 3.907120 - Attractive, 
+14 - B LYS 378 NZ   VS I GLU 57 OE1 
+Distance: 5.903814 - Attractive, 
+15 - B TYR 380 CD1  VS I ILE 102 CB  
+Distance: 4.245597 - Hydrophobic, 
+16 - B TYR 380 CD1  VS I ILE 102 CG2 
+Distance: 4.332509 - Hydrophobic, 
+17 - B GLY 381 N    VS I ILE 102 O   
+Distance: 2.967583 - Hydrogen Bonds, 
+18 - B SER 383 OG   VS I THR 104 OG1 
+Distance: 2.981379 - Hydrogen Bonds, 
+19 - B PRO 384 CG   VS I THR 31 CG2 
+Distance: 4.077843 - Hydrophobic, 
+20 - B THR 385 OG1  VS I TYR 32 OH  
+Distance: 3.887787 - Hydrogen Bonds, 
+21 - B THR 385 OG1  VS I SER 100 OG  
+Distance: 3.707604 - Hydrogen Bonds, 
+22 - B LYS 386 NZ   VS I ASP 107 OD1 
+Distance: 4.975531 - Attractive, 
+23 - B LYS 386 NZ   VS I ASP 107 OD2 
+Distance: 5.894866 - Attractive, 
+24 - B ARG 408 NE   VS I ASP 55 OD1 
+Distance: 4.441884 - Attractive, 
+25 - B ARG 408 NE   VS I ASP 55 OD2 
+Distance: 3.954456 - Attractive, 
+26 - B ARG 408 CZ   VS I ASP 55 OD1 
+Distance: 5.375129 - Attractive, 
+27 - B ARG 408 CZ   VS I ASP 55 OD2 
+Distance: 4.383565 - Attractive, 
+28 - B ARG 408 NH1  VS I ASP 55 OD2 
+Distance: 5.259140 - Attractive, 
+29 - B ARG 408 NH2  VS I ASP 55 OD1 
+Distance: 5.646084 - Attractive, 
+30 - B ARG 408 NH2  VS I ASP 55 OD2 
+Distance: 4.430719 - Attractive, 
