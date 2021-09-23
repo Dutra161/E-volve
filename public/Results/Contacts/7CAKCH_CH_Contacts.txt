@@ -1,9 +1,0 @@
-VIRAL PROTEIN                           08-JUN-20   7CAK             
-SARS-COV-2 S TRIMER WITH THREE RBD IN THE OPEN STATE AND COMPLEXED WITH THREE H014 FAB:
-
-0 - C SER 375 O    VS H PHE 92 N   
-Distance: 3.641409 - Hydrogen Bonds, 
-1 - C SER 375 O    VS H TRP 93 N   
-Distance: 2.562092 - Hydrogen Bonds, 
-2 - C TYR 508 OH   VS H ASN 91 ND2 
-Distance: 3.185713 - Hydrogen Bonds, 

@@ -1,7 +1,0 @@
-VIRAL PROTEIN                           24-APR-20   7BYR             
-BD23-FAB IN COMPLEX WITH THE S ECTODOMAIN TRIMER:
-
-0 - B PHE 486 CG   VS L TYR 49 CG  
-Distance: 5.826914 - Aromatic Stacking, 
-1 - B PHE 486 CE1  VS L TYR 49 CE1 
-Distance: 4.401507 - Hydrophobic, 

@@ -1,9 +1,0 @@
-IMMUNE SYSTEM                           12-JAN-21   7LD1             
-STRUCTURE OF SARS-COV-2 S PROTEIN IN COMPLEX WITH RECEPTOR BINDING DOMAIN ANTIBODY DH1047:
-
-0 - B VAL 503 CB   VS L LEU 119 CB  
-Distance: 3.871038 - Hydrophobic, 
-1 - B VAL 503 CB   VS L LEU 119 CD1 
-Distance: 4.383020 - Hydrophobic, 
-2 - B VAL 503 CB   VS L PRO 120 CG  
-Distance: 4.340104 - Hydrophobic, 
