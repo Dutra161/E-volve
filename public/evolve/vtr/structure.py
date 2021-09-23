@@ -177,140 +177,140 @@ class Sequence:
         return feedback
 
 
-# class Alignment:
-#     def __init__(self,sequences = []):
+class Alignment:
+    def __init__(self,sequences = []):
 
-#         self.sequences = []
-#         for sequence in sequences[0:2]:
+        self.sequences = []
+        for sequence in sequences[0:2]:
             
-#             if type(sequence) is Sequence:
-#                 self.sequences.append(sequence)
+            if type(sequence) is Sequence:
+                self.sequences.append(sequence)
 
-#             elif type(sequence) is str:
-#                 if os.path.exists(sequence):
-#                     self.sequences.append(Sequence(sequence))
+            elif type(sequence) is str:
+                if os.path.exists(sequence):
+                    self.sequences.append(Sequence(sequence))
 
-#     def build(self,folder,output):
-#         if self.sequences[0].sequence.keys() != self.sequences[0].sequence.keys():
-#             return 'Cannot build .ali in different chains'
+    def build(self,folder,output):
+        if self.sequences[0].sequence.keys() != self.sequences[0].sequence.keys():
+            return 'Cannot build .ali in different chains'
 
-#         export0 = '>P1;'+self.sequences[0].idPDB+'\n'
-#         export0 += 'structure:'+self.sequences[0].idPDB+':.:.:.:.::::\n'
-#         export1 = '>P1;'+self.sequences[1].idPDB+'\n'
-#         export1 += 'sequence:'+self.sequences[1].idPDB+':.:.:.:.::::\n'
+        export0 = '>P1;'+self.sequences[0].idPDB+'\n'
+        export0 += 'structure:'+self.sequences[0].idPDB+':.:.:.:.::::\n'
+        export1 = '>P1;'+self.sequences[1].idPDB+'\n'
+        export1 += 'sequence:'+self.sequences[1].idPDB+':.:.:.:.::::\n'
 
-#         for chain in self.sequences[0].sequence:
-#             for res in self.sequences[0].sequence[chain]:
+        for chain in self.sequences[0].sequence:
+            for res in self.sequences[0].sequence[chain]:
 
-#                 target0 = self.sequences[0].sequence[chain][res]
+                target0 = self.sequences[0].sequence[chain][res]
 
-#                 target1 = self.sequences[1].sequence[chain][res]
+                target1 = self.sequences[1].sequence[chain][res]
 
-#                 if target0 == target1 or target0 == '-' or target1 == '-':
-#                     export0 += target0
-#                     export1 += target1
+                if target0 == target1 or target0 == '-' or target1 == '-':
+                    export0 += target0
+                    export1 += target1
                 
-#                 else:
-#                     export0 += target0 + '-'
-#                     export1 += '-' + target1
+                else:
+                    export0 += target0 + '-'
+                    export1 += '-' + target1
 
-#             export0+='/'
-#             export1+='/'
+            export0+='/'
+            export1+='/'
         
         
-#         with open(output,'w') as wrt:
-#             wrt.write(export0[:-1]+'*\n')
-#             wrt.write(export1[:-1]+'*\n')
+        with open(output,'w') as wrt:
+            wrt.write(export0[:-1]+'*\n')
+            wrt.write(export1[:-1]+'*\n')
         
-#         self.ali = output
+        self.ali = output
         
-#         clear = []
-#         with open(self.sequences[0].file,'r') as reader:
-#             lines = reader.readlines()
+        clear = []
+        with open(self.sequences[0].file,'r') as reader:
+            lines = reader.readlines()
 
-#             for line in lines:
-#                 if line[0:4] == 'ATOM':
-#                     if line[26] == ' ':
-#                         clear.append(line)
-#                 else:
-#                     clear.append(line)
+            for line in lines:
+                if line[0:4] == 'ATOM':
+                    if line[26] == ' ':
+                        clear.append(line)
+                else:
+                    clear.append(line)
         
-#         with open(self.sequences[0].file[:-4]+'.pdb','w') as wrt:
-#             wrt.writelines(clear)
+        with open(self.sequences[0].file[:-4]+'.pdb','w') as wrt:
+            wrt.writelines(clear)
 
 
-#         chains = list(self.sequences[0].sequence.keys())
-#         renum = [str(list(self.sequences[0].sequence[e].keys())[0]) for e in chains]
-#         self.par = output[:output.rfind('.')] + '.par'
-#         with open(self.par, 'w') as wrt:
-#             wrt.write(self.ali+'\n')
-#             wrt.write(self.sequences[0].idPDB+'\n')
-#             wrt.write(self.sequences[1].idPDB+'\n')
+        chains = list(self.sequences[0].sequence.keys())
+        renum = [str(list(self.sequences[0].sequence[e].keys())[0]) for e in chains]
+        self.par = output[:output.rfind('.')] + '.par'
+        with open(self.par, 'w') as wrt:
+            wrt.write(self.ali+'\n')
+            wrt.write(self.sequences[0].idPDB+'\n')
+            wrt.write(self.sequences[1].idPDB+'\n')
 
-#             wrt.write(','.join(chains)+'\n')
-#             wrt.write(','.join(renum)+'\n')
-#             wrt.write(folder + '\n')
+            wrt.write(','.join(chains)+'\n')
+            wrt.write(','.join(renum)+'\n')
+            wrt.write(folder + '\n')
 
     
-    # def model(self, output):
-    #     modeling(self.par)
+    def model(self, output):
+        modeling(self.par)
 
 
-    #     name = self.sequences[1].idPDB
-    #     if os.path.exists(output+'temp'):
-    #         os.remove(output+'temp')
-    #     os.rename(name+'.B99990001.pdb',output+'temp')
+        name = self.sequences[1].idPDB
+        if os.path.exists(output+'temp'):
+            os.remove(output+'temp')
+        os.rename(name+'.B99990001.pdb',output+'temp')
 
-    #     os.remove(name+'.D00000001')
-    #     os.remove(name+'.ini')
-    #     os.remove(name+'.sch')
-    #     os.remove(name+'.rsr')
-    #     os.remove(name+'.V99990001')
+        os.remove(name+'.D00000001')
+        os.remove(name+'.ini')
+        os.remove(name+'.sch')
+        os.remove(name+'.rsr')
+        os.remove(name+'.V99990001')
 
         
-    #     header = []
-    #     footer = []
-    #     before = True
-    #     with open(output+'temp','r') as reader:
-    #         lines = reader.readlines()
-    #         data = {}
-    #         for line in lines:
-    #             if line[0:4] == 'ATOM':
-    #                 before = False
-    #                 chain = line[21]
-    #                 if chain not in data.keys():
-    #                     data[chain] = {}
+        header = []
+        footer = []
+        before = True
+        with open(output+'temp','r') as reader:
+            lines = reader.readlines()
+            data = {}
+            for line in lines:
+                if line[0:4] == 'ATOM':
+                    before = False
+                    chain = line[21]
+                    if chain not in data.keys():
+                        data[chain] = {}
 
-    #                 resi = line[17:20] + '-' + line[22:26].strip()
-    #                 if resi not in data[chain].keys():
-    #                     data[chain][resi] = [line]
-    #                 else:
-    #                     data[chain][resi].append(line)
-    #             elif before:
-    #                 header.append(line)
-    #             else:
-    #                 footer.append(line)
+                    resi = line[17:20] + '-' + line[22:26].strip()
+                    if resi not in data[chain].keys():
+                        data[chain][resi] = [line]
+                    else:
+                        data[chain][resi].append(line)
+                elif before:
+                    header.append(line)
+                else:
+                    footer.append(line)
                 
-    #     backup = {}
-    #     for chain in self.sequences[1].sequence:
-    #         backup[chain] = {}
-    #         for res in self.sequences[1].sequence[chain]:
-    #             if self.sequences[1].sequence[chain][res] != '-':
-    #                 backup[chain][res] = self.sequences[1].sequence[chain][res]
+        backup = {}
+        for chain in self.sequences[1].sequence:
+            backup[chain] = {}
+            for res in self.sequences[1].sequence[chain]:
+                if self.sequences[1].sequence[chain][res] != '-':
+                    backup[chain][res] = self.sequences[1].sequence[chain][res]
                 
-    #     for chain in backup:
-    #         for res,residue in zip(backup[chain].keys(),data[chain].keys()):
-    #             for line in range(len(data[chain][residue])):
-    #                 data[chain][residue][line] = data[chain][residue][line][:22] + \
-    #                     ''.join([' ' for i in range(0,4-len(str(res)))])+str(res)+\
-    #                         data[chain][residue][line][26:]
+        for chain in backup:
+            for res,residue in zip(backup[chain].keys(),data[chain].keys()):
+                for line in range(len(data[chain][residue])):
+                    data[chain][residue][line] = data[chain][residue][line][:22] + \
+                        ''.join([' ' for i in range(0,4-len(str(res)))])+str(res)+\
+                            data[chain][residue][line][26:]
         
-    #     with open(output,'w') as wrt:
+        with open(output,'w') as wrt:
 
-    #         wrt.writelines(header)
-    #         for chain in data:
-    #             for residue in data[chain]:
-    #                 wrt.writelines(data[chain][residue])
-    #         wrt.writelines(footer)
+            wrt.writelines(header)
+            for chain in data:
+                for residue in data[chain]:
+                    wrt.writelines(data[chain][residue])
+            wrt.writelines(footer)
 
-    #     return 0
+        return 0
